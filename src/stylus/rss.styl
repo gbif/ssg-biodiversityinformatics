@@ -1,0 +1,76 @@
+//RSS
+$rssFeedBg = #adc2c1
+$rssFeedBgHover = darken($rssFeedBg, 20%)
+$rssFeedColor = #555
+$rssFeedColorHeadline = #444
+$rssFeedColorDate = #666
+
+.Site__contentArea.article .rssFeed {
+	margin 0
+	margin-bottom vr-block(1)
+	article {
+		background-color $rssFeedBg
+		padding vr-block(1)
+		margin vr-block(0.5) 0
+		color $rssFeedColor
+		transition background-color 300ms ease
+		&:hover {
+			background-color $rssFeedBgHover
+		}
+		h3 {
+			font-size 1.2em
+			padding-bottom 1em
+			color $rssFeedColorHeadline
+			font-weight 500
+		}
+		p {
+			color $rssFeedColor
+			font-size 0.95em
+		}
+		span {
+			display block
+			text-align right
+			font-size 0.8em
+			padding-top 1em
+			color $rssFeedColorDate
+		}
+	}
+}
+
+.home.article {
+	.block:nth-of-type(3) {
+		background none
+		border none
+		.block-content {
+			margin 0
+			h2 {
+				margin-top vr-block(1)
+				margin-left $articleMarginSmall
+			}
+		}
+	}
+}
+
++isAbove($laptop) {
+	.Site__contentArea.article .rssFeed {
+		display flex
+		flex-wrap wrap
+		justify-content space-around
+		margin -(vr-block(0.25))
+		margin-bottom vr-block(1)
+		article {
+			flex 1 1 300px
+			margin vr-block(0.25)
+		}
+	}
+	/*.home.article {*/
+		/*.block:nth-of-type(3) {*/
+			/*.block-content {*/
+				/*h2 {*/
+					/*margin-left $articleMarginLarge*/
+				/*}*/
+			/*}*/
+		/*}*/
+	/*}*/
+}
+

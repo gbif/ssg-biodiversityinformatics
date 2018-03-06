@@ -1,0 +1,77 @@
+//.SiteHeader {
+//	.SiteHeader__mobileOptions .navbar_action>a>span {
+//		$text-shadow 0px 1px 1px $Terracotta
+//	}
+//}
+//Order mega menu in two columns
++isAbove($laptop) {
+	.SiteNav > div > ul > li.isCategory.isMega > ul > li {
+		lost-column 1 / 2
+	}
+	//.SiteNav {
+	//	>div>ul>li>a,  >div>a>span {
+	//		text-shadow 0px 1px 1px $Terracotta
+	//	}
+	//}
+}
+
+.Site__contentArea.article article{
+	background #eee
+
+	.block-content {
+		background #fff
+		padding vr-block(1) vr-block(1)
+		margin vr-block(1) auto
+	}
+	.block-first {
+		background none
+		h1 {
+			/*margin 0*/
+			/*padding vr-block(.5)*/
+			//text-shadow 0px 0px 3px rgba(0,0,0,0.4)
+		}
+		.block-content {
+			background-color $articleHeader_bg
+			margin 0 auto
+			padding-bottom 0
+		}
+		+.block>.block-content {
+			margin 0 auto
+		}
+	}
+}
+
++isAbove($laptop) {
+	.Site__contentArea.article article{
+		.block-first {
+			h1 {
+				//padding vr-block(1.5)
+			}
+		}
+		.block-content {
+			//padding vr-block(1) vr-block(2)
+		}
+	}
+}
+
+
+.SiteHeader__mobileOptions {
+	.home {
+		&:before {
+			padding-right 13px
+		}
+	}
+}
+
+/*.article.faq {*/
+	/*h3 {*/
+		/*font-weight 800*/
+		/*font-size 1rem*/
+	/*}*/
+/*}*/
+
+/*.Search__results {*/
+	/*h2 {*/
+		/*font-size 1.2em*/
+	/*}*/
+/*}*/

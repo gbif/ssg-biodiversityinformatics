@@ -1,0 +1,7 @@
+<div class="actions">
+    {% for action in actions %}
+    <div class="action">
+        <a href="{{action.url}}" title="{{action.description}}">{{action.title}}</a>
+    </div>
+    {% endfor %}
+</div>

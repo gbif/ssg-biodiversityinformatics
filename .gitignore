@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+bower_components
+
+.DS_Store
+.idea
+
+# builds
+iconfont
+dist
+.tmp

@@ -1,0 +1,65 @@
+@import "iconfont/gb_iconfont"
+
+//vars
+//Custom colors
+$Straw = #D4BB7E
+$Clay = #D6AD61
+
+
+@import "variables_overwrite"
+
+// @import "../../../ssg/src/stylus" //usefull for testing
+@import "../../node_modules/gbif-ssg/src/stylus"
+
+
+//@import "main"
+@import "rss"
+@import "signup"
+@import "eu"
+@import "actions"
+
+
+
+//.SiteHeader {
+//	.SiteHeader__mobileOptions .navbar_action>a>span {
+//		text-shadow 0px 1px 1px darken(#D6AD61, 10%)
+//	}
+//}
+
+.gb-icon-siteLogo:before {
+	padding-right 13px
+}
+.gb-icon-home:before {
+	background-image: url('https://api.gbif.org/v1/image/unsafe/100x100/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F2yFRdQgDUAyy8gwgO6wIaK%2Fb82951194fdc5a9290a713db8b25379e%2FGBIO-mark.png')
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: left;
+	content '' !important;
+	display: inline-block;
+	width: 3rem
+	height: 3rem;
+	position: relative;
+	top 8px;
+}
+
++isAbove($laptop) {
+	.SiteNav > div > ul > li.isCategory.isMega > ul > li {
+		lost-column 1 / 2
+	}
+	.SiteNav {
+		//>div>ul>li>a,  >div>a>span {
+		//	text-shadow 0px 1px 1px darken(#D6AD61, 10%)
+		//}
+		.MainMenu__siteName {
+			font-size vr-block(1)
+		}
+	}
+	.article {
+		.block {
+			border 1px solid #eaeaea
+		}
+			.block-first {
+				border-top none
+			}
+	}
+}

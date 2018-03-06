@@ -1,0 +1,22 @@
+{
+  "name": "bid",
+  "version": "1.0.0",
+  "description": "An information site about the BID project - funded by EU",
+  "repository": "gbif/ssg-bid",
+  "main": "gulpfile.js",
+  "scripts": {
+    "install": "node_modules/bower/bin/bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gbif",
+    "bid"
+  ],
+  "author": "gbif <info@gbif.org>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bower": "1.7.7",
+    "gbif-ssg": "gbif/ssg.git#b6b55d8ed08c3f2609d3687013dd83f2ff372f2a",
+    "gulp": "3.9.0"
+  }
+}
