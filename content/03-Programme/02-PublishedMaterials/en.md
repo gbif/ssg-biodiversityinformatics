@@ -1,5 +1,5 @@
 ---
-title: PublishedMaterials
+title: Published Materials
 description: Issues for discussion during GBIC2 Published Materials breakout
 image: HexadactiliaOCR.png
 imageTitle: Optical character recognition for 1910 entomological publication (https://biodiversitylibrary.org/page/14720330)
