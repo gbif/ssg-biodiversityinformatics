@@ -20,7 +20,7 @@ reputation and recognition systems to empower and reward professionals and
 knowledgeable amateurs to contribute to the curation and improvement of digital
 biodiversity information. This component area involves mostly sociological aspects of
 integration and change, bringing together skills from a different set of contributors.
-+ Published materials (Data): addressing the challenges of offering digital access to
++ [Published materials](./publishedmaterials/) (Data): addressing the challenges of offering digital access to
 centuries of information gathered and stored in non-digital formats, including
 transformation of this information into structured data for synthesis with existing
 digital resources. This component area involves a diverse stakeholders with
