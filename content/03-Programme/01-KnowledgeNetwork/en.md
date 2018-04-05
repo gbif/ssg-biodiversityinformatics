@@ -1,8 +1,8 @@
 ---
 title: Biodiversity Knowledge Network
 description: Issues for discussion during GBIC2 Biodiversity Knowledge Network breakout
-image: /images/HexadactiliaOCR.png
-imageTitle: Optical character recognition for 1910 entomological publication (https://biodiversitylibrary.org/page/14720330)
+image: /images/CoLGSDs.png
+imageTitle: Global Species Databases in the Catalogue of Life (http://www.catalogueoflife.org/col/info/databases)
 
 ---
 # Biodiversity Knowledge Network
