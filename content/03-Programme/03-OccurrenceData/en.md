@@ -11,23 +11,11 @@ _Making accessible all data about when and where any given named organism has be
 
 The Global Biodiversity Informatics Outlook provided the following summary:
 
-> Documenting the distribution of species in time and space may be viewed as the ‘weather observations’ of biodiversity: the
-fundamental underpinning for any accurate model of existing patterns and trends. All of the data sources outlined in focus area
-B (Data) will contribute species occurrence records in some form or another, but the key elements of every record need to be brought
-together in a more readily accessible and usable form to enable efficient discovery and use.
-
-> Many national, regional and thematic efforts such as the Ocean Biogeographic Information System (OBIS) and VertNet are
-already mobilizing significant quantities of data on specimens and biodiversity observations. Mature data standards such as
-Darwin Core and the Access to Biological Collection Data (ABCD) schema have enabled GBIF to index and organize data from
-thousands of such sources. The GBIF data portal already offers access to more than 400 million species occurrence records.
-
-> In the short term, national, regional and thematic networks that already handle occurrence data should work to link their data to
-global networks. Global activities such as GBIF should enhance their processes to improve understanding and fitness-for-use of all
-mobilized data, to provide support for data on species abundance and sampling events, and to ensure that all contributors receive
-appropriate acknowledgement and feedback for their work. In the medium term, additional sources of data on species occurrence,
-including published materials (B1), sequences and genomes (B4) and automated and remote-sensed observations (B5),
-should also be integrated. In the long term, globally-connected networks should continuously and automatically process all new
-observations and samples of biodiversity.
+> Documenting the distribution of species in time and space may be viewed as the ‘weather observations’ of biodiversity: the fundamental underpinning for any accurate model of existing patterns and trends. All of the data sources outlined in focus area B (Data) will contribute species occurrence records in some form or another, but the key elements of every record need to be brought together in a more readily accessible and usable form to enable efficient discovery and use.
+>
+> Many national, regional and thematic efforts such as the Ocean Biogeographic Information System (OBIS) and VertNet are already mobilizing significant quantities of data on specimens and biodiversity observations. Mature data standards such as Darwin Core and the Access to Biological Collection Data (ABCD) schema have enabled GBIF to index and organize data from thousands of such sources. The GBIF data portal already offers access to more than 400 million species occurrence records.
+>
+> In the short term, national, regional and thematic networks that already handle occurrence data should work to link their data to global networks. Global activities such as GBIF should enhance their processes to improve understanding and fitness-for-use of all mobilized data, to provide support for data on species abundance and sampling events, and to ensure that all contributors receive appropriate acknowledgement and feedback for their work. In the medium term, additional sources of data on species occurrence, including published materials (B1), sequences and genomes (B4) and automated and remote-sensed observations (B5), should also be integrated. In the long term, globally-connected networks should continuously and automatically process all new observations and samples of biodiversity.
 
 Since GBIC in 2012, multiple infrastructures have continued to develop as aggregators of specimen data and of all categories of evidence for species occurrence.  GBIF now holds around one billion data records and is positioned to scale significantly further. OBIS and VertNet remain highly significant networks focused on high-quality data mobilisation in their respective areas. National initiatives such as the Atlas of Living Australia (now being replicated as a series of Living Atlases in other countries) and iDigBio in the US are organising species occurrence data at national or regional scale and augmenting these records with relevant national taxonomic or trait information and geospatial and environmental layers. On a smaller scale, project communities use tools such as Symbiota to aggregate data from multiple institutions to address particular research questions.
 
