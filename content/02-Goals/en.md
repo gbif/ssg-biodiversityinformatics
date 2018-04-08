@@ -13,11 +13,11 @@ It is not the aim of GBIC2, or of any mechanism arising following the workshop, 
 
 The primary goal for GBIC2 is to explore and evaluate possible models for a transparent and trusted international collaboration mechanism that will enable this community to coordinate its efforts and investments around shared delivery of a truly interoperable knowledgebase encompassing all sources of knowledge related to the world's biodiversity. The workshop aims to develop a working proposal for a governance model and a set of processes and support services which will allow researchers and institutions from all countries and regions to cooperate both in developing agreed priorities and in implementing these priorities.
 
-A secondary goal is to use [four of the GBIO component areas](./programme#areas)
+A secondary goal is to use [four of the GBIO component areas](./programme#areas) to explore in more detail the type of challenges to be expected once such a mechanism is operational. Parallel working sessions will attempt to identify a set of candidate priorities for the associated component area. This will be an opportunity to understand some of the impediments which will need to be addressed by the collaboration mechanism. The latter portions of the GBIC2 workshop will consider possible refinements to governance or consultatory processes to address such issues.  
 
 More specifically, GBIC2 aims to:
 + Develop the attendees’ consensus vision for how a global-scale coordination mechanism for biodiversity informatics planning should work, including its scope, governance and required resources
 + Prepare and publish a white paper communicating this vision to scientific and policy audiences
 + Agree on next steps for soliciting input from non-attendees, in particular from non-anglophone groups, and for preparing to seek funding required to establish the mechanism
-+ Explore in a workshop situation how to structure and document decadal roadmaps for international collaborative implementation of biodiversity informatics components
++ Explore in a workshop situation how to structure and document decadal roadmaps for international collaborative implementation of biodiversity informatics component areas
 + Offer draft exemplar roadmaps from these workshops to provide a concrete perspective on expected outputs
