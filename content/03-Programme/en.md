@@ -8,7 +8,7 @@ imageLink: http://via.placeholder.com
 ---
 # Programme
 
-_Workshop components_
+## <a name="areas"></a>Workshop components
 
 GBIC2 will include in-depth explorations of one key component from each of
 the four layers identified in the GBIO framework. Focusing on the following components will
