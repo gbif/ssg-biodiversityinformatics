@@ -2,8 +2,8 @@
 title: Home
 style: home article
 description: "GBIC2, the 2nd Global Biodiversity Information Conference: delivering biodiversity knowledge in the information age."
-image: http://via.placeholder.com/1500x600
-imageTitle: Placeholder image description
+image: /images/MacropusRobustus.jpg
+imageTitle: _Macropus robustus_ Gould, 1841, subspecies _erubescens_, Euro, Denham, WA, Australia, 10 January 2018 (CC BY dhobern)
 
 ---
 GBIC2: the 2nd Global Biodiversity Information Conference
