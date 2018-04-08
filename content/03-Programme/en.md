@@ -1,9 +1,9 @@
 ---
 title: Programme
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-image: http://via.placeholder.com/1500x600
-imageTitle: Placeholder image description
-imageLink: http://via.placeholder.com
+description: Overview of structure of GBIC2 programme
+image: /images/Grass.jpg
+imageTitle: 
+imageLink: https://pxhere.com/en/photo/744248
 
 ---
 # Programme
