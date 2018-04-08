@@ -1,11 +1,12 @@
 ---
-title: Goals for GBIC2
+title: Scope & Goals
 description: What do attendees hope to achieve in this meeting?
-image: http://via.placeholder.com/1500x600
-imageTitle: Group photo of attendees at GBIC, 2-4 July 2012, Copenhagen. Photo by Ciprian-Marius Vizitiu.
+image: /images/HirundoRustica.jpg
+imageTitle: _Hirundo rustica_ (Linnaeus, 1758) - https://pxhere.com/en/photo/1063819.
 
 ---
-# Goals for GBIC2
+# Scope and Goals for GBIC2
+
 
 + Develop the attendees’ consensus vision for how a global-scale coordination mechanism for biodiversity informatics planning should work, including its scope, governance and required resources
 + Prepare and publish a white paper communicating this vision to scientific and policy audiences
