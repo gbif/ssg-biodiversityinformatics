@@ -9,7 +9,7 @@ imageTitle: Global Biodiversity Informatics Outlook
 
 _Delivering biodiversity knowledge in the information age_
 
-[!<img align="right" hspace="20" src="/images/GBIO-cover-thumb.jpg">](https://assets.ctfassets.net/uo17ejk9rkwj/7Kj8EyXDwW2IUWKk2WYOaE/85947f585b9c6255c9b72b9325ba44b6/GBIO.pdf) The [Global Biodiversity Informatics Outlook](https://www.gbif.org/document/80859), or GBIO, helps to focus effort and investment towards better understanding of life on Earth and our impacts upon it. It proposes a framework that will help harness the immense power of information technology and an open data culture, to gather unprecedented evidence about biodiversity and to inform better decisions.
+[<img align="right" hspace="15" vspace="15" src="/images/GBIO-cover-thumb.jpg">](https://assets.ctfassets.net/uo17ejk9rkwj/7Kj8EyXDwW2IUWKk2WYOaE/85947f585b9c6255c9b72b9325ba44b6/GBIO.pdf)The [Global Biodiversity Informatics Outlook](https://www.gbif.org/document/80859), or GBIO, helps to focus effort and investment towards better understanding of life on Earth and our impacts upon it. It proposes a framework that will help harness the immense power of information technology and an open data culture, to gather unprecedented evidence about biodiversity and to inform better decisions.
 
 [**Download the GBIO**](https://assets.ctfassets.net/uo17ejk9rkwj/7Kj8EyXDwW2IUWKk2WYOaE/85947f585b9c6255c9b72b9325ba44b6/GBIO.pdf)
 
