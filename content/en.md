@@ -17,10 +17,10 @@ In the years since GBIC, the global community has made significant advances in s
 
 **[Recent efforts](./background) have repeatedly identified the need for biodiversity informatics stakeholders to collaborate at a global scale to identify common priorities and coordinate implementation of these priorities. There is a clear need for an open and trusted mechanism that allows the international community to develop a shared vision for each of the component areas in the GBIO and to agree on the major elements and components which need to be prioritized to achieve these visions.** Once such priorities are agreed, continued coordination could allow the community to support efforts by agencies and institutions in different countries to secure funding and to implement these components. 
 
-GBIC2 will convene a broad group of invited stakeholders to discuss how an international coordination mechanism for biodiversity informatics could operate and how it could accelerate delivery of the linked and open global biodiversity data infrastructure to the benefit of science and society. The workshop will also give careful consideration to issues around governance and trust, technical and sociological factors, and funding and sustainability for establishing such a mechanism. In order to keep the scope of the initial discussions practical, GBIC2 will include parallel sessions exploring challenges which will arise in developing priorities and a multi-year roadmap for each of [four GBIO component areas](./programme): 
-+ [Biodiversity knowledge network](./knowledge-network)
-+ [Published materials](./published-materials)
-+ [Integrated occurrence data](./occurrence-data)
-+ [Trends and predictions](./trends).
+GBIC2 will convene a broad group of invited stakeholders to discuss how an international coordination mechanism for biodiversity informatics could operate and how it could accelerate delivery of the linked and open global biodiversity data infrastructure to the benefit of science and society. The workshop will also give careful consideration to issues around governance and trust, technical and sociological factors, and funding and sustainability for establishing such a mechanism. In order to keep the scope of the initial discussions practical, GBIC2 will include parallel sessions exploring challenges which will arise in developing priorities and a multi-year roadmap for each of [four GBIO component areas](./key-topics): 
++ [Biodiversity knowledge network](./key-topics/knowledge-network)
++ [Published materials](./key-topics/published-materials)
++ [Integrated occurrence data](./key-topics/occurrence-data)
++ [Trends and predictions](./key-topics/trends)
 
 **While attendance will necessarily be limited, and discussions will be conducted entirely in English, GBIC2 represents just the opening stage of a broader consultation process**. Following the workshop, the recommendations and outcomes from its discussions will be translated into multiple languages and shared widely, after which all stakeholders interested in the future of biodiversity informatics will be encouraged to critique and improve the proposals.
