@@ -1,15 +1,15 @@
 ---
-title: Trends and Predictions
+title: Trends and predictions
 description: Issues for discussion during GBIC2 Trends and Predictions breakout
 image: /images/GBO4.png
 imageTitle: Global Biodiversity Outlook 4 (ISBN-92-9225-540-1, [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) CBD Secretariat)
 
 ---
-# Trends and Predictions
+# Trends and predictions
 
 _Using predictive modelling to assess status, trends and the impacts of any potential changes_
 
-The Global Biodiversity Informatics Outlook provided the following summary:
+The GBIO provided the following summary:
 
 > Being able to model future trends in biodiversity under different conditions (such as the outcomes of particular policies or climate change) are key to sound decision making. The wealth of historical data that focus area B (Data) will unlock from the literature and museum collections, and the existing long-term ecological monitoring sites, provide a temporal dimension to the available evidence for our spatial models. Mobilizing all of these data will enable not only multiscale spatial modelling (D1) of current biodiversity patterns, but also to construct a series of historical models, at least for some taxonomic groups and for some regions and scales of detail. These models will in turn help us to identify trends, to explore the key drivers behind these trends and to predict responses to potential future changes. Having good predictive tools are a key element for the better management of biodiversity, so developing this component should be a matter of high priority.
 >

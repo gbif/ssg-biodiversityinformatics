@@ -1,15 +1,15 @@
 ---
-title: Published Materials
+title: Published materials
 description: Issues for discussion during GBIC2 Published Materials breakout
 image: /images/HexadactiliaOCR.png
 imageTitle: Optical character recognition for 1910 entomological publication (https://biodiversitylibrary.org/page/14720330)
 
 ---
-# Published Materials
+# Published materials
 
 _Using data mining and semantic tools to turn unstructured and inaccessible data into information_
 
-The Global Biodiversity Informatics Outlook provided the following summary:
+The GBIO provided the following summary:
 
 > Published materials – primarily printed literature, but also images, videos and other multimedia forms such as sound recordings – have long served as the primary means for disseminating biodiversity knowledge. Along with collections and specimens, they also form the primary source of species-level trait and descriptive data, vital for identifications and taxonomic research. Much progress has been made by research institutions and by the Biodiversity Heritage Library (BHL), scanning historical materials into digital formats, while new materials are almost exclusively developed as digital objects. Nevertheless the information in these resources remains largely inaccessible to automated processing due to a lack of internal structure and mark-up and, for older literature, errors introduced during the scanning process. Multimedia objects need consistent indexing to make them properly discoverable. Consistent standards, including text recognition standards, keywording and indexing, data mining techniques and crowd sourcing will enable the community to step up the rate at which such data are made fully accessible. The resulting information, and the tools to generate it, also need to be made freely available to all. Despite progress in recent years, the scale of the task and its importance to the framework means this component requires continued and long-term investment and it will be urgent to find ways to accelerate and streamline the process.
 

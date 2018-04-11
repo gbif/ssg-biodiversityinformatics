@@ -1,15 +1,15 @@
 ---
-title: Integrated Occurrence Data
+title: Integrated occurrence data
 description: Issues for discussion during GBIC2 Integrated Occurrence Data breakout
 image: /images/GBIFData.png
 imageTitle: Density of data in GBIF (https://www.gbif.org, © OpenStreetMap, GBIF)
 
 ---
-# Integrated Occurrence Data
+# Integrated occurrence data
 
 _Making accessible all data about when and where any given named organism has been recorded_
 
-The Global Biodiversity Informatics Outlook provided the following summary:
+The GBIO provided the following summary:
 
 > Documenting the distribution of species in time and space may be viewed as the ‘weather observations’ of biodiversity: the fundamental underpinning for any accurate model of existing patterns and trends. All of the data sources outlined in focus area B (Data) will contribute species occurrence records in some form or another, but the key elements of every record need to be brought together in a more readily accessible and usable form to enable efficient discovery and use.
 >

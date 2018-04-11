@@ -9,7 +9,7 @@ imageTitle: Global Species Databases in the Catalogue of Life (http://www.catalo
 
 _Benefitting from the expertise of the whole global community_
 
-The Global Biodiversity Informatics Outlook provided the following summary:
+The GBIO provided the following summary:
 
 > Researchers in biodiversity have long had a culture of curating and annotating data — from identifying specimens to correcting and cleaning up entire downloaded datasets. These efforts are a key part of the data validation process: even with the best automated tools, identifying and correcting most errors still requires an expert, human eye. Yet these annotations are not always made available to the original data owners, and even when they are, there may be neither the resources nor the mechanisms in place to incorporate them. As a result, mistakes get replicated or have to be repeatedly corrected, duplicating effort, while there is little incentive for researchers to continue to correct and annotate records more widely.
 >
