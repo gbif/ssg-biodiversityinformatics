@@ -17,8 +17,8 @@ Hobern D, Apostolico A, Arnaud E, Bello JC, Canhos D, Dubois G, Field D, Alonso 
 
 ### Abstract
 
-Much progress has been made in the past ten years to fulfil the potential of biodiversity informatics. However, it is dwarfed by the scale of what is still required.
+Considerable progress has been made in the past ten years to fulfil the potential of biodiversity informatics. However, these achievements are dwarfed by the scale of what is still required.
 
-The GBIO offers a framework for reaching a much deeper understanding of the world’s biodiversity, and through that understanding the means to conserve it better and to use it more sustainably.
+The GBIO offers a framework for reaching a much deeper understanding of the world’s biodiversity, and through that understanding the means of improving both conservation and sustainable uses.
 
 The GBIO identifies four major focal areas or 'layers', each comprised of five core components, to help coordinate efforts and funding. The coauthors, representing a wide range of disciplines, agree these are the essential elements of a global strategy to harness biodiversity data for the common good.
