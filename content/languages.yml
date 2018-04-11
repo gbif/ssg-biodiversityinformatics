@@ -1,12 +1,7 @@
 #This file defines which languages that will appear when the site is build
 en:
   name: English
-fr:
-  name: Français
-pt:
-  name: Português
-es:
-  name: Español
+
 
 #
 # should be in the following format
