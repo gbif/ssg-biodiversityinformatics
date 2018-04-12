@@ -4,6 +4,7 @@ description: Issues for discussion during GBIC2 Biodiversity Knowledge Network b
 image: /images/CoLGSDs.png
 imageTitle: Global Species Databases in the Catalogue of Life 
 imageLink: http://www.catalogueoflife.org/col/info/databases
+
 ---
 # Biodiversity knowledge network
 

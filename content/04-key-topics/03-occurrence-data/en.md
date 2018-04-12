@@ -4,6 +4,7 @@ description: Issues for discussion during GBIC2 breakout group on integrated occ
 image: /images/GBIFData.png
 imageTitle: Density of occurrence data in GBIF.org; map © OpenStreetMap
 imageLink: https://www.gbif.org
+
 ---
 # Integrated occurrence data
 
