@@ -12,7 +12,11 @@ GBIC2: the 2nd Global Biodiversity Information Conference
 
 _Delivering biodiversity knowledge in the information age_
 
-The first GBIC conference took place in Copenhagen, Denmark in July 2012 and led to the publication of the _Global Biodiversity Informatics Outlook_ ([GBIO](./gbio)), which laid out a vision of the major areas where biodiversity informatics needed to advances. The GBIO vision remains as relevant today, given that the scientific community continues to wrestle with the magnitude of the task of describing the diversity of life, documenting the complexity of its functions and improving planning related to natural resources, at all scales, in order for society to achieve the Sustainable Development Goals. Biodiversity knowledge and understanding can and should be organized as linked, open, accessible and resilient digital resources that support all of these needs.
+The first GBIC conference took place in Copenhagen, Denmark in July 2012 and led to the publication of the _Global Biodiversity Informatics Outlook_, or ([GBIO](./gbio)), which laid out a vision of the major areas where biodiversity informatics needed to advances. 
+
+> Looking for the GBIO report? [Find it here >](https://www.gbif.org/document/80859)
+
+The GBIO vision remains as relevant today, given that the scientific community continues to wrestle with the magnitude of the task of describing the diversity of life, documenting the complexity of its functions and improving planning related to natural resources, at all scales, in order for society to achieve the Sustainable Development Goals. Biodiversity knowledge and understanding can and should be organized as linked, open, accessible and resilient digital resources that support all of these needs.
 
 In the years since GBIC, the global community has made significant advances in some of these areas, but progress is uneven. There are many factors contributing to this, including culture and sociology as well as technology, but a key issue is the nature of funding for relevant activity. Researchers and practitioners advance biodiversity informatics largely through small- to medium-scale projects, initiated in response to local interests and priorities. This leads to a proliferation of standards, tools and processes which do not combine into a fully interoperable whole.
 
