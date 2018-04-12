@@ -1,9 +1,9 @@
 ---
 title: Programme
 description: Overview of structure of GBIC2 programme
-image: /images/Grass.jpg
-imageTitle: Grass
-imageLink: https://pxhere.com/en/photo/744248
+image: /images/desert-needle-grass-iNat-13160716-Melgert-Hoegen.jpg
+imageTitle: Desert needle grass (Stipa speciosa), San Diego County, Calif., USA. Photo Fred Melgert / Carla Hoegen, licensed under CC BY-NC 4.0 via iNaturalist.org
+imageLink: https://www.gbif.org/occurrence/1806367926
 
 ---
 # Programme
