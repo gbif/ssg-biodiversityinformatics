@@ -1,9 +1,9 @@
 ---
 title: Integrated occurrence data
-description: Issues for discussion during GBIC2 Integrated Occurrence Data breakout
+description: Issues for discussion during GBIC2 breakout group on integrated occurrence data
 image: /images/GBIFData.png
-imageTitle: Density of data in GBIF (https://www.gbif.org, © OpenStreetMap, GBIF)
-
+imageTitle: Density of occurrence data in GBIF.org; map © OpenStreetMap
+imageLink: https://www.gbif.org
 ---
 # Integrated occurrence data
 

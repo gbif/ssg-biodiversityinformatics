@@ -1,8 +1,9 @@
 ---
 title: Trends and predictions
-description: Issues for discussion during GBIC2 Trends and Predictions breakout
+description: Issues for discussion during GBIC2 breakout group on trends and predictions breakout
 image: /images/GBO4.png
-imageTitle: Global Biodiversity Outlook 4 (ISBN-92-9225-540-1, [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/) CBD Secretariat)
+imageTitle: Global Biodiversity Outlook 4, Convention on Biological Diversity, licensed under  CC BY-NC 3.0
+imageLink: https://www.cbd.int/gbo4
 
 ---
 # Trends and predictions
