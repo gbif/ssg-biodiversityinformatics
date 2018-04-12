@@ -3,7 +3,7 @@ title: Scope and goals
 description: What do attendees hope to achieve in this meeting?
 image: /images/HirundoRustica.jpg
 imageTitle: Barn swallow (Hirundo rustica)
-ImageLink: https://pxhere.com/en/photo/1063819
+imageLink: https://pxhere.com/en/photo/1063819
 
 ---
 # Scope and goals for GBIC2
