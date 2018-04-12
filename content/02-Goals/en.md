@@ -2,8 +2,8 @@
 title: Scope and goals
 description: What do attendees hope to achieve in this meeting?
 image: /images/HirundoRustica.jpg
-imageTitle: Barn swallow (Hirundo rustica)
-imageLink: https://pxhere.com/en/photo/1063819
+imageTitle: Wire-tailed swallow (Hirundo smithii ssp. smithii), Kruger National Park, South Africa. Photo by maritzasouthafrica via iNaturalist.org, licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1806358262
 
 ---
 # Scope and goals for GBIC2
