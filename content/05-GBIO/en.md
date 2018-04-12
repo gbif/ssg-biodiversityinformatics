@@ -1,7 +1,7 @@
 ---
 title: GBIO
 description: The GBIO document produced by the first GBIC in 2012
-image: /images/GBIO.png
+image: /images/GBIO.jpg
 imageTitle: Global Biodiversity Informatics Outlook
 
 ---
