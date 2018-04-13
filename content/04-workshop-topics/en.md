@@ -1,4 +1,4 @@
 ---
-title: Key topics
+title: Workshop topics
 type: menu only
 ---
