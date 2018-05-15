@@ -1,13 +1,13 @@
 ---
 title: Home
 style: home article
-description: "GBIC2: the 2nd Global Biodiversity Information Conference—delivering biodiversity knowledge in the information age"
+description: "GBIC2: the 2nd Global Biodiversity Informatics Conference—delivering biodiversity knowledge in the information age"
 image: /images/MacropusRobustus.jpg
 imageTitle: Euro (Macropus robustus erubescens), Denham, Western Australia, 10 January 2018. Photo by Donald Hobern via iNaturalist.org, licensed under CC BY 4.0.
 imageLink: https://www.gbif.org/occurrence/1807286838
 
 ---
-GBIC2: the 2nd Global Biodiversity Information Conference
+GBIC2: the 2nd Global Biodiversity Informatics Conference
 ===================
 
 _Delivering biodiversity knowledge in the information age_
