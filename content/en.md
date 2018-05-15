@@ -12,7 +12,7 @@ GBIC2: the 2nd Global Biodiversity Informatics Conference
 
 _Delivering biodiversity knowledge in the information age_
 
-The first GBIC conference took place in Copenhagen, Denmark in July 2012 and led to the publication of the _Global Biodiversity Informatics Outlook_, or ([GBIO](./gbio)), which laid out a vision of the major areas where biodiversity informatics needed to advances. 
+The first GBIC conference took place in Copenhagen, Denmark in July 2012 and led to the publication of the _Global Biodiversity Informatics Outlook_, or ([GBIO](./gbio)), which laid out a vision of the major areas where biodiversity informatics needed to advance. 
 
 > Looking for the GBIO report? [Find it here >](https://www.gbif.org/document/80859)
 
