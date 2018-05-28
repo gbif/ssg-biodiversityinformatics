@@ -31,4 +31,10 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 | [![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University")](http://mcz.harvard.edu)  	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
 |   |   |
 |   |   |
+| [![NLBIF](/images/nlbif.png "NLBIF: The Netherlands Biodiversity Information Facility")](https://www.nlbif.nl)  	| [NLBIF: The Netherlands Biodiversity Information Facility](https://www.nlbif.nl) 	|
+|   |   |
+|   |   |
 | [![Pensoft](/images/pensoft.png "Pensoft")](https://pensoft.net) 	| [Pensoft](https://pensoft.net) 	|
+|   |   |
+|   |   |
+| [![UN Environment](/images/UNEnvironment.png "UN Environment")](https://www.unenvironment.org) 	| [United Nations Environment Programme](https://www.unenvironment.org) 	|
