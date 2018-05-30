@@ -16,16 +16,25 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 
 |   |   |
 |---	|-----------------------------------------------------------------------------	|
-| ![Atlas of Living Australia](/images/ala-logo.png "Atlas of Living Australia") 	| [Atlas of Living Australia](https://www.ala.org.au) 	|
+| [![Atlas of Living Australia](/images/ala-logo.png "Atlas of Living Australia")](https://www.ala.org.au) 	| [Atlas of Living Australia](https://www.ala.org.au) 	|
 |   |   |
 |   |   |
-| ![DiSSCo](/images/dissco.png "DiSSCo") 	| [DiSSCo: Distributed System of Scientific Collections](http://dissco.eu) 	|
+| [![DiSSCo](/images/dissco.png "DiSSCo")](http://dissco.eu) 	| [DiSSCo: Distributed System of Scientific Collections](http://dissco.eu) 	|
 |   |   |
 |   |   |
-| ![iDigBio](/images/idigbio.png "iDigBio") 	| [iDigBio](https://www.idigbio.org) 	|
+| [![The Field Museum](/images/field-museum.png "The Field Museum")](https://www.fieldmuseum.org)] 	| [The Field Museum](https://www.fieldmuseum.org) 	|
 |   |   |
 |   |   |
-| ![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University") 	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
+| [![iDigBio](/images/idigbio.png "iDigBio")](https://www.idigbio.org) 	| [iDigBio](https://www.idigbio.org) 	|
 |   |   |
 |   |   |
-| ![Pensoft](/images/pensoft.png "Pensoft") 	| [Pensoft](https://pensoft.net) 	|
+| [![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University")](http://mcz.harvard.edu)  	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
+|   |   |
+|   |   |
+| [![NLBIF](/images/nlbif.png "NLBIF: The Netherlands Biodiversity Information Facility")](https://www.nlbif.nl)  	| [NLBIF: The Netherlands Biodiversity Information Facility](https://www.nlbif.nl) 	|
+|   |   |
+|   |   |
+| [![Pensoft](/images/pensoft.png "Pensoft")](https://pensoft.net) 	| [Pensoft](https://pensoft.net) 	|
+|   |   |
+|   |   |
+| [![UN Environment](/images/UNEnvironment.png "UN Environment")](https://www.unenvironment.org) 	| [United Nations Environment Programme](https://www.unenvironment.org) 	|
