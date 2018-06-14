@@ -8,8 +8,6 @@ imageLink: https://www.gbif.org/occurrence/1806367926
 ---
 # Programme
 
-GBIC2 will have the following structure:
-
 ### Tuesday afternoon, 24 July 
 + **Plenary presentations** to open the workshop and provide perspectives to guide the working sessions:
     + **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning
