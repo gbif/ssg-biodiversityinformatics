@@ -8,17 +8,32 @@ imageLink: https://www.gbif.org/occurrence/1806367926
 ---
 # Programme
 
-GBIC2 will include four components:
-1. **Plenary presentations** to establish a common baseline understanding of the [GBIO](../gbio) and the goals for GBIC2, and to consider the broader context of planning and funding for research infrastructures
-2. **Workshop** to explore and refine a possible model for an international coordination mechanism for future planning and collaborative funding of biodiversity informatics infrastructure
-3. [**Parallel workshops**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
-4. **Review session** to refine a proposed model in the light of issues identified in the parallel workshops
+GBIC2 will have the following structure:
+
+### Tuesday afternoon, 24 July 
++ **Plenary presentations** to open the workshop and provide perspectives to guide the working sessions:
+    + **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning
+    + **Maria Uhle, NSF/Belmont Forum**, on funders’ perspectives in regard to best practice infrastructure investments
+    + **Donald Hobern, GBIF**, on the GBIO model and the proposed candidate mechanism
++ **Plenary session** to explore the candidate mechanism
+
+### Wednesday 25 July
++ [**Parallel workshops**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
++ **Plenary session** to incorporate thinking from the parallel sessions and to develop or refine the prioritisation process.
+
+### Thursday 26 July
++ **Plenary session** to explore the implementation process and possible models for the consortium
++ **Parallel workshops** to identify issues around the implementation process and models for the consortium
++ **Plenary session** to incorporate thinking from the parallel sessions and to develop a shared perspective on the coordination mechanism as a whole
+
+### Friday morning, 27 July
+**Plenary session** to discuss results from previous days and how to proceed, in particular to define the version of a collaboration mechanism supported by the attendees and to plan how to write this up, expand consultation and proceed with implementing the mechanism. 
 
 Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
 
 The subsequent goal is to seek funding to establish and support joint planning practices based on the recommended model.
 
-### <a name="areas"></a>GBIO component areas for parallel workshops
+## <a name="areas"></a>GBIO component areas for parallel workshops
 
 GBIC2 will include in-depth explorations of one key component from each of the four layers identified in the [GBIO framework](/raw/GBIO-framework.pdf). Focusing on these components will ensure broad consideration of technical and societal aspects while addressing both well-understood elements and others for which solutions are at best preliminary.
 
