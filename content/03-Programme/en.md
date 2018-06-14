@@ -27,11 +27,12 @@ GBIC2 will have the following structure:
 + **Plenary session** to incorporate thinking from the parallel sessions and to develop a shared perspective on the coordination mechanism as a whole
 
 ### Friday morning, 27 July
-**Plenary session** to discuss results from previous days and how to proceed, in particular to define the version of a collaboration mechanism supported by the attendees and to plan how to write this up, expand consultation and proceed with implementing the mechanism. 
++ **Plenary session** to discuss results from previous days and how to proceed, in particular to define the version of a collaboration mechanism supported by the attendees and to plan how to write this up, expand consultation and proceed with implementing the mechanism. 
 
-Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
+### Post-GBIC2 activity
+    Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
 
-The subsequent goal is to seek funding to establish and support joint planning practices based on the recommended model.
+    The subsequent goal is to seek funding to establish and support joint planning practices based on the recommended model.
 
 ## <a name="areas"></a>GBIO component areas for parallel workshops
 
