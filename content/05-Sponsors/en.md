@@ -28,6 +28,9 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 | [![iDigBio](/images/idigbio.png "iDigBio")](https://www.idigbio.org) 	| [iDigBio](https://www.idigbio.org) 	|
 |   |   |
 |   |   |
+| [![JRS Biodiversity Foundation](/images/jrs.png "JRS Biodiversity Foundation")](https://www.jrsbiodiversity.org) 	| [JRS Biodiversity Foundation](https://www.jrsbiodiversity.org) 	|
+|   |   |
+|   |   |
 | [![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University")](http://mcz.harvard.edu)  	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
 |   |   |
 |   |   |
