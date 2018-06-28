@@ -5,7 +5,7 @@ image: /images/Resources.png
 imageTitle: Resources for GBIC2 4.0 via iNaturalist.org
 
 ---
-# Resources
+# Materials
 
 In preparation for GBIC2, the following materials have been circulated:
 
