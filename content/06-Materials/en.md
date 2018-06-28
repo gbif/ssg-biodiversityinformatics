@@ -13,8 +13,8 @@ In preparation for GBIC2, the following materials have been circulated:
 
 Initial exploration of the goals and intention for GBIC2, February 2018:
 
-+ **[/raw/GBIC2 Introduction 2018-02-26.pdf](GBIC2 Introduction)
++ **[GBIC2 Introduction](/raw/GBIC2 Introduction 2018-02-26.pdf)
 
 Outline of process and planned activities for GBIC2, June 2018:
 
-+ **[/raw/GBIC2 Update 2018-06-21.pdf](GBIC2 Update)
++ **[GBIC2 Update](/raw/GBIC2 Update 2018-06-21.pdf)
