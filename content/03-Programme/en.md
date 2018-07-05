@@ -11,21 +11,27 @@ imageLink: https://www.gbif.org/occurrence/1806367926
 ### Tuesday afternoon, 24 July 
 + **Plenary presentations** to open the workshop and provide perspectives to guide the working sessions:
     + **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning
-    + **Maria Uhle, NSF/Belmont Forum**, on funders’ perspectives in regard to best practice infrastructure investments
+    + **Maria Uhle, NSF/Belmont Forum**, on funders’ perspectives in regard to best practice for research infrastructure
     + **Donald Hobern, GBIF**, on the GBIO model and the proposed candidate mechanism
 + **Plenary session** to explore the candidate mechanism
 
 ### Wednesday 25 July
 + [**Parallel workshops**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
-+ **Plenary session** to incorporate thinking from the parallel sessions and to develop or refine the prioritisation process.
 
 ### Thursday 26 July
-+ **Plenary session** to explore the implementation process and possible models for the consortium
-+ **Parallel workshops** to identify issues around the implementation process and models for the consortium
-+ **Plenary session** to incorporate thinking from the parallel sessions and to develop a shared perspective on the coordination mechanism as a whole
++ **Plenary session** to incorporate thinking from the parallel sessions and to develop or refine the prioritisation process.
++ **Plenary presentations** with examples of relevant governance models:
+    + **Jerry Lanfear, ELIXIR**, on the European ELIXIR consortium and delivery of core data services
+    + **Ismaêl Mejía, Apache Software Foundation**, on The Apache Way and governance of collaborative projects
++ **Parallel workshops** to consider governance aspects, including:
+    + **AMBITION**: Is it feasible to work together to secure collaborative funding and to implement infrastructure via collaborative processes, or is it only realistic to collaborate around identifying and communicating priorities? 
+    + **CONTENT**: What information elements should contribute to the definition of a prioritised investment proposal? Do these all get prepared in the expert workshops and refined in the consultation, or are some aspects for later completion?
+    + **MEMBERSHIP**: Who should be eligible to participate in a consortium to plan and implement collaborative biodiversity informatics infrastructure?  What does it mean for an individual, institution or organisation to participate in the consortium? What rules of procedure or governance model are needed?
+    + **STAFFING**: What form should the coordinating team take? Localised project office, distributed team? To whom would it report?
+    + **INTERNATIONALIZATION**: What should we do to maximise the ability of stakeholders from all regions and languages to be equal players in this approach?
 
 ### Friday morning, 27 July
-+ **Plenary session** to discuss results from previous days and how to proceed, in particular to define the version of a collaboration mechanism supported by the attendees and to plan how to write this up, expand consultation and proceed with implementing the mechanism. 
++ **Plenary session** to review thinking from parallel workshops and to agree how to proceed, in particular to define the version of a collaboration mechanism supported by the attendees and to plan how to write this up, expand consultation and proceed with implementing the mechanism. 
 
 ### Post-GBIC2 activity
 + Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
