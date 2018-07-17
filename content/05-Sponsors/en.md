@@ -16,34 +16,34 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 
 |   |   |
 |---	|-----------------------------------------------------------------------------	|
-| [![Agence Française de la Biodiversité](/images/afb.jpg "Agence Française de la Biodiversité")](https://www.afbiodiversite.fr) 	| [Agence Française de la Biodiversité](https://www.afbiodiversite.fr) 	|
+| :[![Agence Française de la Biodiversité](/images/afb.jpg "Agence Française de la Biodiversité")](https://www.afbiodiversite.fr):	| [Agence Française de la Biodiversité](https://www.afbiodiversite.fr) 	|
 |   |   |
 |   |   |
-| [![Atlas of Living Australia](/images/ala-logo.png "Atlas of Living Australia")](https://www.ala.org.au) 	| [Atlas of Living Australia](https://www.ala.org.au) 	|
+| :[![Atlas of Living Australia](/images/ala-logo.png "Atlas of Living Australia")](https://www.ala.org.au): | [Atlas of Living Australia](https://www.ala.org.au) 	|
 |   |   |
 |   |   |
-| [![DiSSCo](/images/dissco.png "DiSSCo")](http://dissco.eu) 	| [DiSSCo: Distributed System of Scientific Collections](http://dissco.eu) 	|
+| :[![DiSSCo](/images/dissco.png "DiSSCo")](http://dissco.eu): | [DiSSCo: Distributed System of Scientific Collections](http://dissco.eu) 	|
 |   |   |
 |   |   |
-| [![The Field Museum](/images/field-museum.png "The Field Museum")](https://www.fieldmuseum.org) 	| [The Field Museum](https://www.fieldmuseum.org) 	|
+| :[![The Field Museum](/images/field-museum.png "The Field Museum")](https://www.fieldmuseum.org): | [The Field Museum](https://www.fieldmuseum.org) 	|
 |   |   |
 |   |   |
-| [![iDigBio](/images/idigbio.png "iDigBio")](https://www.idigbio.org) 	| [iDigBio](https://www.idigbio.org) 	|
+| :[![iDigBio](/images/idigbio.png "iDigBio")](https://www.idigbio.org) 	| [iDigBio](https://www.idigbio.org): |
 |   |   |
 |   |   |
-| [![JRS Biodiversity Foundation](/images/jrs.png "JRS Biodiversity Foundation")](https://www.jrsbiodiversity.org) 	| [JRS Biodiversity Foundation](https://www.jrsbiodiversity.org) 	|
+| :[![JRS Biodiversity Foundation](/images/jrs.png "JRS Biodiversity Foundation")](https://www.jrsbiodiversity.org): | [JRS Biodiversity Foundation](https://www.jrsbiodiversity.org) 	|
 |   |   |
 |   |   |
-| [![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University")](http://mcz.harvard.edu)  	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
+| :[![Museum of Comparative Zoology, Harvard University](/images/mcz-harvard-logo.png "Museum of Comparative Zoology, Harvard University")](http://mcz.harvard.edu): 	| [Museum of Comparative Zoology, Harvard University](http://mcz.harvard.edu) 	|
 |   |   |
 |   |   |
-| [![NLBIF](/images/nlbif.png "NLBIF: The Netherlands Biodiversity Information Facility")](https://www.nlbif.nl)  	| [NLBIF: The Netherlands Biodiversity Information Facility](https://www.nlbif.nl) 	|
+| :[![NLBIF](/images/nlbif.png "NLBIF: The Netherlands Biodiversity Information Facility")](https://www.nlbif.nl):	| [NLBIF: The Netherlands Biodiversity Information Facility](https://www.nlbif.nl) 	|
 |   |   |
 |   |   |
-| [![Pensoft](/images/pensoft.png "Pensoft")](https://pensoft.net) 	| [Pensoft](https://pensoft.net) 	|
+| :[![Pensoft](/images/pensoft.png "Pensoft")](https://pensoft.net): | [Pensoft](https://pensoft.net) 	|
 |   |   |
 |   |   |
-| [![UN Environment](/images/UNEnvironment.png "UN Environment")](https://www.unenvironment.org) 	| [United Nations Environment Programme](https://www.unenvironment.org) 	|
+| :[![UN Environment](/images/UNEnvironment.png "UN Environment")](https://www.unenvironment.org): | [United Nations Environment Programme](https://www.unenvironment.org) 	|
 |   |   |
 |   |   |
-| [![University of Copenhagen](/images/ku_logo_dk_sm.png "University of Copenhagen")](https://www.ku.dk) 	| [University of Copenhagen](https://www.ku.dk) 	|
+| :[![University of Copenhagen](/images/ku_logo_dk_sm.png "University of Copenhagen")](https://www.ku.dk):	| [University of Copenhagen](https://www.ku.dk) 	|
