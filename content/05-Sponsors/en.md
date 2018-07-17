@@ -25,7 +25,7 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 | [![DiSSCo](/images/dissco.png "DiSSCo")](http://dissco.eu) 	| [DiSSCo: Distributed System of Scientific Collections](http://dissco.eu) 	|
 |   |   |
 |   |   |
-| [![The Field Museum](/images/field-museum.png "The Field Museum")](https://www.fieldmuseum.org)] 	| [The Field Museum](https://www.fieldmuseum.org) 	|
+| [![The Field Museum](/images/field-museum.png "The Field Museum")](https://www.fieldmuseum.org) 	| [The Field Museum](https://www.fieldmuseum.org) 	|
 |   |   |
 |   |   |
 | [![iDigBio](/images/idigbio.png "iDigBio")](https://www.idigbio.org) 	| [iDigBio](https://www.idigbio.org) 	|
