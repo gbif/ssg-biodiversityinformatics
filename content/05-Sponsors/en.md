@@ -16,7 +16,7 @@ Want to learn more about how you can support GBIC2? Email us at [workshop2018@gb
 
 |   |   |
 |---	|-----------------------------------------------------------------------------	|
-| [![Agence Française de la Biodiversité](/images/afb.jpg "Agence Française de la Biodiversité")](https://www.afbiodiversite.fr)	| [Agence Française de la Biodiversité](https://www.afbiodiversite.fr) 	|
+| [![Agence Française pour la Biodiversité](/images/afb.jpg "Agence Française pour la Biodiversité")](https://www.afbiodiversite.fr)	| [Agence Française pour la Biodiversité](https://www.afbiodiversite.fr) 	|
 |   |   |
 |   |   |
 | [![Atlas of Living Australia](/images/ala-logo.png "Atlas of Living Australia")](https://www.ala.org.au) | [Atlas of Living Australia](https://www.ala.org.au) 	|
