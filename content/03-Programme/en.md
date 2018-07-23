@@ -13,62 +13,62 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 |   |   |
 |-------------	|-----------------------------------------------------------------------------	|
-| 12:30 – 13:30 | Registration |
-| 13:30 – 15:30 | Plenary opening presentations |
+| 12:30—13:30 | Registration |
+| 13:30—15:30 | Plenary opening presentations |
 |  | **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning |
 |  | **Maria Uhle, NSF/Belmont Forum**, on funders’ perspectives in regard to best practice for research infrastructure |
 |  | **Donald Hobern, GBIF**, on the GBIO model and the proposed candidate mechanism |
-| 15:30 – 16:00 | _Coffee break_ |
-| 16:00 – 18:00 | **Coordination mechanism**: presentation of a candidate model: <br/> Plenary session to prompt discussion of how the global community can coordinate planning and implementation of shared infrastructure |
-| 18:00 – 21:00 | Dinner at Copenhagen Biocenter |
+| 15:30—16:00 | _Coffee break_ |
+| 16:00—18:00 | **Coordination mechanism**: presentation of a candidate model: <br/> Plenary session to prompt discussion of how the global community can coordinate planning and implementation of shared infrastructure |
+| 18:00—21:00 | Dinner at Copenhagen Biocenter |
 
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
 
 |   |   |
 |-------------	|-----------------------------------------------------------------------------	|
-| 9:00 – 10:30 | Parallel sessions |
+| 9:00—10:30 | Parallel sessions |
 |  | **Biodiversity knowledge network**: Room 2-0-07/09 |
 |  | **Published materials**: Room 2-0-17  |
 |  | **Integrated occurrence data**: Room 2-1-07/09  |
 |  | **Trends and predictions**: Room 2-1-17  |
-| 10:30 – 11:00 | _Coffee break_ |
-| 11:00 – 12:30 | Parallel sessions |
-| 12:30 – 13:30 | _Lunch_ |
-| 13:30 – 15:00 | Parallel sessions |
-| 15:00 – 15:30 | _Coffee break_ |
-| 15:30 – 17:00 | Parallel sessions |
+| 10:30—11:00 | _Coffee break_ |
+| 11:00—12:30 | Parallel sessions |
+| 12:30—13:30 | _Lunch_ |
+| 13:30—15:00 | Parallel sessions |
+| 15:00—15:30 | _Coffee break_ |
+| 15:30—17:00 | Parallel sessions |
 
 
 ### Thursday 26 July
 
-|   |   |
+|               |   |
 |-------------	|-----------------------------------------------------------------------------	|
-| 9:00 – 10:30 | Interactive review of coordination mechanism |
-| 10:30 – 11:00 | _Coffee break_ |
-| 11:00 – 12:30 | **Plenary presenatations** with examples of relevant governance models |
+| 9:00–10:30 | Interactive review of coordination mechanism |
+| 10:30–11:00 | _Coffee break_ |
+| 11:00–12:30 | **Plenary presenatations** with examples of relevant governance models |
 |  | **Jerry Lanfear, ELIXIR** on the European ELIXIR consortium and delivery of core data services |
 |  | **Ismaêl Mejía, Apache Software Foundation** on The Apache Way and governance of collaborative projects |
-| 12:30 – 13:30 | _Lunch_ |
-| 13:30 – 14:00 | **Working groups** to consider governance aspects|
-| 14:00 – 15:00 | Introduction to working groups for afternoon |
+| 12:30–13:30 | _Lunch_ |
+| 13:30–14:00 | **Working groups** to consider governance aspects|
+| 14:00–15:00 | Introduction to working groups for afternoon |
 |  | **Ambition**: Is it feasible to work together to secure collaborative funding and to implement infrastructure via collaborative processes, or is it only realistic to collaborate around identifying and communicating priorities? |
 |  | **Content**: What information elements should contribute to the definition of a prioritised investment proposal? Do these all get prepared in the expert workshops and refined in the consultation, or are some aspects for later completion? |
 |  | **Membership**: Who should be eligible to participate in a consortium to plan and implement collaborative biodiversity informatics infrastructure?  What does it mean for an individual, institution or organisation to participate in the consortium? What rules of procedure or governance model are needed? |
 |  | **Staffing**: What form should the coordinating team take? Localised project office, distributed team? To whom would it report? |
 |  | **Internationalization** What should we do to maximise the ability of stakeholders from all regions and languages to be equal players in this approach? |
-| 15:00 – 15:30 | _Coffee break_ |
-| 15:30 – 17:00 | Working groups |
+| 15:00–15:30 | _Coffee break_ |
+| 15:30–17:00 | Working groups |
 
 ### Friday morning, 27 July
 
 |   |   |
 |-------------	|-----------------------------------------------------------------------------	|
-| 9:00 – 10:30 | Review of findings of working groups from Thursday afternoon |
-| 10:30 – 11:00 | _Coffee break_ |
-| 11:00 – 12:30 | **Plenary discussion and resolution**: Review thinking from parallel workshops and agree how to proceed, with an emphasis on defining the version of a collaboration mechanism supported by the attendees and plans for writing up recommendations, expanding the consultation and proceeding with implementation of the mechanism |
-| 12:30 – 13:30 | _Lunch_ |
-
+| 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
+| 10:30–11:00 | _Coffee break_ |
+| 11:00–12:30 | **Plenary discussion and resolution**: Review thinking from parallel workshops and agree how to proceed, with an emphasis on defining the version of a collaboration mechanism supported by the attendees and plans for writing up recommendations, expanding the consultation and proceeding with implementation of the mechanism |
+| 12:30–13:30 | _Lunch_ |
+| —30— | FIN |
 
 ### Post-GBIC2 activity
 + Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
