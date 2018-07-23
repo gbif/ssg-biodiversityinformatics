@@ -11,8 +11,8 @@ imageLink: https://www.gbif.org/occurrence/1806367926
 ### Tuesday afternoon, 24 July 
 _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
-|               |   |
-|-------------	|-----------------------------------------------------------------------------	|
+|                       |   |
+|-------------------	|-----------------------------------------------------------------------------	|
 | 12:30—13:30 | Registration |
 | 13:30—15:30 | Plenary opening presentations |
 |  | **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning |
@@ -25,8 +25,8 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
 
-|             |   |
-|-------------	|-----------------------------------------------------------------------------	|
+|                       |   |
+|-------------------	|-----------------------------------------------------------------------------	|
 | 9:00—10:30 | Parallel sessions |
 |  | **Biodiversity knowledge network**: Room 2-0-07/09 |
 |  | **Published materials**: Room 2-0-17  |
@@ -42,8 +42,8 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 ### Thursday 26 July
 
-|               |   |
-|-------------	|-----------------------------------------------------------------------------	|
+|                       |   |
+|-------------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Interactive review of coordination mechanism |
 | 10:30–11:00 | _Coffee break_ |
 | 11:00–12:30 | **Plenary presenatations** with examples of relevant governance models |
@@ -62,8 +62,8 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 ### Friday morning, 27 July
 
-|              |   |
-|-------------	|-----------------------------------------------------------------------------	|
+|                       |   |
+|-------------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
 | 10:30–11:00 | _Coffee break_ |
 | 11:00–12:30 | **Plenary discussion and resolution**: Review thinking from parallel workshops and agree how to proceed, with an emphasis on defining the version of a collaboration mechanism supported by the attendees and plans for writing up recommendations, expanding the consultation and proceeding with implementation of the mechanism |
