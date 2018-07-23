@@ -11,7 +11,7 @@ imageLink: https://www.gbif.org/occurrence/1806367926
 ### Tuesday afternoon, 24 July 
 _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
-|   |   |
+|               |   |
 |-------------	|-----------------------------------------------------------------------------	|
 | 12:30—13:30 | Registration |
 | 13:30—15:30 | Plenary opening presentations |
@@ -25,7 +25,7 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
 
-|   |   |
+|             |   |
 |-------------	|-----------------------------------------------------------------------------	|
 | 9:00—10:30 | Parallel sessions |
 |  | **Biodiversity knowledge network**: Room 2-0-07/09 |
@@ -62,7 +62,7 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 ### Friday morning, 27 July
 
-|   |   |
+|             |   |
 |-------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
 | 10:30–11:00 | _Coffee break_ |
