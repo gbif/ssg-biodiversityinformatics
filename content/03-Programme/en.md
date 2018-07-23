@@ -62,7 +62,7 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 ### Friday morning, 27 July
 
-|             |   |
+|              |   |
 |-------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
 | 10:30–11:00 | _Coffee break_ |
