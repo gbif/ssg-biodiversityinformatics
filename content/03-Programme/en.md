@@ -20,7 +20,7 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |  | **Donald Hobern, GBIF**, on the GBIO model and the proposed candidate mechanism |
 | 15:30—16:00 | _Coffee break_ |
 | 16:00—18:00 | **Coordination mechanism**: presentation of a candidate model: <br/> Plenary session to prompt discussion of how the global community can coordinate planning and implementation of shared infrastructure |
-| 18:00—21:00 | Dinner at Copenhagen Biocenter |
+| 18:00—21:00 | Dinner at Biocenter Canteen |
 
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
