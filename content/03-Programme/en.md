@@ -23,7 +23,7 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 | 18:00 – 21:00 | Dinner at Copenhagen Biocenter |
 
 ### Wednesday 25 July
-+ [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
+[**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
 
 |   |   |
 |-------------	|-----------------------------------------------------------------------------	|
