@@ -24,9 +24,9 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 #### Presentations
 
-+ Donald Hobern, GBIF: [GBIC2: Realising the vision](Hobern-GBIC2-intro.pptx)
++ Donald Hobern, GBIF: [GBIC2: Realising the vision](/raw/Hobern-GBIC2-intro.pptx)
 + Robert Hanisch, NIST: [International Collaboration for Open Data and Open Science](/raw/HanischGBIC2.pptx)
-+ Maria Uhle, NSF/Belmont Forum: [A Funder's Perspective]](/raw/Uhle-GBIC2-Talk.pptx)
++ Maria Uhle, NSF/Belmont Forum: [A Funder's Perspective](/raw/Uhle-GBIC2-Talk.pptx)
 
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
