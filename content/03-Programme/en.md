@@ -15,12 +15,18 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |---------------------- |-----------------------------------------------------------------------------	|
 | 12:30–13:30 | Registration |
 | 13:30–15:30 | Plenary opening presentations |
-|  | **Robert Hanisch, NIST**, on experiences in other scientific domains in coordinating international planning |
-|  | **Maria Uhle, NSF/Belmont Forum**, on funders’ perspectives in regard to best practice for research infrastructure |
-|  | **Donald Hobern, GBIF**, on the GBIO model and the proposed candidate mechanism |
+|  | **Robert Hanisch**, [NIST](https://www.nist.gov): Experiences in other scientific domains in coordinating international planning |
+|  | **Maria Uhle**, NSF/[Belmont Forum](http://www.belmontforum.org): Funders’ perspectives in regard to best practice for research infrastructure |
+|  | **Donald Hobern**, [GBIF](https://www.gbif.org), on the GBIO model and the proposed candidate mechanism |
 | 15:30–16:00 | _Coffee break_ |
-| 16:00–18:00 | **Coordination mechanism** <br/> Plenary session to present candidate model and prompt discussion of how the global community can coordinate planning and implementation of shared infrastructure |
+| 16:00–18:00 | **Modelling a coordination mechanism** |
 | 18:00–21:00 | Dinner at Biocenter Canteen |
+
+#### Presentations
+
++ Donald Hobern, GBIF: [GBIC2: Realising the vision](Hobern-GBIC2-intro.pptx)
++ Robert Hanisch, NIST: [International Collaboration for Open Data and Open Science](/raw/HanischGBIC2.pptx)
++ Maria Uhle, NSF/Belmont Forum: [A Funder's Perspective]](/raw/Uhle-GBIC2-Talk.pptx)
 
 ### Wednesday 25 July
 [**Parallel sessions across four focus areas**](#areas) to evaluate the feasibility of using such a mechanism in the context of some of the major component areas identified in the GBIO
@@ -47,8 +53,8 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 | 9:00–10:30 | Interactive review of coordination mechanism |
 | 10:30–11:00 | _Coffee break_ |
 | 11:00–12:30 | **Plenary presenatations** with examples of relevant governance models |
-|  | **Jerry Lanfear, ELIXIR**, on the European ELIXIR consortium and delivery of core data services |
-|  | **Ismaêl Mejía, Apache Software Foundation**, on The Apache Way and governance of collaborative projects |
+|  | **Jerry Lanfear**, [ELIXIR](https://www.elixir-europe.org): the European ELIXIR consortium and delivery of core data services |
+|  | **Ismaêl Mejía**, [Apache Software Foundation](https://www.apache.org): The Apache Way and governance of collaborative projects |
 | 12:30–13:30 | _Lunch_ |
 | 13:30–14:00 | **Working groups** to consider governance aspects|
 | 14:00–15:00 | Introduction to working groups for afternoon |
@@ -66,7 +72,12 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |----------------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
 | 10:30–11:00 | _Coffee break_ |
-| 11:00–12:30 | **Plenary discussion and resolution**: Review thinking from parallel workshops and agree how to proceed, with an emphasis on defining the version of a collaboration mechanism supported by the attendees and plans for writing up recommendations, expanding the consultation and proceeding with implementation of the mechanism |
+| 11:00–12:30 | **Plenary discussion and resolution** |
+|  | Review thinking from parallel workshops and agree how to proceed with emphasis on |
+|  | + Defining the version of a collaboration mechanism supported by the attendees |
+|  | + Plans for writing up recommendations |
+|  | + Expanding the consultation |
+|  | + Proceeding with implementation of the mechanism |
 | 12:30–13:30 | _Lunch_ |
 | —30— | FIN |
 
