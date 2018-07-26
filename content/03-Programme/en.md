@@ -15,9 +15,9 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |---------------------- |-----------------------------------------------------------------------------	|
 | 12:30–13:30 | Registration |
 | 13:30–15:30 | Plenary opening presentations |
-|  | **Robert Hanisch**, [NIST](https://www.nist.gov): Experiences in other scientific domains in coordinating international planning |
-|  | **Maria Uhle**, NSF/[Belmont Forum](http://www.belmontforum.org): Funders’ perspectives in regard to best practice for research infrastructure |
-|  | **Donald Hobern**, [GBIF](https://www.gbif.org), on the GBIO model and the proposed candidate mechanism |
+|  | **Robert Hanisch**, [NIST](https://www.nist.gov)<br />Experiences in other scientific domains in coordinating international planning |
+|  | **Maria Uhle**, NSF/[Belmont Forum](http://www.belmontforum.org)<br />Funders’ perspectives in regard to best practice for research infrastructure |
+|  | **Donald Hobern**, [GBIF](https://www.gbif.org)<br />GBIO model and the proposed candidate mechanism |
 | 15:30–16:00 | _Coffee break_ |
 | 16:00–18:00 | **Modelling a coordination mechanism** |
 | 18:00–21:00 | Dinner at Biocenter Canteen |
