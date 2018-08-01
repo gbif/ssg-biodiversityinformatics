@@ -18,7 +18,6 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |  | **Robert Hanisch**, [NIST](https://www.nist.gov)<br />Experiences in other scientific domains in coordinating international planning |
 |  | **Maria Uhle**, NSF/[Belmont Forum](http://www.belmontforum.org)<br />Funders’ perspectives in regard to best practice for research infrastructure |
 |  | **Donald Hobern**, [GBIF](https://www.gbif.org)<br />GBIO model and the proposed candidate mechanism |
-| 15:30–16:00 | _Coffee break_ |
 | 16:00–18:00 | **Modelling a coordination mechanism** |
 | 18:00–21:00 | Dinner at Biocenter Canteen |
 
@@ -33,31 +32,21 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 
 |                       |   |
 |----------------------	|-----------------------------------------------------------------------------	|
-| 9:00–10:30 | Parallel sessions |
+| 9:00–17:00 | Parallel sessions |
 |  | **Biodiversity knowledge network**: Room 2-0-07/09 |
 |  | **Published materials**: Room 2-0-17  |
 |  | **Integrated occurrence data**: Room 2-1-07/09  |
 |  | **Trends and predictions**: Room 2-1-17  |
-| 10:30–11:00 | _Coffee break_ |
-| 11:00–12:30 | Parallel sessions |
-| 12:30–13:30 | _Lunch_ |
-| 13:30–15:00 | Parallel sessions |
-| 15:00–15:30 | _Coffee break_ |
-| 15:30–17:00 | Parallel sessions |
-
 
 ### Thursday 26 July
 
 |                       |   |
 |---------------------- |-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Interactive review of coordination mechanism |
-| 10:30–11:00 | _Coffee break_ |
 | 11:00–12:30 | **Plenary presenatations** with examples of relevant governance models |
 |  | **Jerry Lanfear**, [ELIXIR](https://www.elixir-europe.org): the European ELIXIR consortium and delivery of core data services |
 |  | **Ismaêl Mejía**, [Apache Software Foundation](https://www.apache.org): The Apache Way and governance of collaborative projects |
-| 12:30–13:30 | _Lunch_ |
 | 13:30–15:30 | Plenary discussion on governance aspects|
-| 15:00–15:30 | _Coffee break_ |
 | 15:30–17:00 | Working groups |
 
 #### Presentations
@@ -70,15 +59,11 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |                       |   |
 |----------------------	|-----------------------------------------------------------------------------	|
 | 9:00–10:30 | Review of findings of working groups from Thursday afternoon |
-| 10:30–11:00 | _Coffee break_ |
 | 11:00–12:30 | **Plenary discussion and resolution** |
-|  | Review thinking from parallel workshops and agree how to proceed with emphasis on |
-|  | + Defining the version of a collaboration mechanism supported by the attendees |
-|  | + Plans for writing up recommendations |
-|  | + Expanding the consultation |
-|  | + Proceeding with implementation of the mechanism |
-| 12:30–13:30 | _Lunch_ |
-| —30— | FIN |
+|  | FIN |
+
+#### Presentations
+ + Donald Hobern, GBIF: [GBIC2: Closing session](/raw/Hobern-GBIC2-ClosingSession.pptx)
 
 ### Post-GBIC2 activity
 + Following GBIC2, the plan is to expand participation in the discussion by sharing a report on workshop's findings and a draft model of an international coordination mechanism. Distribution of both the report and the consultation in multiple languages will enable the widest possible participation while ensuring that follow-on implementation does not exclude speakers of any particular language or from any particular region.
