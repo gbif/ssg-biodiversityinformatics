@@ -56,15 +56,14 @@ _All events at the [Copenhagen Biocenter](https://www.biocenter.ku.dk/english/)_
 |  | **Jerry Lanfear**, [ELIXIR](https://www.elixir-europe.org): the European ELIXIR consortium and delivery of core data services |
 |  | **Ismaêl Mejía**, [Apache Software Foundation](https://www.apache.org): The Apache Way and governance of collaborative projects |
 | 12:30–13:30 | _Lunch_ |
-| 13:30–14:00 | **Working groups** to consider governance aspects|
-| 14:00–15:00 | Introduction to working groups for afternoon |
-|  | **Ambition**<br />Is it feasible to work together to secure collaborative funding and to implement infrastructure via collaborative processes, or is it only realistic to collaborate around identifying and communicating priorities? |
-|  | **Content**<br />What information elements should contribute to the definition of a prioritised investment proposal? Do these all get prepared in the expert workshops and refined in the consultation, or are some aspects for later completion? |
-|  | **Membership**<br />Who should be eligible to participate in a consortium to plan and implement collaborative biodiversity informatics infrastructure?  What does it mean for an individual, institution or organisation to participate in the consortium? What rules of procedure or governance model are needed? |
-|  | **Staffing**<br />What form should the coordinating team take? Localised project office, distributed team? To whom would it report? |
-|  | **Internationalization**<br />What should we do to maximise the ability of stakeholders from all regions and languages to be equal players in this approach? |
+| 13:30–15:30 | Plenary discussion on governance aspects|
 | 15:00–15:30 | _Coffee break_ |
 | 15:30–17:00 | Working groups |
+
+#### Presentations
+ + Jerry Lanfear, ELIXIR: [Experiences  in developing  a collaborative infrastructure](/raw/Lanfear-ELIXIR-GBIC2.pptx)
+ + Ismaêl Mejía, Apache Software Foundation: [The Apache Way and collaborative development  ](https://docs.google.com/presentation/d/1Uwidac2Kewd45HpFCSAqs9lMEWy3BCIVooXWjBN0994/edit#slide=id.g2257220ea9_1_6)
+
 
 ### Friday morning, 27 July
 
