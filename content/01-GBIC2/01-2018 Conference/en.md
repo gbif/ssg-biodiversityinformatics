@@ -1,6 +1,5 @@
 ---
-title: Home
-style: home article
+title: 2018 conference
 description: "GBIC2: the 2nd Global Biodiversity Informatics Conference—delivering biodiversity knowledge in the information age"
 image: /images/MacropusRobustus.jpg
 imageTitle: Euro (Macropus robustus erubescens), Denham, Western Australia, 10 January 2018. Photo by Donald Hobern via iNaturalist.org, licensed under CC BY 4.0.
