@@ -1,13 +1,13 @@
 ---
 title: Home
 style: home article
-description: Seeking to coordinate collaboration between efforts to observe, measure and model the living planet while supporting connected solutions to answer key questions about life on Earth
+description: "GBIC2: the 2nd Global Biodiversity Informatics Conference—delivering biodiversity knowledge in the information age"
 image: /images/MacropusRobustus.jpg
 imageTitle: Euro (Macropus robustus erubescens), Denham, Western Australia, 10 January 2018. Photo by Donald Hobern via iNaturalist.org, licensed under CC BY 4.0.
 imageLink: https://www.gbif.org/occurrence/1807286838
 
 ---
-Towards a Coordination Mechanism for Biodiversity Informatics
+GBIC2: the 2nd Global Biodiversity Informatics Conference
 ===================
 
 _Delivering biodiversity knowledge in the information age_
@@ -24,8 +24,6 @@ In the years since GBIC, the global community has made significant advances in s
 > There is a clear need for an open and trusted mechanism that allows the international community to develop a shared vision for each of the component areas in the GBIO, and to agree on the major elements and components which need to be prioritized to achieve these visions. 
 
 Once such priorities are agreed, continued coordination could allow the community to support efforts by agencies and institutions in different countries to secure funding and to implement these components. 
-
-> [GBIC2 news story](https://www.gbif.org/news/1XfnaCv0CQs4YmEC2qEGeE)
 
 GBIC2 will convene a broad group of invited stakeholders to discuss how an international coordination mechanism for biodiversity informatics could operate and how it could accelerate delivery of the linked and open global biodiversity data infrastructure to the benefit of science and society. The workshop will also give careful consideration to issues around governance and trust, technical and sociological factors, and funding and sustainability for establishing such a mechanism. In order to keep the scope of the initial discussions practical, GBIC2 will include parallel sessions exploring challenges which will arise in developing **priorities and a multi-year roadmap for each of four GBIO component areas**: 
 + [Biodiversity knowledge network](/en/programme/knowledge-network)
