@@ -1,10 +1,10 @@
 ---
-title: Sign
+title: A Shared Ambition
 description: Sign up to the vision for an alliance for biodiversity knowledge
 image: /images/gbio.jpg
 imageTitle: Global Biodiversity Informatics Outlook
-
 ---
+
 # A shared ambition
 We believe that delivering robust interconnected communities, systems and processes to handle biodiversity information for the common good can best be achieved through a lightweight alliance between all stakeholders with an interest in this outcome.
 Accordingly, as signatories, we acknowledge out intent to collaborate in developing such an alliance focused on achieving the following interlinked ambitions:
@@ -42,3 +42,12 @@ _Support for international collaboration_
 20.	To ensure effective access to, and use of, data at every scale—global, regional, national and local
 21.	To acknowledge and support the role of regional, national and local investments as critical and effective components within a global solution
 22.	To overcome barriers to data sharing or use arising from language or culture
+
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - url: ../sign/
+    title: Sign
+    description: Sign to show your support
+```
