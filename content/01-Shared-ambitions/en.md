@@ -10,14 +10,14 @@ We believe that delivering robust interconnected communities, systems and proces
 
 Accordingly, as signatories, we acknowledge out intent to collaborate in developing such an alliance focused on achieving the following interlinked ambitions:
 
-_Support for science and evidence-based planning_
+    _Support for science and evidence-based planning_
 
 1.	To deliver biodiversity knowledge and understanding in forms which support critical research requirements and enable biodiversity to be correctly measured and valued for societal goals
 2.	To serve as the foundation for basic research in biodiversity and information science that serves human understanding of the functioning and state of natural systems 
 3.	To provide a platform for continuous growth in understanding of biodiversity by preserving, building on and improving existing knowledge
-    ```
-_Support for open data and open science_
-    ```
+
+    _Support for open data and open science_
+
 4.	To remove barriers to free and open sharing of data and to the adoption of FAIR data principles  for biodiversity data
 5.	To describe all data resources with rich metadata that supports present and future reuse
 6.	To ensure all data resources are preserved in stable and persistent trusted repositories
