@@ -24,16 +24,16 @@ Accordingly, as signatories, we acknowledge out intent to collaborate in develop
 7.	To enable collaborative curation, annotation and improvement of all data by any relevant experts and expert communities
 8.	To enable all contributors of knowledge or expertise to have their contributions fully recorded, acknowledged and credited
 9.	To track the provenance and attribution of all sources of information
-    ```
-_Support for highly-connected biodiversity data_
-    ```
+
+    _Support for highly-connected biodiversity data_
+
 10.	To mobilize structured digital representations of historical data sources, including museum collections and literature
 11.	To ensure that all new observations and measurements are accessible in structured digital representations as rapidly as possible after capture
 12.	To enable the combination, querying and analysis of different classes of biodiversity information (distribution, traits, genes, etc.) as an interconnected whole
 13.	To work with other research communities and infrastructures to achieve interoperability with earth observations, social science data and other resources
-    ```
-_Support for international collaboration_
-    ```
+
+    _Support for international collaboration_
+
 14.	To address capacity needs around biodiversity informatics in all regions and in all sectors
 15.	To secure funding to maintain services and component that the community recognizes as critical elements within a distributed knowledge infrastructure
 16.	To develop flexible, collaborative approaches to designing, building and sustaining all components of this distributed knowledge infrastructure
