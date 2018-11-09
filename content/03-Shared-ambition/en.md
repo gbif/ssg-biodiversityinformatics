@@ -7,6 +7,7 @@ imageTitle: Global Biodiversity Informatics Outlook
 
 # A shared ambition
 We believe that delivering robust interconnected communities, systems and processes to handle biodiversity information for the common good can best be achieved through a lightweight alliance between all stakeholders with an interest in this outcome.
+
 Accordingly, as signatories, we acknowledge out intent to collaborate in developing such an alliance focused on achieving the following interlinked ambitions:
 
 _Support for science and evidence-based planning_
