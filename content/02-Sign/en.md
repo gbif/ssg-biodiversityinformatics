@@ -1,14 +1,14 @@
 ---
-title: Sign
-description: Sign on to the vision for an alliance for biodiversity knowledge
+title: Declare your support
+description: Sign on to declare your support for an alliance for biodiversity knowledge
 image: /images/gbio.jpg
 imageTitle: Global Biodiversity Informatics Outlook
 
 ---
 
-We believe that delivering robust interconnected communities, systems and processes to handle biodiversity information for the common good can best be achieved through a lightweight alliance between all stakeholders with an interest in this outcome.
+This Declaration of Support outlines the goals of the proposed alliance for biodiversity knowledge, which seeks to deliver robust and interconnected communities, systems and processes to handle biodiversity information for the good of science and society.
 
-[Read our shared ambitions](../shared-ambitions/)
+Please read the [full statement](../shared-ambitions/) before signing on to declare your support.
 
 ------
 
