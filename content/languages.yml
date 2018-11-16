@@ -3,6 +3,8 @@ en:
   name: English
 es:
   name: Español
+eu:
+  name: Euskera
 
 #
 # should be in the following format

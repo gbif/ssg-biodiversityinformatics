@@ -50,6 +50,6 @@ templates:
 - path: actions.html
   actions:
   - url: ../sign/
-    title: Sign
+    title: Firmarse
     description: Sign on to show your support
 ```
