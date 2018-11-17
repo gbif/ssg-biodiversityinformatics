@@ -15,5 +15,5 @@ Lea [la declaración completa](../shared-ambitions/) antes de iniciar sesión pa
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html 
+- path: signup/signup_es.html 
 ```

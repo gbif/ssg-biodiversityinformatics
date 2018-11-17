@@ -15,5 +15,5 @@ Babesa adierazteko saioa hasi aurretik, irakur ezazu [adierazpena osorik](../sha
 
 ```styledYaml
 templates:
-- path: signup/signup_en.html 
+- path: signup/signup_eu.html 
 ```
