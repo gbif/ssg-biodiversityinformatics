@@ -5,7 +5,7 @@ image: /images/gbio.jpg
 imageTitle: Global Biodiversity Informatics Outlook
 ---
 
-# Metas compartidas
+# Jomuga partekatuak
 Interesdun alde guztien arteko aliantzarekin biodibertsitateari buruzko informazioa guztion ongizaterako kudeatzeko komunitateak, sistemak eta prozesuak hobeto interkonektatzea lor daitekeela uste dugu.
 
 Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza garatzen laguntzeko asmoa dugula adierazten dugu:

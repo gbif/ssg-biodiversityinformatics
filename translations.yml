@@ -2,49 +2,57 @@
 
 siteName:
   en: Towards an alliance for biodiversity knowledge 
-  es: GBIC2
-  fr: GBIC2
-  pt: GBIC2
+  es: Hacia una alianza para el conocimiento de la biodiversidad
+  eu: Biodibertsitatearen ezagutzaren aliatuerantz
+  fr: Vers une alliance pour la connaissance de la biodiversité
+  pt: Para uma aliança pelo conhecimento da biodiversidade
 
 NavSearch:
   en: Search
   es: Buscar
+  eu: Arakatu
   fr: Chercher
   pt: Pesquisar
 
 NavMenu:
   en: Menu
   es: Menú
+  eu: Menu
   fr: Menu
   pt: Cardápio
 
 searchPlaceholder:
   en: Search...
   es: Buscar...
+  eu: Arakatu...
   fr: Chercher...
   pt: Pesquisar...
 
 skipLink:
   en: Skip to main content
   es: Saltar al contenido principal
+  eu: Edukin nagusira joan
   fr: Passer au contenu principal
   pt: Ir para o conteúdo principal
 
 languageSelector_title:
   en: Select language
   es: Seleccione el idioma
+  eu: Hautatu hizkuntza
   fr: Choisir la langue
   pt: Selecione o idioma
 
 translationNotAvailable:
   en: This text is not available in English
   es: Este texto no está disponible en español
+  eu: Testu hau ez dago erabilgarri euskaraz
   fr: Cette page n’est pas disponible en français
   pt: Esta página não está disponível em Português
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
   es: Cannot find what you are looking for? Feel free to contact us.
+  eu: Ezin duzu bilatu zer bilatzen ari zaren? Jar zaitez gurekin harremanetan.
   fr: Cannot find what you are looking for? Feel free to contact us.
   pt: Cannot find what you are looking for? Feel free to contact us.
 
