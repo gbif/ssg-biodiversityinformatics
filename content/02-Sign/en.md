@@ -5,6 +5,7 @@ image: /images/gbio.jpg
 imageTitle: Global Biodiversity Informatics Outlook
 
 ---
+# Declare your support
 
 This Declaration of Support outlines the goals of the proposed alliance for biodiversity knowledge, which seeks to deliver robust and interconnected communities, systems and processes to handle biodiversity information for the good of science and society.
 
