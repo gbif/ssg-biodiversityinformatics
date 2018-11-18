@@ -10,7 +10,7 @@ Interesdun alde guztien arteko aliantzarekin biodibertsitateari buruzko informaz
 
 Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza garatzen laguntzeko asmoa dugula adierazten dugu:
 
-&nbsp;&nbsp;&nbsp;&nbsp;__Babesa zientziari eta ebidentzian oinarritutako plangintzari__
+    __Babesa zientziari eta ebidentzian oinarritutako plangintzari__
 
 1.	Biodibertsitatearen gaineko ezagutza eta ulermena ematea, ikerketaren betekizun kritikoak babesteko moduan eta biodibertsitatea gizarte-xedeetarako behar bezala neurtzea eta baloratzea ahalbidetzeko moduan
 2.	Biodibertsitatearen eta informazioaren zientzien arloko oinarrizko ikerketarako funtsa izatea, oinarrizko ikerketa horrekin gizakiok natura-sistemen funtzionamendua eta egoera ulertzea nahi baita
@@ -44,8 +44,6 @@ Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza ga
 21.	Eskualdeko, estatuko eta tokiko inbertsioak irtenbide orokor baten barruan osagai kritikoak eta eraginkorrak direla aitortzea eta babestea.
 22.	Hizkuntzatik edo kulturatik eratorritako datuen erabilerak eta trukeak dauzkaten oztopoak gainditzea
 
-_[Eusko Jaurlaritzari](http://www.euskadi.eus/hasiera) itzulpen honen berri emanez_
-
 
 ```styledYaml
 templates:
@@ -55,3 +53,5 @@ templates:
     title: Saioa hasi
     description: Sign on to show your support
 ```
+
+_[Eusko Jaurlaritzari](http://www.euskadi.eus/hasiera) itzulpen honen berri emanez_
