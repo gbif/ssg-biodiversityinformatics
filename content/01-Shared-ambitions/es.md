@@ -12,7 +12,7 @@ En consecuencia, como signatarios, reconocemos nuestra intención de colaborar e
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;__Respaldo a la ciencia y la planificación basada en la evidencia__
+&nbsp;&nbsp;&nbsp; __Respaldo a la ciencia y la planificación basada en la evidencia__
 
 1.	Proporcionar conocimiento y comprensión de la biodiversidad en formas que respalden los requisitos críticos de investigación y permitan que la biodiversidad se mida y valore correctamente para los objetivos sociales
 2.	Ser el fundamento para la investigación básica en ciencias de la biodiversidad y de la información que sirva para la comprensión humana del funcionamiento y el estado de los sistemas naturales
@@ -46,9 +46,6 @@ En consecuencia, como signatarios, reconocemos nuestra intención de colaborar e
 21.	Reconocer y apoyar el papel de las inversiones regionales, nacionales y locales como componentes críticos y efectivos dentro de una solución global
 22.	Superar las barreras al uso o intercambio de datos derivados de la lengua o la cultura
 
-_Gracias al [Gobierno Vasco](http://www.euskadi.eus/inicio) por esta traducción_
-
-
 ```styledYaml
 templates:
 - path: actions.html
@@ -57,3 +54,5 @@ templates:
     title: Firmarse
     description: Sign on to show your support
 ```
+
+_Gracias al [Gobierno Vasco](http://www.euskadi.eus/inicio) por esta traducción_
