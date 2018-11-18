@@ -11,13 +11,14 @@ Creemos que una alianza entre todas las partes interesadas puede conseguir una m
 En consecuencia, como signatarios, reconocemos nuestra intención de colaborar en el desarrollo de dicha alianza centrada en lograr las siguientes metas:
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Respaldo a la ciencia y la planificación basada en la evidencia_
+
+&nbsp;&nbsp;&nbsp;&nbsp;__Respaldo a la ciencia y la planificación basada en la evidencia__
 
 1.	Proporcionar conocimiento y comprensión de la biodiversidad en formas que respalden los requisitos críticos de investigación y permitan que la biodiversidad se mida y valore correctamente para los objetivos sociales
 2.	Ser el fundamento para la investigación básica en ciencias de la biodiversidad y de la información que sirva para la comprensión humana del funcionamiento y el estado de los sistemas naturales
 3.	Proporcionar una plataforma para el crecimiento continuo en la comprensión de la biodiversidad preservando, construyendo y mejorando el conocimiento existente
 
-    _Respaldo a los datos abiertos y ciencia abierta_
+    __Respaldo a los datos abiertos y ciencia abierta__
 
 4.	Eliminar las barreras para compartir de forma libre y abierta los datos y para la adopción de los principios de FAIR  para datos de biodiversidad
 5.	Describir todos los recursos de datos con abundantes metadatos para posibilitar la reutilización presente y futura
@@ -26,14 +27,14 @@ En consecuencia, como signatarios, reconocemos nuestra intención de colaborar e
 8.	Permitir que todos los que aportan conocimiento o experiencia tengan sus contribuciones completamente registradas, reconocidas y acreditadas
 9.	Rastrear la procedencia y atribución de todas las fuentes de información
 
-    _Respaldo a los datos de biodiversidad altamente conectados_
+    __Respaldo a los datos de biodiversidad altamente conectados__
 
 10.	Movilizar representaciones digitales estructuradas de fuentes de datos históricos, incluidas las colecciones de museos y la bibliografía.
 11.	Garantizar que todas las nuevas observaciones y mediciones estén accesibles en representaciones digitales estructuradas lo más rápido posible después de la captura
 12.	Habilitar la combinación, consulta y análisis de diferentes clases de información de biodiversidad (distribución, rasgos, genes, etc.) como un todo interconectado
 13.	Trabajar con otras comunidades de investigación e infraestructuras para lograr la interoperabilidad con observaciones de la Tierra, datos de ciencias sociales y otros recursos
 
-    _Respaldo a la colaboración internacional_
+    __Respaldo a la colaboración internacional__
 
 14.	Abordar las necesidades de capacitación en torno a la informática de la biodiversidad en todas las regiones y en todos los sectores
 15.	Asegurar la financiación para mantener los servicios y componentes que la comunidad reconoce como elementos críticos dentro de una infraestructura de conocimiento distribuido
@@ -44,6 +45,9 @@ En consecuencia, como signatarios, reconocemos nuestra intención de colaborar e
 20.	Garantizar el acceso y el uso efectivo de los datos a cualquier escala: mundial, regional, nacional y local
 21.	Reconocer y apoyar el papel de las inversiones regionales, nacionales y locales como componentes críticos y efectivos dentro de una solución global
 22.	Superar las barreras al uso o intercambio de datos derivados de la lengua o la cultura
+
+_Gracias al [Gobierno Vasco](http://www.euskadi.eus/inicio) por esta traducción_
+
 
 ```styledYaml
 templates:

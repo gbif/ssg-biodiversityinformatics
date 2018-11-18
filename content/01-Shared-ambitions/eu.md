@@ -10,13 +10,13 @@ Interesdun alde guztien arteko aliantzarekin biodibertsitateari buruzko informaz
 
 Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza garatzen laguntzeko asmoa dugula adierazten dugu:
 
-&nbsp;&nbsp;&nbsp;&nbsp;_Babesa zientziari eta ebidentzian oinarritutako plangintzari_
+&nbsp;&nbsp;&nbsp;&nbsp;__Babesa zientziari eta ebidentzian oinarritutako plangintzari__
 
 1.	Biodibertsitatearen gaineko ezagutza eta ulermena ematea, ikerketaren betekizun kritikoak babesteko moduan eta biodibertsitatea gizarte-xedeetarako behar bezala neurtzea eta baloratzea ahalbidetzeko moduan
 2.	Biodibertsitatearen eta informazioaren zientzien arloko oinarrizko ikerketarako funtsa izatea, oinarrizko ikerketa horrekin gizakiok natura-sistemen funtzionamendua eta egoera ulertzea nahi baita
 3.	Biodibertsitatearen ulermenean etengabe hazteko plataforma atontzea, gaur egungo ezagutza zaintzeko, eraikitzeko eta hobetzeko xedez
 
-    _Babesa datu irekiei eta zientzia irekiari_
+    __Babesa datu irekiei eta zientzia irekiari__
 
 4.	Datuak aske eta modu irekian partekatzeko nahiz FAIRek  biodibertsitateari buruzko datuetarako dituen printzipioak geureganatzeko oztopoak deuseztatzea
 5.	Metadatu ugarirekin deskribatzea datu-baliabideak, gaur nahiz bihar berrerabili ahal izateko horiek
@@ -25,14 +25,14 @@ Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza ga
 8.	Ezagutza edo eskarmentua eransten duten guztiek beren ekarpenak guztiz erregistratuta, aitortuta eta egiaztatuta edukitzea ahalbidetzea
 9.	Informazio-iturri guztien jatorria eta eskuduntza arakatzea
 
-    _Babesa oso konektatuta dauden biodibertsitate-datuei_
+    __Babesa oso konektatuta dauden biodibertsitate-datuei__
 
 10.	Datu historikoen iturrien irudikapen digital egituratuak mugiaraztea, museoetako bildumak eta bibliografia barne hartuta
 11.	Behaketa eta neurketa berriak egin ondoren, horiek guztiak irudikapen digitaletan ahalik eta lasterren irisgarri egotea bermatzea
 12.	Biodibertsitateari buruzko informazio mota ororen (banaketa, ezaugarriak, geneak eta abar) konbinaketa, kontsulta eta analisia ahalbidetzea, osotasun interkonektatua balitz bezala
 13.	Beste ikerketa-komunitate eta azpiegitura batzuekin lan egitea, elkarreragingarritasuna lortzeko Lurraren gaineko behaketen, gizarte-zientzien datuen eta bestelako baliabideen bidez
 
-    _Babesa nazioarteko lankidetzari_
+    __Babesa nazioarteko lankidetzari__
 
 14.	Eskualde eta sektore guztietan jorratzea biodibertsitate-informatikaren inguruko gaikuntza-premiak
 15.	Komunitateak ezagutza-azpiegitura antolatu baten barruan elementu kritikotzat jotzen dituen zerbitzuei eta osagaiei eusteko finantzazioa ziurtatzea
@@ -43,6 +43,9 @@ Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza ga
 20.	Edozein eskalatan bermatzea datuetarako sarbidea eta horien erabilera eraginkorra: mundu-, eskualde-, estatu- eta toki-mailan
 21.	Eskualdeko, estatuko eta tokiko inbertsioak irtenbide orokor baten barruan osagai kritikoak eta eraginkorrak direla aitortzea eta babestea.
 22.	Hizkuntzatik edo kulturatik eratorritako datuen erabilerak eta trukeak dauzkaten oztopoak gainditzea
+
+_[Eusko Jaurlaritzari](http://www.euskadi.eus/hasiera) itzulpen honen berri emanez_
+
 
 ```styledYaml
 templates:

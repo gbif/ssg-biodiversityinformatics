@@ -11,6 +11,7 @@ Esta Declaración de apoyo describe los objetivos de la alianza propuesta para e
 
 Lea [la declaración completa](../shared-ambitions/) antes de iniciar sesión para declarar su apoyo.
 
+_Gracias al [Gobierno Vasco](http://www.euskadi.eus/inicio) por esta traducción_
 ------
 
 ```styledYaml
