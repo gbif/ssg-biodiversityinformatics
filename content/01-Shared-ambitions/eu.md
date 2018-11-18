@@ -10,7 +10,7 @@ Interesdun alde guztien arteko aliantzarekin biodibertsitateari buruzko informaz
 
 Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza garatzen laguntzeko asmoa dugula adierazten dugu:
 
-    __Babesa zientziari eta ebidentzian oinarritutako plangintzari__
+&nbsp;&nbsp;&nbsp; __Babesa zientziari eta ebidentzian oinarritutako plangintzari__
 
 1.	Biodibertsitatearen gaineko ezagutza eta ulermena ematea, ikerketaren betekizun kritikoak babesteko moduan eta biodibertsitatea gizarte-xedeetarako behar bezala neurtzea eta baloratzea ahalbidetzeko moduan
 2.	Biodibertsitatearen eta informazioaren zientzien arloko oinarrizko ikerketarako funtsa izatea, oinarrizko ikerketa horrekin gizakiok natura-sistemen funtzionamendua eta egoera ulertzea nahi baita
