@@ -14,9 +14,9 @@ _Delivering biodiversity knowledge in the information age_
 
 > [__Read our shared ambitions__](../shared-ambitions) and [__sign on__](../sign)
 
-The world’s biodiversity is responsible for maintaining the systems of life, providing us with food and regulating the environment, yet it is under great pressure as the human race continues to transform all parts of the planet.
+The world’s biodiversity is responsible for maintaining the systems of life, providing us with food and regulating the environment, yet it is under great pressure as humans continue to transform all parts of the planet.
 
-It is well recognized that a sustainable future will depend on deeper understanding of the complexity of life on earth, from knowing the diversity of species that share this world, through documenting their biology and interactions, to monitoring and responding to changing patterns in their distribution and organization.
+A sustainable future will depend on deeper understanding of the complexity of life on earth, from knowing the diversity of species that share this world, through documenting their biology and interactions, to monitoring and responding to changing patterns in their distribution and organization.
  
 Researchers, including amateur observers, have been recording information on biodiversity for centuries, and modern advances in digital communications, high-resolution imaging, rapid sequencing and other technologies are accelerating the speed and richness of data captured. Many infrastructures and projects have been established at all scales (global, regional, national, local, institutional) to handle, organize and curate these data. However, these efforts remain insufficiently aligned and interconnected to deliver the comprehensive perspectives required by science, governments and society.
  
