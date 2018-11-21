@@ -2,7 +2,7 @@
 title: Home
 style: home article
 description: Seeking to coordinate collaboration between efforts to observe, measure and model the living planet while supporting connected solutions to answer key questions about life on Earth
-image: /images/art.jpg
+image: /images/art.png
 
 ---
 Towards an alliance for biodiversity knowledge
