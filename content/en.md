@@ -22,4 +22,7 @@ A diverse group of more than 100 internationl experts attended the [GBIC2 confer
 
 Working together, we propose the establishment of a lightweight alliance to foster closer coordination and planning and to form open participatory projects, increasing connectivity and fostering frictionless and comprehensive access to available data. This site provides willing partners with an opportunity to [express their interest in this alliance](../sign) and to participate in the next steps toward making it a reality.
 
+Questions? Comments? [Email us](mailto:alliance@gbif.org).
+
+-----
 > Looking for the GBIO report? [Find it here >](https://doi.org/10.15468/6jxa-yb44)
