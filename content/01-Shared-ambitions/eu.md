@@ -1,8 +1,8 @@
 ---
 title: Jomuga partekatuak
 description: Bioaniztasunaren ezagutza lortzeko aliantzaren ikuspegia harpidetu
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-shared.png
+
 ---
 
 # Jomuga partekatuak

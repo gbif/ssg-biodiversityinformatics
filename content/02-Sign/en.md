@@ -1,8 +1,7 @@
 ---
 title: Declare your support
 description: Sign on to declare your support for an alliance for biodiversity knowledge
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-sign.png
 
 ---
 # Declare your support

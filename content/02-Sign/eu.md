@@ -1,8 +1,7 @@
 ---
 title: Zure laguntza deklaratu
 description: Hasi saioa zure biodibertsitatea ezagutzera emateko aliantza egiteko
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-sign.png
 
 ---
 # Zure laguntza deklaratu

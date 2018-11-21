@@ -1,8 +1,8 @@
 ---
 title: Metas compartidas
 description: Inscríbase a la visión de una alianza para el conocimiento de la biodiversidad
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-shared.png
+
 ---
 
 # Metas compartidas

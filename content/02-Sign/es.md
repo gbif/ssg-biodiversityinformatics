@@ -1,8 +1,7 @@
 ---
 title: Declarar su apoyo
 description: Firmarse para declarar su apoyo a una alianza para el conocimiento de la biodiversidad
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-sign.png
 
 ---
 # Declarar su apoyo

@@ -1,8 +1,8 @@
 ---
 title: Shared ambitions
 description: Sign up to the vision for an alliance for biodiversity knowledge
-image: /images/gbio.jpg
-imageTitle: Global Biodiversity Informatics Outlook
+image: /images/art-shared.png
+
 ---
 
 # Shared ambitions
