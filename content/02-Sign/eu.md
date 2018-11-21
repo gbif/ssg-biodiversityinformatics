@@ -10,11 +10,12 @@ Babes-adierazpen honetan, biodibertsitatea ezagutzeko proposatu den aliantzaren 
 
 Babesa adierazteko saioa hasi aurretik, irakur ezazu [adierazpena osorik](../shared-ambitions/).
 
-_[Eusko Jaurlaritzari](http://www.euskadi.eus/hasiera) itzulpen honen berri emanez_
-
 ------
 
 ```styledYaml
 templates:
 - path: signup/signup_eu.html 
 ```
+
+
+_[Eusko Jaurlaritzari](http://www.euskadi.eus/hasiera) itzulpen honen berri emanez_
