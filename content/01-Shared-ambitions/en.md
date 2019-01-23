@@ -43,6 +43,7 @@ Accordingly, as signatories, we acknowledge our intent to collaborate in develop
 20.	To ensure effective access to, and use of, data at every scale—global, regional, national and local
 21.	To acknowledge and support the role of regional, national and local investments as critical and effective components within a global solution
 22.	To overcome barriers to data sharing or use arising from language or culture
+23. To support the practical implementation of international agreements with reference to access and benefit sharing
 
 ```styledYaml
 templates:
