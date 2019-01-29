@@ -5,6 +5,8 @@ es:
   name: Español
 eu:
   name: Euskara
+ar:
+  name: العربية
 
 #
 # should be in the following format
