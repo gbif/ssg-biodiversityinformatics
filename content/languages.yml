@@ -7,7 +7,8 @@ eu:
   name: Euskara
 ar:
   name: العربية
-
+  dir: rtl
+  
 #
 # should be in the following format
 # en:
