@@ -6,6 +6,7 @@ siteName:
   eu: Biodibertsitatea ezagutzeko aliantzako bidean
   fr: Vers une alliance pour la connaissance de la biodiversité
   pt: Para uma aliança pelo conhecimento da biodiversidade
+  ar: نحو تحالف من أجل المعرفة بالتنوع البيولوجي
 
 NavSearch:
   en: Search
@@ -13,6 +14,7 @@ NavSearch:
   eu: Arakatu
   fr: Chercher
   pt: Pesquisar
+  ar: البحث
 
 NavMenu:
   en: Menu
@@ -20,6 +22,7 @@ NavMenu:
   eu: Menu
   fr: Menu
   pt: Cardápio
+  ar: القائمه
 
 searchPlaceholder:
   en: Search...
@@ -27,6 +30,7 @@ searchPlaceholder:
   eu: Arakatu...
   fr: Chercher...
   pt: Pesquisar...
+  ar: ...البحث
 
 skipLink:
   en: Skip to main content
@@ -34,6 +38,7 @@ skipLink:
   eu: Edukin nagusira joan
   fr: Passer au contenu principal
   pt: Ir para o conteúdo principal
+  ar: انتقل إلى المحتوي الرئيسي
 
 languageSelector_title:
   en: Select language
@@ -41,6 +46,7 @@ languageSelector_title:
   eu: Hautatu hizkuntza
   fr: Choisir la langue
   pt: Selecione o idioma
+  ar: اختر اللغة
 
 translationNotAvailable:
   en: This text is not available in English
@@ -48,6 +54,7 @@ translationNotAvailable:
   eu: Testu hau ez dago erabilgarri euskaraz
   fr: Cette page n’est pas disponible en français
   pt: Esta página não está disponível em Português
+  ar: الترجمة غير متوفرة باللغة العربية
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
@@ -55,6 +62,7 @@ cannotFindInformation:
   eu: Ezin duzu bilatu zer bilatzen ari zaren? Jar zaitez gurekin harremanetan.
   fr: Cannot find what you are looking for? Feel free to contact us.
   pt: Cannot find what you are looking for? Feel free to contact us.
+  ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
 
 
 
