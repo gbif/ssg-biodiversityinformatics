@@ -1,12 +1,12 @@
 # Language translations for shared variables across pages. I.e. navigation buttons, skip links etc.
 
 siteName:
-  en: Towards an alliance for biodiversity knowledge 
-  es: Hacia una alianza para el conocimiento de la biodiversidad
-  eu: Biodibertsitatea ezagutzeko aliantzako bidean
-  fr: Vers une alliance pour la connaissance de la biodiversité
-  pt: Para uma aliança pelo conhecimento da biodiversidade
-  ar: نحو تحالف من أجل المعرفة بالتنوع البيولوجي
+  en: an alliance for biodiversity knowledge 
+  es: una alianza para el conocimiento de la biodiversidad
+  eu: biodibertsitatearen ezagutzaren arteko aliantza
+  fr: une alliance pour la connaissance de la biodiversité
+  pt: uma aliança pelo conhecimento da biodiversidade
+  ar: تحالف من أجل معرفة التنوع البيولوجي
 
 NavSearch:
   en: Search
