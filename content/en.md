@@ -8,9 +8,11 @@ image: /images/art.png
 an alliance for biodiversity knowledge
 ===================
 
-In July 2018, GBIF—the Global Biodiversity Information Facility—convened the second Global Biodiversity Informatics Conference (GBIC2) with the aim of better aligning efforts to make current, accurate data, information and knowledge on the world's biodiversity freely and openly available at all scales. More than 100 delegates converged on an ambitious, multifaceted vision for an alliance for biodiversity knowledge. 
+Delegates to the second Global Biodiversity Informatics Conference—GBIC2—called for a _global alliance for biodiversity knowledge_ to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
 
-The alliance intends to develop shared, sustainable roadmaps that help focus resources and investment across all scales, delivering an integrated, interlinked knowledge base that addresses common needs across biodiversity informatics domains. The result will embed current scientific understanding of biodiversity within rational and timely decision-making processes to support a sustainable future for science and society.
+This alliance is open to all institutions, agencies, organizations, researchers and communities working to measure and monitor biodiversity or dependent on accurate information on biodiversity. By joining forces, every stakeholder will benefit from free and open access to the best possible evidence to address questions at all scales.
+
+Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
 
 [Find out more](../en/shared-ambitions/)
 [Sign on](../en/sign/)
