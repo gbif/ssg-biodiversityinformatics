@@ -12,9 +12,9 @@ In July 2018, GBIF—the Global Biodiversity Information Facility—convened the
 
 The alliance intends to develop shared, sustainable roadmaps that help focus resources and investment across all scales, delivering an integrated, interlinked knowledge base that addresses common needs across biodiversity informatics domains. The result will embed current scientific understanding of biodiversity within rational and timely decision-making processes to support a sustainable future for science and society.
 
-[Find out more]()
-[Sign on]()
-[Join the discussions]()
+[Find out more](../en/shared-ambitions/)
+[Sign on](../en/sign/)
+[Join the discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
 
 Questions? Comments? Want to get involved? [Email us](mailto:alliance@gbif.org).
 
