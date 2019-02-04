@@ -1,16 +1,16 @@
 ---
-title: Metas compartidas
+title: Llamada a la acción
 description: Inscríbase a la visión de una alianza para el conocimiento de la biodiversidad
 image: /images/art-shared.png
 
 ---
 
-# Metas compartidas
+# Llamada a la acción
+
+### Metas compartidas
 Creemos que una alianza entre todas las partes interesadas puede conseguir una mejor interconexión de comunidades, sistemas y procesos para gestionar la información de biodiversidad para el bien común.
 
 En consecuencia, como signatarios, reconocemos nuestra intención de colaborar en el desarrollo de dicha alianza centrada en lograr las siguientes metas:
-
-
 
 &nbsp;&nbsp;&nbsp; __Respaldo a la ciencia y a la planificación basada en la evidencia__
 

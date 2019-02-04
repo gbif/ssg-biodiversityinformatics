@@ -1,11 +1,12 @@
 ---
-title: Jomuga partekatuak
+title: Ekintza deitu
 description: Bioaniztasunaren ezagutza lortzeko aliantzaren ikuspegia harpidetu
 image: /images/art-shared.png
 
 ---
 
-# Jomuga partekatuak
+# Eekintza deitu
+
 Interesdun alde guztien arteko aliantzarekin biodibertsitateari buruzko informazioa guztion ongizaterako kudeatzeko komunitateak, sistemak eta prozesuak hobeto interkonektatzea lor daitekeela uste dugu.
 
 Ondorioz, sinatzaileak garen heinean, jomuga hauek lortu nahi dituen aliantza garatzen laguntzeko asmoa dugula adierazten dugu:
