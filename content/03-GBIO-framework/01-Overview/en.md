@@ -1,10 +1,10 @@
 ---
-title: GBIO Framework
+title: Overview
 description: Delegates to the second Global Biodiversity Informatics Conference (GBIC2) called for a global alliance for biodiversity knowledge to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
 image: /images/art.png
 
 ---
-GBIO Framework
+Overview of the GBIO Framework
 ===================
 
 As the primary output of of the first GBIC event, the GBIO Framework can help align efforts of all stakeholders to enable integrated understanding of biodiversity.
