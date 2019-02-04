@@ -14,9 +14,11 @@ This alliance is open to all institutions, agencies, organizations, researchers 
 
 Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
 
-[Find out more](../en/shared-ambitions/)
+<p class="buttons">
+[Find out more 2](../en/shared-ambitions/)
 [Sign on](../en/sign/)
 [Join the discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
+</p>
 
 Questions? Comments? Want to get involved? [Email us](mailto:alliance@gbif.org).
 
