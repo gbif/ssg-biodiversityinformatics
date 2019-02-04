@@ -8,13 +8,6 @@ image: /images/art.png
 an alliance for biodiversity knowledge
 ===================
 
-<!--
-embedding example. ratio defined as padding-bottom. defaults to 42%
--->
-<div class="embed-container" style="padding-bottom: 42%">
-  <iframe src="https://player.vimeo.com/video/42261942" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 <p class="buttons">
 [About the alliance](../en/call-to-action/)
 [Sign on](../en/sign/)
