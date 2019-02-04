@@ -27,16 +27,16 @@ gulp --production
 
 ## custom components in this project
 
-```
-<!---
-styled custom component
+**Framework buttons**
 you can have one or more buttons.
-alignmenment options: left, center, spaceAround
-title: what text should go below the icon
-img options are the ones provided in the image folder. 
-link: where to link to
-background options: understanding, evidence, data, culture
--->
+
+* alignmenment options: left, center, spaceAround
+* title: what text should go below the icon
+* img options are the ones provided in the image folder. 
+* link: where to link to
+* background options: understanding, evidence, data, culture
+
+```
 ```styledYaml
 templates:
 - path: framework.html
