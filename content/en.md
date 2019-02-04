@@ -26,7 +26,7 @@ background options: understanding, evidence, data, culture
 ```styledYaml
 templates:
 - path: framework.html
-  alignment: left
+  alignment: spaceAround
   buttons:
   - title: Trends and predictions
     img: 02-trends.png
