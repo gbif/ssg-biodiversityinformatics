@@ -29,20 +29,20 @@ templates:
   alignment: left
   buttons:
   - title: Trends and predictions
-    img: published-materials.png
-    link: ./some/page
+    img: 02-trends.png
+    link: #
     background: understanding
   - title: Integrated occurrence data
-    img: published-materials.png
-    link: /ar/some/page
+    img: 08-integrated-occurrences.png
+    link: #
     background: evidence
   - title: Published materials
-    img: published-materials.png
-    link: /ar/some/page
+    img: 11-published-materials.png
+    link: #
     background: data
   - title: Biodiversity knowledge experts
-    img: published-materials.png
-    link: ../some/page
+    img: 20-knowledge-network.png
+    link: #
     background: culture
 ```
 
