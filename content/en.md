@@ -28,11 +28,11 @@ templates:
 - path: framework.html
   alignment: left
   buttons:
-  - title: Published materials
+  - title: Trends and predictions
     img: published-materials.png
     link: ./some/page
     background: understanding
-  - title: Multiscale
+  - title: Integrated occurrence data
     img: published-materials.png
     link: /ar/some/page
     background: evidence
@@ -40,7 +40,7 @@ templates:
     img: published-materials.png
     link: /ar/some/page
     background: data
-  - title: Published materials
+  - title: Biodiversity knowledge experts
     img: published-materials.png
     link: ../some/page
     background: culture
