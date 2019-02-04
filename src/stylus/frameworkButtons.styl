@@ -1,0 +1,55 @@
+.frameworkButtons {
+	display flex
+  flex-direction row
+  flex-wrap wrap
+  margin 0 vr-block(-0.5)
+  justify-content left
+  &.spaceAround {
+    justify-content space-around
+  }
+  &.center {
+    justify-content center
+  }
+  .frameworkButton {
+    overflow hidden
+    text-align center
+    background #f15928 
+    color white
+    margin vr-block(0.5)
+    flex 0 0 120px
+    border-radius 5px
+    font-weight bold
+    padding vr-block(0.5)
+    span {
+      display block
+    }
+    img {
+      margin auto
+      height 100px
+    }
+  }
+  .understanding {
+    background: #6c304c
+    &:hover {
+      background: #6c304c
+    }
+  }
+  .evidence {
+    background: #344f63
+    &:hover {
+      background: #344f63
+    }
+  }
+  .data {
+    background: #745381
+    &:hover {
+      background: #745381
+    }
+  }
+  .culture {
+    background: #71806b
+    &:hover {
+      background: #71806b
+    }
+  }
+}
