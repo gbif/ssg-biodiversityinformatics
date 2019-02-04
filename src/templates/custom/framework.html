@@ -1,0 +1,9 @@
+<!--Swig template-->
+<div class="frameworkButtons {{alignment}}">
+    {% for button in buttons %}
+    <a href="{{button.link}}" class="frameworkButton {{button.background}}">
+        <img src="/images/{{button.img}}" />
+        <span>{{button.title}}</span>
+    </a>
+    {% endfor %}
+</div>
