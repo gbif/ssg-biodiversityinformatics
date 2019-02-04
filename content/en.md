@@ -11,7 +11,7 @@ an alliance for biodiversity knowledge
 <p class="buttons">
 [About the alliance](../en/call-to-action/)
 [Sign on](../en/sign/)
-[Join the discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
+[Join the discussion](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
 </p>
 
 <!---
