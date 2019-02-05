@@ -1,7 +1,8 @@
 ---
 title: Attendees
 description: Participants in the GBIC2 conference
-
+category: GBIC2
+subCategory: Attendees
 ---
 # Attendees
 

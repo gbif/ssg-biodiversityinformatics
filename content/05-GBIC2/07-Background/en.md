@@ -3,7 +3,8 @@ title: Background
 description: How and why is a global network of institutions and organizations working to organize, interconnect and deliver the world's biodiversity information?
 image: /images/gbic-group.jpg
 imageTitle: Group photo of attendees at GBIC, 2-4 July 2012, Copenhagen. Photo by Ciprian-Marius Vizitiu.
-
+category: GBIC2
+subCategory: Background
 ---
 # Background
 

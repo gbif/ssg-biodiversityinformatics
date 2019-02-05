@@ -4,7 +4,8 @@ description: What do attendees hope to achieve in this meeting?
 image: /images/HirundoRustica.jpg
 imageTitle: Wire-tailed swallow (Hirundo smithii ssp. smithii), Kruger National Park, South Africa. Photo by maritzasouthafrica via iNaturalist.org, licensed under CC BY-NC 4.0.
 imageLink: https://www.gbif.org/occurrence/1806358262
-
+category: GBIC2
+subCategory: Goals
 ---
 # Scope and goals for GBIC2
 

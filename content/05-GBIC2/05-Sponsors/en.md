@@ -4,7 +4,8 @@ description: Special thanks to the sponsors whose support will increase what GBI
 image: /images/16913799510_c0d10d99ae_k.jpg
 imageTitle: British soldier lichen (*Cladonia cristatella*). Photo by Mike Lewinski via iNaturalist research-grade observations, licensed under CC BY 2.0.
 imageLink: https://flic.kr/p/rLBDjW
-
+category: GBIC2
+subCategory: Sponsors
 ---
 # Sponsors
 
