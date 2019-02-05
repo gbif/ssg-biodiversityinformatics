@@ -2,7 +2,8 @@
 title: Understanding
 description: Delegates to the second Global Biodiversity Informatics Conference (GBIC2) called for a global alliance for biodiversity knowledge to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
 image: /images/art.png
-
+category: GBIO Framework
+subCategory: Understanding
 ---
 Understanding
 ===================
