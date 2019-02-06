@@ -24,7 +24,7 @@ templates:
 - path: framework.html
   alignment: spaceAround
   buttons:
- - title: Open access and reuse culture
+  - title: Open access and reuse culture
     img: 16-access-reuse.png
     link: #
     background: culture
