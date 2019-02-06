@@ -2,7 +2,7 @@
 title: Home
 style: home article
 description: Seeking to coordinate collaboration between efforts to observe, measure and model the living planet while supporting connected solutions to answer key questions about life on Earth
-image: /images/art.png
+image: /images/art-crop.png
 
 ---
 Biodibertsitatea ezagutzeko aliantzako bidean

@@ -2,7 +2,7 @@
 title: Home
 style: home article
 description: Delegates to the second Global Biodiversity Informatics Conference (GBIC2) called for a global alliance for biodiversity knowledge to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
-image: /images/art.png
+image: /images/art-crop.png
 
 ---
 an alliance for biodiversity knowledge

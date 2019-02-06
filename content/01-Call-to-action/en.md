@@ -1,7 +1,7 @@
 ---
 title: Call to action
 description: Sign up to the vision for an alliance for biodiversity knowledge
-image: /images/art-shared.png
+image: /images/art-shared-crop.png
 
 ---
 

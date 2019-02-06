@@ -1,7 +1,7 @@
 ---
 title: Ekintza deitu
 description: Bioaniztasunaren ezagutza lortzeko aliantzaren ikuspegia harpidetu
-image: /images/art-shared.png
+image: /images/art-shared-crop.png
 
 ---
 

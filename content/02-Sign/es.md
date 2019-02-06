@@ -1,7 +1,7 @@
 ---
 title: Declarar su apoyo
 description: Firmarse para declarar su apoyo a una alianza para el conocimiento de la biodiversidad
-image: /images/art-sign.png
+image: /images/art-sign-crop.png
 
 ---
 # Declarar su apoyo

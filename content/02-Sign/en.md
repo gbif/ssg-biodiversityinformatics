@@ -1,7 +1,7 @@
 ---
 title: Declare your support
 description: Sign on to declare your support for an alliance for biodiversity knowledge
-image: /images/art-sign.png
+image: /images/art-sign-crop.png
 
 ---
 # Declare your support

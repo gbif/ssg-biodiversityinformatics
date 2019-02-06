@@ -1,7 +1,7 @@
 ---
 title: Zure laguntza deklaratu
 description: Hasi saioa zure biodibertsitatea ezagutzera emateko aliantza egiteko
-image: /images/art-sign.png
+image: /images/art-sign-crop.png
 
 ---
 # Zure laguntza deklaratu

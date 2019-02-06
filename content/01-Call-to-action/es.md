@@ -1,7 +1,7 @@
 ---
 title: Llamada a la acción
 description: Inscríbase a la visión de una alianza para el conocimiento de la biodiversidad
-image: /images/art-shared.png
+image: /images/art-shared-crop.png
 
 ---
 
