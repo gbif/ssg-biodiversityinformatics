@@ -97,7 +97,7 @@ templates:
   - title: Field surveys and observations
     img: 13-surveys-observations.png
     link: #
-    background: evidence
+    background: data
   - title: Sequences and genomes
     img: 14-sequences-genomes.png
     link: #
