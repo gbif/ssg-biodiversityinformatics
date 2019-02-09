@@ -2,7 +2,9 @@
 title: Home
 style: home article
 description: Seeking to coordinate collaboration between efforts to observe, measure and model the living planet while supporting connected solutions to answer key questions about life on Earth
-image: /images/art-crop.png
+image: /images/ortilia-ithra-doliveira.jpg
+imageTitle: Ortilia ithra by Douglas U. Oliveira via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1986622394
 
 ---
 Biodibertsitatea ezagutzeko aliantzako bidean

@@ -2,7 +2,9 @@
 title: المرفق العالمي لمعلومات التنوع البيولوجي
 style: home article
 description: السعي إلى تنسيق التعاون بين الجهود الرامية إلى مراقبة وقياس ونمذجة الكوكب الحي في الوقت الذي يدعم فيه الحلول المتصلة للإجابة عن الأسئلة الأساسية المتعلقة بالحياة على الأرض
-image: /images/art-crop.png
+image: /images/ortilia-ithra-doliveira.jpg
+imageTitle: Ortilia ithra by Douglas U. Oliveira via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1986622394
 
 ---
 المرفق العالمي لمعلومات التنوع البيولوجي
