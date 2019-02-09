@@ -1,8 +1,9 @@
 ---
 title: Call to action
 description: Sign up to the vision for an alliance for biodiversity knowledge
-image: /images/art-shared-crop.png
-
+image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
+imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1640125771
 ---
 
 # Call for an alliance on biodiversity knowledge

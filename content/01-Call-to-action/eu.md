@@ -1,7 +1,9 @@
 ---
 title: Ekintza deitu
 description: Bioaniztasunaren ezagutza lortzeko aliantzaren ikuspegia harpidetu
-image: /images/art-shared-crop.png
+image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
+imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1640125771
 
 ---
 
