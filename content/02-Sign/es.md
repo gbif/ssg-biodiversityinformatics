@@ -10,7 +10,7 @@ imageLink: https://www.gbif.org/occurrence/1563447145
 
 Esta Declaración de apoyo describe los objetivos de la alianza propuesta para el conocimiento de la biodiversidad, que busca ofrecer comunidades, sistemas y procesos sólidos e interconectados para manejar la información de la biodiversidad para el bien de la ciencia y la sociedad.
 
-Lea [la declaración completa](../shared-ambitions/) antes de iniciar sesión para declarar su apoyo.
+Lea [la declaración completa](../call-to-action/) antes de iniciar sesión para declarar su apoyo.
 
 ------
 

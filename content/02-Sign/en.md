@@ -10,7 +10,7 @@ imageLink: https://www.gbif.org/occurrence/1563447145
 
 This Declaration of Support outlines the goals of the proposed alliance for biodiversity knowledge, which seeks to deliver robust and interconnected communities, systems and processes to handle biodiversity information for the good of science and society.
 
-Please read the [full statement](../shared-ambitions/) before signing on to declare your support.
+Please read the [full statement](../call-to-action/) before signing on to declare your support.
 
 ------
 

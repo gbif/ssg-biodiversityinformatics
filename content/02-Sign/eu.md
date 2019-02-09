@@ -10,7 +10,7 @@ imageLink: https://www.gbif.org/occurrence/1563447145
 
 Babes-adierazpen honetan, biodibertsitatea ezagutzeko proposatu den aliantzaren helburuak azaltzen dira. Bada, aliantza horren bidez, biodibertsitateari buruzko informazioa maneiatzeko komunitate, sistema eta prozesu solido elkarlotuak eskaini nahi dira, zientziaren eta gizartearen hobe beharrez.
 
-Babesa adierazteko saioa hasi aurretik, irakur ezazu [adierazpena osorik](../shared-ambitions/).
+Babesa adierazteko saioa hasi aurretik, irakur ezazu [adierazpena osorik](../call-to-action/).
 
 ------
 
