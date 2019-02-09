@@ -1,7 +1,9 @@
 ---
 title: Declare your support
 description: Sign on to declare your support for an alliance for biodiversity knowledge
-image: /images/art-sign-crop.png
+image: /images/01-Protonotaria-citrea-andriy.jpg
+imageTitle: Prothonotary warbler (Protonotaria citrea) by andriy via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1563447145
 
 ---
 # Declare your support

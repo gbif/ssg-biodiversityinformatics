@@ -1,7 +1,9 @@
 ---
 title: Zure laguntza deklaratu
 description: Hasi saioa zure biodibertsitatea ezagutzera emateko aliantza egiteko
-image: /images/art-sign-crop.png
+image: /images/01-Protonotaria-citrea-andriy.jpg
+imageTitle: Prothonotary warbler (Protonotaria citrea) by andriy via iNaturalist. Photo licensed under CC BY-NC 4.0.
+imageLink: https://www.gbif.org/occurrence/1563447145
 
 ---
 # Zure laguntza deklaratu
