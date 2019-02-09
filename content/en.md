@@ -40,7 +40,7 @@ templates:
   buttons:
   - title: Trends and predictions
     img: 02-trends.png
-    link: #
+    link: #../gbio-framework/understanding/
     background: understanding
   - title: Integrated occurrence data
     img: 08-integrated-occurrences.png
