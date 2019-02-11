@@ -52,6 +52,6 @@ templates:
     background: data
   - title: Biodiversity knowledge experts
     img: 20-knowledge-network.png
-    link: ../en/gbio-framework/culture
+    link: ../en/gbio-framework/culture/#biodiversity-knowledge-experts
     background: culture
 ```
