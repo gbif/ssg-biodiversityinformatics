@@ -8,7 +8,7 @@ subCategory: Overview
 Overview of the GBIO Framework
 ===================
 
-As the primary output of of the first GBIC event, the GBIO Framework can help align efforts of all stakeholders to enable integrated understanding of biodiversity.
+As the primary output of of the first GBIC event, the [GBIO Framework](https://doi.org/10.15468/6jxa-yb44) can help align efforts of all stakeholders to enable integrated understanding of biodiversity.
 
 The framework is organized into four focus areas, each of which is broken down into five core components. Each focus layer interconnects with and strengthens the others; all four are needed for biodiversity informatics to achieve its full potential. Each focus area—and the individual components within them—can advance independently, but as they do they should start to feed into and reinforce each other, making them together far greater than the sum of their parts.
 
@@ -30,23 +30,23 @@ templates:
   buttons:
   - title: Multiscale spatial modelling
     img: 01-spatial-modelling.png
-    link: #
+    link: ../gbio-framework/understanding/#
     background: understanding
   - title: Trends and predictions
     img: 02-trends.png
-    link: #
+    link: ../gbio-framework/understanding/#
     background: understanding
   - title: Modelling biological systems
     img: 03-modelling-systems.png
-    link: #
+    link: ../gbio-framework/understanding/#
     background: understanding
   - title: Visualization and dissemination
     img: 04-visualization.png
-    link: #
+    link: ../gbio-framework/understanding/#
     background: understanding
   - title: Prioritizing new data capture
     img: 05-new-data.png
-    link: #
+    link: ../gbio-framework/understanding/#
     background: understanding
 ```
 

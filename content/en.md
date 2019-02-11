@@ -40,21 +40,18 @@ templates:
   buttons:
   - title: Trends and predictions
     img: 02-trends.png
-    link: #../gbio-framework/understanding/
+    link: ../gbio-framework/understanding/
     background: understanding
   - title: Integrated occurrence data
     img: 08-integrated-occurrences.png
-    link: #
+    link: ../gbio-framework/evidence/
     background: evidence
   - title: Published materials
     img: 11-published-materials.png
-    link: #
+    link: ../gbio-framework/data/
     background: data
   - title: Biodiversity knowledge experts
     img: 20-knowledge-network.png
-    link: #
+    link: ../gbio-framework/culture
     background: culture
 ```
-
------
-> Looking for the GBIO report? [Find it here >](https://doi.org/10.15468/6jxa-yb44)
