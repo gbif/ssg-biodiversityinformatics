@@ -30,23 +30,23 @@ templates:
   buttons:
   - title: Multiscale spatial modelling
     img: 01-spatial-modelling.png
-    link: ../gbio-framework/understanding/#
+    link: ../understanding/#
     background: understanding
   - title: Trends and predictions
     img: 02-trends.png
-    link: ../gbio-framework/understanding/#
+    link: ../understanding/#
     background: understanding
   - title: Modelling biological systems
     img: 03-modelling-systems.png
-    link: ../gbio-framework/understanding/#
+    link: ..framework/understanding/#
     background: understanding
   - title: Visualization and dissemination
     img: 04-visualization.png
-    link: ../gbio-framework/understanding/#
+    link: ../understanding/#
     background: understanding
   - title: Prioritizing new data capture
     img: 05-new-data.png
-    link: ../gbio-framework/understanding/#
+    link: ../understanding/#
     background: understanding
 ```
 
