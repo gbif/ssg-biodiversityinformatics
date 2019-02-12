@@ -34,19 +34,19 @@ templates:
     background: understanding
   - title: Trends and predictions
     img: 02-trends.png
-    link: ../understanding/#
+    link: ../understanding/#trends-and-predictions
     background: understanding
   - title: Modelling biological systems
     img: 03-modelling-systems.png
-    link: ..framework/understanding/#
+    link: ..framework/understanding/#modelling-biological-systems
     background: understanding
   - title: Visualization and dissemination
     img: 04-visualization.png
-    link: ../understanding/#
+    link: ../understanding/#visualization-and-dissemination
     background: understanding
   - title: Prioritizing new data capture
     img: 05-new-data.png
-    link: ../understanding/#
+    link: ../understanding/#prioritizing-new-data-capture
     background: understanding
 ```
 
@@ -59,23 +59,23 @@ templates:
   buttons:
   - title: Fitness-for-use and annotation
     img: 06-fitness-for-use.png
-    link: #
+    link: ../evidence/#fitness-for-use-and-annotation
     background: evidence
   - title: Taxonomic framework
     img: 07-taxonomic-framework.png
-    link: #
+    link: ../evidence/#taxonomic-framework
     background: evidence
   - title: Integrated occurrence data
     img: 08-integrated-occurrences.png
-    link: #
+    link: ../evidence/#integrated-occurrence-data
     background: evidence
   - title: Aggregated species trait data
     img: 09-traits.png
-    link: #
+    link: ../evidence/#aggregated-species-trait-data
     background: evidence
   - title: Comprehensive knowledge access
     img: 10-open-access.png
-    link: #
+    link: ../evidence/#comprehensive-knowledge-access
     background: evidence
 ```
 
@@ -88,23 +88,23 @@ templates:
   buttons:
   - title: Published materials
     img: 11-published-materials.png
-    link: #
+    link: ../data/#published-materials
     background: data
   - title: Collections and specimens
     img: 12-collections-specimens.png
-    link: #
+    link: ../data/#collections-and-specimens
     background: data
   - title: Field surveys and observations
     img: 13-surveys-observations.png
-    link: #
+    link: ../data/#field-surveys-and-observations
     background: data
   - title: Sequences and genomes
     img: 14-sequences-genomes.png
-    link: #
+    link: ../data/#sequences-and-genomes
     background: data
   - title: Automated remote-sensed observations
     img: 15-remote-sensing.png
-    link: #
+    link: ../data/#automated-remote-sensed-observations
     background: data
 ```
 
@@ -117,22 +117,22 @@ templates:
   buttons:
   - title: Open access and reuse culture
     img: 16-access-reuse.png
-    link: #open-access-and-reuse-culture
+    link: ../culture/#open-access-and-reuse-culture
     background: culture
   - title: Data standards
     img: 17-data-standards.png
-    link: #data-standards
+    link: ../culture/#data-standards
     background: culture
   - title: Persistent storage and archival
     img: 18-persistent-storage.png
-    link: #
+    link: ../culture/#persistent-storage-and-archival
     background: culture
   - title: Policy incentives
     img: 19-policy.png
-    link: #
+    link: ../culture/#policy-incentives
     background: culture
   - title: Biodiversity knowledge experts
     img: 20-knowledge-network.png
-    link: #
+    link: ../culture/#biodiversity-knowledge-experts
     background: culture
 ```
