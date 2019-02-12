@@ -2,7 +2,7 @@
 title: Призыв к действию
 description: Sign up to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
-imageTitle: Морская крапива (Chrysaora fuscescens). фото Robin Agarwal via iNaturalist, по лицензии CC BY-NC 4.0.
+imageTitle: Морская крапива (Chrysaora fuscescens). фото Robin Agarwal через iNaturalist, по лицензии CC BY-NC 4.0.
 imageLink: https://www.gbif.org/occurrence/1640125771
 ---
 
@@ -22,7 +22,7 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 Расширение сотрудничества, улучшение менеджмента существующих данных и скоординированное развитие по публикации новых источников данных смогут предоставить интегрированную, взаимосвязанную базу знаний по всем аспектам биоразнообразия, свободно и открыто распространяемую среди всех, кто нуждается и заинтересован в их использовании. Такая система позволит внедрять современные научные знания о биоразнообразии в программы принятия решений для поддержания модели устойчивого развития.
 
-### Shared ambitions
+### Общие амбиции
 
 Участники GBIC2 предложили комплексную концепцию и комплексные функции *альянса знаний о биоразнообразии, включающую следующие пункты*:
 
@@ -94,3 +94,5 @@ templates:
     title: Sign
     description: Sign on to show your support
 ```
+
+__Спасибо [Нина Филиппова](https://orcid.org/0000-0002-9506-0991), [Наталья Иванова](https://orcid.org/0000-0003-0845-9433), [Максим Карабус]() и [Дмитрий Шигель](https://orcid.org/0000-0002-2919-1168) за этот перевод_
