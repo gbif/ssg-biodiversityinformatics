@@ -30,7 +30,7 @@ templates:
   buttons:
   - title: Multiscale spatial modelling
     img: 01-spatial-modelling.png
-    link: ../understanding/#
+    link: ../understanding/#multiscale-spatial-modelling
     background: understanding
   - title: Trends and predictions
     img: 02-trends.png
@@ -117,11 +117,11 @@ templates:
   buttons:
   - title: Open access and reuse culture
     img: 16-access-reuse.png
-    link: #
+    link: #open-access-and-reuse-culture
     background: culture
   - title: Data standards
     img: 17-data-standards.png
-    link: #
+    link: #data-standards
     background: culture
   - title: Persistent storage and archival
     img: 18-persistent-storage.png
@@ -136,6 +136,3 @@ templates:
     link: #
     background: culture
 ```
-
------
-> Looking for the GBIO report? [Find it here >](https://doi.org/10.15468/6jxa-yb44)
