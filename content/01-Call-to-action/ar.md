@@ -1,7 +1,7 @@
 ---
 title: دعوة للعمل
 description: تحدد هذه الرؤية المتعددة الأوجه التالية طموحات التحالف من أجل معرفة التنوع البيولوجي
-image: //images/35-Chrysaora-fuscescens-ragarwal.jpg
+image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
 imageLink: https://www.gbif.org/occurrence/1640125771
 
