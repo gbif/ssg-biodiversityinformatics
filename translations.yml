@@ -7,6 +7,7 @@ siteName:
   fr: une alliance pour la connaissance de la biodiversité
   pt: uma aliança pelo conhecimento da biodiversidade
   ar: تحالف من أجل معرفة التنوع البيولوجي
+  ru: альянса знаний о биоразнообразию
 
 NavSearch:
   en: Search
@@ -15,6 +16,7 @@ NavSearch:
   fr: Chercher
   pt: Pesquisar
   ar: البحث
+  ru: Поиск
 
 NavMenu:
   en: Menu
@@ -23,7 +25,8 @@ NavMenu:
   fr: Menu
   pt: Cardápio
   ar: القائمه
-
+  ru: Меню
+  
 searchPlaceholder:
   en: Search...
   es: Buscar...
@@ -31,7 +34,8 @@ searchPlaceholder:
   fr: Chercher...
   pt: Pesquisar...
   ar: ...البحث
-
+  ru: Поиск...
+  
 skipLink:
   en: Skip to main content
   es: Saltar al contenido principal
@@ -39,6 +43,7 @@ skipLink:
   fr: Passer au contenu principal
   pt: Ir para o conteúdo principal
   ar: انتقل إلى المحتوي الرئيسي
+  ru: Перейти к основному содержанию
 
 languageSelector_title:
   en: Select language
@@ -47,6 +52,7 @@ languageSelector_title:
   fr: Choisir la langue
   pt: Selecione o idioma
   ar: اختر اللغة
+  ru: Выберите язык
 
 translationNotAvailable:
   en: This text is not available in English
@@ -55,6 +61,7 @@ translationNotAvailable:
   fr: Cette page n’est pas disponible en français
   pt: Esta página não está disponível em Português
   ar: الترجمة غير متوفرة باللغة العربية
+  ru: Этот текст не доступен на русском языке
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
@@ -63,7 +70,7 @@ cannotFindInformation:
   fr: Cannot find what you are looking for? Feel free to contact us.
   pt: Cannot find what you are looking for? Feel free to contact us.
   ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
-
+  ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
 
 
 # The format is

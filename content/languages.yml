@@ -1,13 +1,16 @@
 #This file defines which languages that will appear when the site is build
 en:
   name: English
-es:
-  name: Español
-eu:
-  name: Euskara
 ar:
   name: العربية
   dir: rtl
+es:
+  name: Español
+ru:
+  name: русский
+eu:
+  name: Euskara
+
   
 #
 # should be in the following format
