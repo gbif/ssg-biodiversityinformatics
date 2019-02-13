@@ -1,6 +1,6 @@
 ---
 title: Call to action
-description: Sign up to the vision for an alliance for biodiversity knowledge
+description: Learn about and sign on to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
 imageLink: https://www.gbif.org/occurrence/1640125771
@@ -21,7 +21,7 @@ However, current efforts remain inefficient and inadequate to address the global
 + redundant and incompatible processes for cleaning and interpreting data
 + the absence of functional mechanisms for knowledgeable experts to curate and improve data
 
-Recognizing the need for greater alignment between efforts at all scales, the Global Biodiversity Information Facility (GBIF) convened the second Global Biodiversity Informatics Conference (GBIC2) in July 2018 to propose a coordination mechanism for developing shared roadmaps for biodiversity informatics. GBIC2 attendees reached consensus on the need for a global alliance for biodiversity knowledge, learning from examples such as the Global Alliance for Genomics and Health (GA4GH) and the open software communities under the Apache Software Foundation. These initiatives provide models for multiple stakeholders with decentralized funding and independent governance to combine resources and develop sustainable solutions that address common needs.
+Recognizing the need for greater alignment between efforts at all scales, the Global Biodiversity Information Facility (GBIF) convened the second Global Biodiversity Informatics Conference (GBIC2) in July 2018 to propose a coordination mechanism for developing shared roadmaps for biodiversity informatics. GBIC2 attendees reached consensus on the need for a global alliance for biodiversity knowledge, learning from examples such as the [Global Alliance for Genomics and Health](https://www.ga4gh.org) (GA4GH) and the open software communities under the [Apache Software Foundation](https://www.apache.org). These initiatives provide models for multiple stakeholders with decentralized funding and independent governance to combine resources and develop sustainable solutions that address common needs.
 
 Increased cooperation, improved management of existing data and coordinated development of novel sources of data could deliver an integrated, interlinked knowledge base for all aspects of biodiversity—one freely and openly disseminated to everyone who has need or interest in using it. Achieving such a system would enable us to embed current scientific understanding of biodiversity within rational and timely decision-making processes that support a sustainable future.
 
@@ -37,7 +37,7 @@ The attendees at GBIC2 proposed the following multifaceted vision to define the 
 
     _Support for open data and open science_
 
-4.	To remove barriers to free and open sharing of data and to the adoption of FAIR data principles  for biodiversity data
+4.	To remove barriers to free and open sharing of data and to the adoption of FAIR data principles for biodiversity data ([Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18))
 5.	To describe all data resources with rich metadata that supports present and future reuse
 6.	To ensure all data resources are preserved in stable and persistent trusted repositories
 7.	To enable collaborative curation, annotation and improvement of all data by any relevant experts and expert communities

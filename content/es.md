@@ -7,7 +7,7 @@ imageTitle: Ortilia ithra by Douglas U. Oliveira via iNaturalist. Photo licensed
 imageLink: https://www.gbif.org/occurrence/1986622394
 
 ---
-Hacia una alianza para el conocimiento de la biodiversidad
+una alianza para el conocimiento de la biodiversidad
 ===================
 
 _Delivering biodiversity knowledge in the information age_
@@ -25,6 +25,3 @@ A diverse group of more than 100 international experts attended the [GBIC2 confe
 Working together, we propose the establishment of a lightweight alliance to foster closer coordination and planning and to form open participatory projects, increasing connectivity and fostering frictionless and comprehensive access to available data. This site provides willing partners with an opportunity to [express their interest in this alliance](../es/sign/) and to participate in the next steps toward making it a reality.
 
 Questions? Comments? [Email us](mailto:alliance@gbif.org).
-
------
-> Looking for the GBIO report? [Find it here >](https://doi.org/10.15468/6jxa-yb44)
