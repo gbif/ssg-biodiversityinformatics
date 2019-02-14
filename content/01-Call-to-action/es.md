@@ -69,7 +69,7 @@ templates:
 - path: actions.html
   actions:
   - url: ../sign/
-    title: Firmarse
+    title: Inscribirse
     description: Sign on to show your support
 ```
 

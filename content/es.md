@@ -12,7 +12,7 @@ una alianza para el conocimiento de la biodiversidad
 
 _Delivering biodiversity knowledge in the information age_
 
-> [__Read our shared ambitions__](../es/shared-ambitions/) and [__sign on__](../es/sign/)
+> [__Read our shared ambitions__](../es/call-to-action/) and [__sign on__](../es/sign/)
 
 Biodiversity is responsible for maintaining the systems of life, providing us with food and regulating the environment, yet it is under great pressure as humans continue to transform all parts of the planet.
 
