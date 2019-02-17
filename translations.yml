@@ -5,6 +5,8 @@ siteName:
   es: una alianza para el conocimiento de la biodiversidad
   eu: biodibertsitatearen ezagutzaren arteko aliantza
   fr: une alliance pour la connaissance de la biodiversité
+  jp: 生物多様性の知識のための同盟
+  nl: een alliantie voorkennis over biodiversiteit
   pt: uma aliança pelo conhecimento da biodiversidade
   ar: تحالف من أجل معرفة التنوع البيولوجي
   ru: альянс знаний о биоразнообразии
@@ -14,6 +16,8 @@ NavSearch:
   es: Buscar
   eu: Arakatu
   fr: Chercher
+  jp: 検索
+  nl: Zoek
   pt: Pesquisar
   ar: البحث
   ru: Поиск
@@ -23,6 +27,8 @@ NavMenu:
   es: Menú
   eu: Menu
   fr: Menu
+  jp: メニュー
+  nl: Menu
   pt: Cardápio
   ar: القائمه
   ru: Меню
@@ -32,6 +38,8 @@ searchPlaceholder:
   es: Buscar...
   eu: Arakatu...
   fr: Chercher...
+  jp: 検索
+  nl: Zoek...
   pt: Pesquisar...
   ar: ...البحث
   ru: Поиск...
@@ -41,6 +49,8 @@ skipLink:
   es: Saltar al contenido principal
   eu: Edukin nagusira joan
   fr: Passer au contenu principal
+  jp: メインコンテンツへスキップ
+  nl: Ga naar hoofdinhoud
   pt: Ir para o conteúdo principal
   ar: انتقل إلى المحتوي الرئيسي
   ru: Перейти к основному содержанию
@@ -50,6 +60,8 @@ languageSelector_title:
   es: Seleccione el idioma
   eu: Hautatu hizkuntza
   fr: Choisir la langue
+  jp: 言語の選択
+  nl: Taal selecteren
   pt: Selecione o idioma
   ar: اختر اللغة
   ru: Выберите язык
@@ -59,16 +71,20 @@ translationNotAvailable:
   es: Este texto no está disponible en español
   eu: Testu hau ez dago erabilgarri euskaraz
   fr: Cette page n’est pas disponible en français
+  jp: このテキストは日本語では使用できません。
+  nl: Deze pagina is niet beschikbaar in het Nederlands
   pt: Esta página não está disponível em Português
   ar: الترجمة غير متوفرة باللغة العربية
   ru: Этот текст не доступен на русском языке
 
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
-  es: Cannot find what you are looking for? Feel free to contact us.
+  es: ¿No encuentras lo que buscas? Siéntase libre de contactarnos.
   eu: Ezin duzu bilatu zer bilatzen ari zaren? Jar zaitez gurekin harremanetan.
-  fr: Cannot find what you are looking for? Feel free to contact us.
-  pt: Cannot find what you are looking for? Feel free to contact us.
+  fr: Vous ne trouvez pas ce que vous cherchez? N hésitez pas à nous contacter.
+  jp: 探しているものが見つかりませんか?お気軽にご連絡ください。
+  nl: U niet vinden wat u zoekt? Neem dan geRust contact met ons op.
+  pt: Não consegue encontrar o que procura? Sinta-se livre para entrar em contato conosco.
   ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
   ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
 
