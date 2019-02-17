@@ -1,5 +1,5 @@
-# GBIC2
-A subsite for GBIC2 using the a static site generator - content needs to be revised
+# alliance
+A subsite for the allaince using the a static site generator - content needs to be revised
 
 For general usage about using the static site see to [example site](ssg.gbif-uat.org).
 
