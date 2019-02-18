@@ -6,11 +6,13 @@ siteName:
   eu: biodibertsitatearen ezagutzaren arteko aliantza
   fr: une alliance pour la connaissance de la biodiversité
   jp: 生物多様性の知識のための同盟
-  nl: een alliantie voorkennis over biodiversiteit
+  nl: een alliantie voor kennis over biodiversiteit
   pt: uma aliança pelo conhecimento da biodiversidade
   ar: تحالف من أجل معرفة التنوع البيولوجي
   ru: альянс знаний о биоразнообразии
-
+  zh-hans: 生物多样性知识联盟
+  zh-tw: 
+  
 NavSearch:
   en: Search
   es: Buscar
@@ -21,7 +23,9 @@ NavSearch:
   pt: Pesquisar
   ar: البحث
   ru: Поиск
-
+  zh-hans: 搜寻
+  zh-tw: 搜尋
+  
 NavMenu:
   en: Menu
   es: Menú
@@ -32,6 +36,8 @@ NavMenu:
   pt: Cardápio
   ar: القائمه
   ru: Меню
+  zh-hans: 菜单
+  zh-tw: 功能表
   
 searchPlaceholder:
   en: Search...
@@ -43,7 +49,9 @@ searchPlaceholder:
   pt: Pesquisar...
   ar: ...البحث
   ru: Поиск...
-  
+  zh-hans: 
+  zh-tw: 
+    
 skipLink:
   en: Skip to main content
   es: Saltar al contenido principal
@@ -54,7 +62,9 @@ skipLink:
   pt: Ir para o conteúdo principal
   ar: انتقل إلى المحتوي الرئيسي
   ru: Перейти к основному содержанию
-
+  zh-hans: 跳转到主要内容
+  zh-tw: 
+  
 languageSelector_title:
   en: Select language
   es: Seleccione el idioma
@@ -65,7 +75,9 @@ languageSelector_title:
   pt: Selecione o idioma
   ar: اختر اللغة
   ru: Выберите язык
-
+  zh-hans: 选择语言
+  zh-tw: 
+  
 translationNotAvailable:
   en: This text is not available in English
   es: Este texto no está disponible en español
@@ -76,7 +88,9 @@ translationNotAvailable:
   pt: Esta página não está disponível em Português
   ar: الترجمة غير متوفرة باللغة العربية
   ru: Этот текст не доступен на русском языке
-
+  zh-hans: 此文本不适用于简体中文
+  zh-tw: 
+  
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
   es: ¿No encuentras lo que buscas? Siéntase libre de contactarnos.
@@ -87,8 +101,9 @@ cannotFindInformation:
   pt: Não consegue encontrar o que procura? Sinta-se livre para entrar em contato conosco.
   ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
   ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
-
-
+  zh-hans: 找不到您要找的内容？请随时与我们联系。
+  zh-tw: 
+  
 # The format is
 # key:
 #   languageKey: translation
