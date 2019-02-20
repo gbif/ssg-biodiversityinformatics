@@ -2,9 +2,9 @@
 title: Home
 style: home article
 description: Delegates to the second Global Biodiversity Informatics Conference (GBIC2) called for a global alliance for biodiversity knowledge to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
-image: /images/ortilia-ithra-doliveira.jpg
-imageTitle: Ortilia ithra by Douglas U. Oliveira via iNaturalist. Photo licensed under CC BY-NC 4.0.
-imageLink: https://www.gbif.org/occurrence/1986622394
+image: /images/authagraph-alt.svg
+imageTitle: AuthaGraph map of the world with political borders. Adapted from Justin Kunimune, licensed under CC BY-SA 4.0.
+imageLink: https://github.com/jkunimune15/Map-Projections/blob/master/output/AuthaGraph.svg
 
 ---
 an alliance for biodiversity knowledge
