@@ -6,22 +6,23 @@ ar:
   dir: rtl
 es:
   name: Español
+eu:
+  name: Euskara
 fr:
   name: Français
+ja:
+  name: 日本語
+nl:
+  name: Nederlands
+pt:
+  name: Português
 ru:
   name: Pусский
 zh-hans: 
   name: 简体中文
-pt:
-  name: Português
-jp:
-  name: 日本語
-nl:
-  name: Nederlands
 zh-tw:
   name: 繁體中文
-eu:
-  name: Euskara
+
 
   
 #
