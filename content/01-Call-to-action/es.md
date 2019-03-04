@@ -9,6 +9,11 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 # Convocatoria de una alianza para el conocimiento de la biodiversidad
 
+<p style="text-align: center;"> [**Visión**](#vision) | [**Metas**](#ambitions) | [**Próximos pasos**](#nextsteps) </p>
+
+<a name="vision"></a>
+### Visión
+
 En las últimas dos décadas, se ha experimentado un gran avance en la digitalización del conocimiento histórico sobre Biodiversidad y en hacer libres y accesibles los datos de biodiversidad. La suma de esfuerzos ha traído consigo multitud de asociaciones y redes de trabajo internacionales, proyectos nacionales, regionales e institucionales, e incontables contribuciones individuales. Estas colaboraciones abarcan diversos ámbitos de investigación en diversidad biológica y medio ambiente, agencias gubernamentales y organizaciones no gubernamentales, ciencia ciudadana y el sector privado.
 
 Pese a todo esto, los esfuerzos actuales continúan siendo ineficientes e inadecuados para abordar la necesidad global de contar con datos precisos sobre las especies que habitan la Tierra y sobre patrones y tendencias cambiantes en la Biodiversidad. Algunos retos significativos a abordar son
@@ -23,7 +28,8 @@ Habiendo reconocido la necesidad de un mayor alineamiento entre los esfuerzos a 
 
 Un incremento en la cooperación, una gestión mejorada de los datos existentes y un desarrollo coordinado de nuevas fuentes de datos podrían generar una base de conocimiento interconectada e integrada para todos los aspectos de la Biodiversidad—difundida de manera abierta y gratuita para cualquiera que la necesite o esté interesado en hacer uso de ella. Alcanzar tal sistema nos permitiría integrar el conocimiento científico actual con los procesos de toma de decisiones racionales y oportunos que apoyan un futuro sostenible
 
-### Metas compartidas
+<a name="ambitions"></a>
+### Metas
 
 Los asistentes al GBIC2 propusieron la siguiente visión polifacética para definir las ambiciones de una alianza global para el conocimiento de la biodiversidad:
 
@@ -73,25 +79,32 @@ templates:
     description: Sign on to show your support
 ```
 
+---
+
+<a name="nextsteps"></a>
+
+### Próximos pasos
+Se urge a todas las personas y entidades clave con interés en la producción, gestión, uso e integración de datos de la Biodiversidad mundial a contribuir al establecimiento de esta alianza global para el conocimiento de la biodiversidad colaborando con los siguientes procesos iniciales.
+
 Visita la [pestaña Discussions de la web](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge) para contribuir a las discusiones sobre cada una de estas cinco áreas. __Las contribuciones en otros idiomas diferentes al inglés son bienvenidas__.
 
-### Ampliar la participación
+#### Ampliar la participación
 
 El taller, su informe, y este llamado a la acción han sido preparados para la comunidad global. Se pretende que los individuos e instituciones con interés en movilizar, mejorar, integrar o utilizar información de Biodiversidad muestren su apoyo mediante su firma y/o suscripción a posteriores actualizaciones en la página web de la alianza.
 
-### Evaluar modelos
+#### Evaluar modelos
 
 Se requiere un mayor esfuerzo para abordar las necesidades de esta compleja y diversa comunidad de actores clave, pero los modelos de otras alianzas, coaliciones y consorcios similares (como el meritocrático “Apache Way” utilizado por proyectos de herramientas informáticas de código abierto), pueden guiar y nutrir a enfoques de más largo plazo. También persisten preguntas importantes en torno a los tipos de membresía (individuales, institucionales o ambas).
 
-### Aclarar el alcance y los resultados previstos
+#### Aclarar el alcance y los resultados previstos
 
 Una mayor cooperación traerá, sin lugar a dudas, ventajas y eficiencias significativas en el ámbito de la Informática de la Biodiversidad, pero la meta final es generar un impacto en la Ciencia, la política y la sociedad. Los asistentes al GBIC2 propusieron integrar diversos actores clave –incluyendo grupos de investigación, servicios taxonómicos, el CBD, IPBES, FAO, entidades de conservación, y otras comunidades de usuarios– para desarrollar un conjunto de preguntas definitorias y casos de uso alcanzables contra los cuales medir el progreso. Éstos deberían ser lo suficientemente precisos y detallados para guiar las prioridades de planificación, desarrollo e implementación colaborativos.
 
-### Identificar las partes interesadas
+#### Identificar las partes interesadas
 
 Comprender el panorama de las partes interesadas en el trabajo de la alianza es complicado, debido al gran número de actividades, sus frecuentes misiones solapadas, y su implementación vía programas de trabajo en diferentes líneas temporales y escalas de responsabilidad. A menos que esta complejidad sea entendida, existe un elevado riesgo de conflicto involuntario o duplicidad de esfuerzo. GBIF coordinará una red de análisis inicial –con límites ajustados y claros –tratando de definir los roles, responsabilidades y relaciones de las principales organizaciones, particularmente a escalas global, regional y nacional. Este esfuerzo ayudará a la alianza a identificar servicios críticos que necesitan ser creados o sostenidos, y mostrar las oportunidades para un trabajo unificado y mejor alineado.
 
-### Adoptar proyectos de prueba de concepto
+#### Adoptar proyectos de prueba de concepto
 
 Una meta clave para la alianza es permitir a las partes interesadas converger en torno a necesidades compartidas e incubar proyectos sostenibles para ofrecer herramientas, servicios, modelos y recursos que contribuyan a la creación de un sistema de conocimientos digitales interconectados. Por ello, se requerirán procesos formales para priorizar, incubar, desarrollar y sostener tales proyectos. A corto plazo, resulta valioso identificar las actividades actuales que apoyan la visión de una alianza abierta y que pueden ser adaptados como proyectos de prueba de concepto. Tales proyectos pueden ofrecer lecciones que pueden ser incorporadas a futuros modelos de gobernanza, mientras que se proporcionan los primeros ejemplos de una cooperación basada en la alianza. Estamos buscando sugerencias sobre actividades existentes sostenibles como candidatas de los primeros proyectos de prueba de concepto, no únicamente en el desarrollo de herramientas informáticas o la gestión de datos, sino también en otras áreas como la mejora de capacidades y la planificación sostenible.
 
