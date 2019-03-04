@@ -1,5 +1,5 @@
 ---
-title: Call to action
+title: Call
 description: Learn about and sign on to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
@@ -7,6 +7,11 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 ---
 
 # Call: Een alliantie voor kennis over biodiversiteit
+
+<p style="text-align: center;"> [**Visie**](#vision) | [**Ambities**](#ambitions) | [**Volgende stappen**](#nextsteps) </p>
+
+<a name="vision"></a>
+## Visie
 
 Er is de afgelopen twee decennia grote vooruitgang geboekt met het digitaliseren van  historische kennis over onze biodiversiteit en met het vrij en open toegankelijk maken van deze biodiversiteitsgegevens. Tal van gecoördineerde inspanningen brengen internationale partnerschappen en netwerken,  nationale, regionale en institutionele projecten, investeringen en talloze individuele bijdragers samen. Deze samenwerkingen strekken zich uit over diverse onderzoeksdomeinen (vnl. biologische en omgevingswetenschappen), overheidsinstanties, NGO’s, citizen science initiatieven en zelfs commerciële ondernemingen.
 
@@ -24,7 +29,8 @@ De Global Biodiversity Information Facility (GBIF) erkende de noodzaak van meer 
 
 Meer samenwerking, verbeterd beheer van bestaande data en gecoördineerde ontwikkeling van nieuwe gegevensbronnen kan een geïntegreerde, onderling verbonden kennisbasis bieden voor alle aspecten van biodiversiteit - een die vrij en open wordt verspreid voor iedereen die behoefte heeft aan, of geïnteresseerd is in het gebruik ervan. Het realiseren van een dergelijk systeem zal ons in staat stellen de huidige wetenschappelijke kennis van biodiversiteit te verankeren in rationele en tijdige besluitvormingsprocessen. Dit ter ondersteuning van een duurzame toekomst.
 
-### Shared ambitions
+<a name="ambition"></a>
+## Ambities
 
 GBIC2 stelt de volgende veelzijdige visie voor om de ambities voor een alliantie voor biodiversiteitskennis te definiëren:
 
@@ -63,6 +69,21 @@ GBIC2 stelt de volgende veelzijdige visie voor om de ambities voor een alliantie
 22.	Belemmeringen voor gegevensuitwisseling of gebruik in taal of cultuur te overwinnen
 23.	Ondersteuning bieden voor de praktische uitvoering van internationale overeenkomsten met betrekking tot toegang en benefit sharing
 
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - url: ../sign/
+    title: Sign
+    description: Sign on to show your support
+```
+
+---
+<a name="nextsteps"></a>
+## Volgende stappen
+
+Alle stakeholders met interesse in het creëren, integreren, beheren en gebruiken van gegevens over de biodiversiteit, worden aangespoord om mee te helpen tot de oprichting van deze alliantie voor biodiversiteitskennis onder andere door input te leveren voor de volgende initiële processen.
+
 Ga naar het [discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)  aan het overleg over elk van deze vijf topics. **Andere talen dan het Engels zijn zeker ook welkom**.
 
 ### Engagement vergroten
@@ -82,11 +103,5 @@ Tenzij deze complexiteit wordt begrepen, is er een groot risico van onbedoeld co
 ### Goedkeuren van proof-of-concept-projecten
 Een belangrijk doel van de alliantie is om stakeholders in staat te stellen zich te verenigen rond gedeelde behoeften en om duurzame projecten te initiëren om zo hulpmiddelen, services, modellen en middelen te leveren die bijdragen aan het op punt zetten van een met elkaar verbonden digitaal kennissysteem. Formele processen zijn vereist om dergelijke projecten te prioriteren, te initiëren, aan te leveren en in stand te houden. Op korte termijn is het waardevol om huidige activiteiten te identificeren die de visie voor een open alliantie ondersteunen en die kunnen worden aanvaard als proof-of-concept-projecten. Dergelijke projecten kunnen lessen bieden die kunnen worden opgenomen in het toekomstige management, terwijl ze tegelijkertijd voorbeelden kunnen geven van samenwerking op basis van allianties. We zoeken suggesties voor geschikte bestaande activiteiten als kandidaat voor vroege proof-of-concept-projecten. Niet alleen voor softwareontwikkeling of gegevensbeheer, maar ook over andere gebieden zoals capaciteitsvergroting en planning rond duurzame ontwikkeling.
 
-```styledYaml
-templates:
-- path: actions.html
-  actions:
-  - url: ../sign/
-    title: Sign
-    description: Sign on to show your support
-```
+---
+
