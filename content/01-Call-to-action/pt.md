@@ -8,6 +8,12 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 # Apelo a uma aliança para o conhecimento da biodiversidade
 
+<p style="text-align: center;"> [**Visão**](#vision) | [**Ambições**](#ambitions) | [**Próximos passos**](#nextsteps) </p>
+
+<a name="vision"></a>
+
+## Visão
+
 Houve grandes progressos nas últimas duas décadas na digitalização do conhecimento histórico da biodiversidade e na disponibilização livre e aberta de dados de biodiversidade. Os esforços de interligação reúnem parcerias e redes internacionais, projetos e investimentos nacionais, regionais, institucionais e inúmeros contribuidores individuais. Essas colaborações abrangem diversos domínios de pesquisa biológica e ambiental, agências governamentais e organizações não-governamentais, ciência cidadã e empresas comerciais.
 
 No entanto, os esforços atuais permanecem ineficientes e inadequados para abordar a necessidade global de dados precisos sobre as espécies do mundo e sobre a mudança de padrões e tendências da biodiversidade. Os desafios significativos incluem:
@@ -22,7 +28,8 @@ Reconhecendo a necessidade de maior alinhamento entre esforços em todas as esca
 
 O aumento da cooperação, a melhoria da gestão dos dados existentes e o desenvolvimento coordenado de novas fontes de dados poderiam proporcionar uma base de conhecimento integrada e interligada para todos os aspectos da biodiversidade — livre e abertamente disseminada para todos os que têm necessidade ou interesse em usar. O alcance deste sistema possibilitaria inserir o actual conhecimento científico dentro de processos de tomada de decisão racionais e oportunas, que suportem um futuro sustentável. 
 
-### Ambições compartilhadas
+<a name="ambitions"></a>
+## Ambições
 
 Os participantes da GBIC2 propuseram a seguinte visão multifacetada para definir as ambições de uma aliança para o conhecimento da biodiversidade:
 
@@ -61,6 +68,19 @@ Os participantes da GBIC2 propuseram a seguinte visão multifacetada para defini
 22. Ultrapassar as barreiras ao compartilhamento de dados ou ao uso decorrente de linguagem ou cultura.
 23. Apoiar a aplicação prática de acordos internacionais com referência ao acesso e repartição de benefícios.
 
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - url: ../sign/
+    title: Assina
+    description: Sign on to show your support
+```
+
+---
+
+## Próximos passos
+
 Todos os atores e partes interessadas na produção, gestão, utilização e integração de dados sobre a biodiversidade mundial são incitados a contribuir para o estabelecimento desta aliança proposta para o conhecimento da biodiversidade, fornecendo subsídios para os seguintes processos iniciais.
 
 Visite a aba [discussões](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge) para contribuir para discussões sobre cada uma dessas cinco áreas. **Contribuições em idiomas diferentes do inglês são bem-vindas**.
@@ -80,12 +100,5 @@ Entender o panorama de atores e partes interessadas para o trabalho da Aliança 
 ### Adotar projetos de prova de conceito
 Um dos principais objetivos da Aliança é capacitar os atores e partes interessadas a convergir em torno de necessidades compartilhadas e incubar projetos sustentáveis para fornecer ferramentas, serviços, modelos e recursos que contribuam para a entrega de um sistema de conhecimento digital interconectado. Serão necessários processos formais para priorizar, incubar, entregar e sustentar tais projetos. A curto prazo, há valor na identificação de atividades atuais que apoiam a visão de uma aliança aberta e que podem ser adotadas como projetos de prova de conceito. Tais projetos podem oferecer lições que poderão ser incorporadas a modelos futuros de governança e, ao mesmo tempo, dar exemplos iniciais de cooperação baseada em alianças. Buscamos sugestões para atividades existentes adequadas como candidatas para projetos de prova de conceito antecipado, não apenas em desenvolvimento de software ou gerenciamento de dados, mas também em outras áreas, como aprimoramento de capacidade e planeamento de sustentabilidade.
 
+---
 
-```styledYaml
-templates:
-- path: actions.html
-  actions:
-  - url: ../sign/
-    title: Assina
-    description: Sign on to show your support
-```

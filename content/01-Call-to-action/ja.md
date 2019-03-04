@@ -30,7 +30,7 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 <a name="ambitions"></a>
 
-## 抱負
+## 野心
 
 GBIC2の参加者は、生物多様性の知識のための連携協力を要請するねらいを明確にするため、以下の多面的なビジョンを提案しました。
 
