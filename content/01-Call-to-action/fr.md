@@ -8,6 +8,11 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 # Appel à une alliance pour la connaissance sur la biodiversité
 
+<p style="text-align: center;"> [**Vision**](#vision) | [**Ambitions**](#ambitions) | [**Les prochaines étapes**](#nextsteps) </p>
+
+<a name="vision"></a>
+### Vision
+
 Dans les deux dernières décennies, de grandes avancées ont été observées en ce qui concerne la numérisation des connaissances historiques en biodiversité, ainsi que l’accessibilité des données de biodiversité sous forme de données ouvertes. Des efforts conjoints ont permis la naissance de partenariats et réseaux internationaux, des projets et investissements nationaux, régionaux et institutionnels, ainsi que d’innombrables contributions individuelles. Ces collaborations englobent des domaines de recherche variés en biologie et en environnement, des agences gouvernementales et des organisations non-gouvernementales, des projets de science citoyenne et des entreprises commerciales.
 
 Néanmoins, les efforts actuels restent inefficaces et inadéquats pour répondre au besoin global de données précises sur les espèces du monde entier, ainsi que sur les modèles et tendances de changements en biodiversité. Les défis les plus critiques incluent :
@@ -61,11 +66,21 @@ Les participants au GBIC2 proposent la vision multi-facette suivante afin de dé
 22. Surmonter les barrières limitant le partage ou l’utilisation des données en raison de la langue ou de la culture
 23. Supporter la mise en oeuvre pratique des accords internationaux par rapport à l’accès et au partage des bénéfices
 
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - url: ../sign/
+    title: Signez
+    description: Sign on to show your support
+```
+___
+
 ### Les prochaines étapes
 
 Tous les intervenants intéressés dans la production, la gestion, l’utilisation ou l’intégration de données à propos de la biodiversité mondiale sont invités à contribuer à l’établissement de l’alliance pour les connaissances en biodiversité telle que proposée, en donnant leur avis sur cette proposition initiale. 
 
-De plus amples informations, et des opportunités de contribution aux discussions associées, seront disponibles sur le site Internet de l’alliance, [biodiversityinformatics.org](https://www.biodiversityinformatics.org)). Visiter les discussions afin de contribuer aux [discussions sur chacun de ces cinq thèmes](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge). **Les contributions dans d’autres langues que l’anglais sont les bienvenues**.
+Visiter les discussions afin de contribuer aux [discussions sur chacun de ces cinq thèmes](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge). **Les contributions dans d’autres langues que l’anglais sont les bienvenues**.
 
 ### Augmenter la participation
 
@@ -87,12 +102,3 @@ Le paysage des décideurs est difficile à appréhender dans le cadre des travau
 
 Un des objectifs principaux de l’alliance est de permettre aux décideurs de se rassembler autour de besoins communs et de développer des projets durables pour produire des outils, services, modèles et ressources qui contribuent à faire fonctionner un système interconnecté de connaissances numériques. Des processus formels seront requis afin de prioriser, incuber, produire et maintenir de tels projets. A court terme, il est intéressant d’identifier les activités en cours qui soutiennent la vision pour une alliance ouverte et qui peuvent être adoptées comme preuves de concept. De tels projets offrent des enseignements qui peuvent être incorporés dans de futurs modèles de gouvernance, tout en donnant des exemples précoces de coopération au sein de l’alliance. Nous recherchons des suggestions d’activités existantes qui conviendraient comme preuves de concept, non seulement en développement logiciel ou en gestion de données, mais aussi dans d’autres domaines tels que l’amélioration des capacités et la planification durable.
 
-
-```styledYaml
-templates:
-- path: actions.html
-  actions:
-  - url: ../sign/
-    title: Signez
-    description: Sign on to show your support
-```
