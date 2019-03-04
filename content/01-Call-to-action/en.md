@@ -8,8 +8,10 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 # Call for an alliance on biodiversity knowledge
 
-<!-- toc -->
-<!-- tocstop -->
+[Vision](#vision) | [Ambitions](#ambitions) | [Next steps](#nextsteps)
+
+<a name="vision"></a>
+### Vision
 
 There has been major progress over the last two decades in digitizing historical knowledge of biodiversity and in making biodiversity data freely and openly accessible. Interlocking efforts bring together international partnerships and networks, national, regional and institutional projects and investments, and countless individual contributors. These collaborations span across diverse biological and environmental research domains, government agencies and non-governmental organizations, citizen science and commercial enterprise. 
 
@@ -21,11 +23,12 @@ However, current efforts remain inefficient and inadequate to address the global
 + redundant and incompatible processes for cleaning and interpreting data
 + the absence of functional mechanisms for knowledgeable experts to curate and improve data
 
-Recognizing the need for greater alignment between efforts at all scales, the Global Biodiversity Information Facility (GBIF) convened the second Global Biodiversity Informatics Conference (GBIC2) in July 2018 to propose a coordination mechanism for developing shared roadmaps for biodiversity informatics. GBIC2 attendees reached consensus on the need for a global alliance for biodiversity knowledge, learning from examples such as the [Global Alliance for Genomics and Health](https://www.ga4gh.org) (GA4GH) and the open software communities under the [Apache Software Foundation](https://www.apache.org). These initiatives provide models for multiple stakeholders with decentralized funding and independent governance to combine resources and develop sustainable solutions that address common needs.
+Recognizing the need for greater alignment between efforts at all scales, the Global Biodiversity Information Facility (GBIF) convened the second Global Biodiversity Informatics Conference (GBIC2) in July 2018 to propose a coordination mechanism for developing shared roadmaps for biodiversity informatics. GBIC2 attendees reached consensus on the need for a global alliance for biodiversity knowledge, learning from examples such as the Global Alliance for Genomics and Health (GA4GH) and the open software communities under the Apache Software Foundation. These initiatives provide models for multiple stakeholders with decentralized funding and independent governance to combine resources and develop sustainable solutions that address common needs.
 
-Increased cooperation, improved management of existing data and coordinated development of novel sources of data could deliver an integrated, interlinked knowledge base for all aspects of biodiversity—one freely and openly disseminated to everyone who has need or interest in using it. Achieving such a system would enable us to embed current scientific understanding of biodiversity within rational and timely decision-making processes that support a sustainable future.
+Increased cooperation, improved management of existing data and coordinated development of novel sources of data could deliver an integrated, interlinked knowledge base for all aspects of biodiversity—one freely and openly disseminated to everyone who has need or interest in using it. Achieving such a system would enable us to embed current scientific understanding of biodiversity within rational and timely decision-making processes that support a sustainable future. 
 
-### Shared ambitions
+<a name="ambitions"></a>
+### Ambitions
 
 The attendees at GBIC2 proposed the following multifaceted vision to define the ambitions for an alliance for biodiversity knowledge:
 
@@ -64,6 +67,9 @@ The attendees at GBIC2 proposed the following multifaceted vision to define the 
 22.	To overcome barriers to data sharing or use arising from language or culture
 23. To support the practical implementation of international agreements with reference to access and benefit sharing
 
+<a name="nextsteps">
+### Next steps
+
 All stakeholders with an interest in the production, management, use and integration of data on the world’s biodiversity are urged to contribute to establishing this proposed *alliance for biodiversity knowledge* by providing input to the following initial processes. 
 
 Join the [associated discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge) in each of the five following areas. **Contributions in languages other than English are welcomed**.
@@ -82,7 +88,7 @@ Understanding the landscape of stakeholders for the work of the alliance is diff
 
 ### Adopting proof-of-concept projects
 A key goal for the alliance is to enable stakeholders to converge around shared needs and to incubate sustainable projects to deliver tools, services, models and resources that contribute to delivering an interconnected digital knowledge system. Formal processes will be required to prioritize, incubate, deliver and sustain such projects. In the short term, there is value in identifying current activities which support the vision for an open alliance and that can be adopted as proof-of-concept projects. Such projects can offer lessons that can be incorporated into future governance models, while at the same time giving early examples of alliance-based cooperation. We seek suggestions for suitable existing activities as candidates for early proof-of-concept projects, not just in software development or data management, but also in other areas like capacity enhancement and sustainability planning.
-
+ 
 
 ```styledYaml
 templates:
