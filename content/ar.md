@@ -1,23 +1,26 @@
 ---
-title: المرفق العالمي لمعلومات التنوع البيولوجي
+title: تحالف لمعرفة التنوع البيولوجي
 style: home article
 description: السعي إلى تنسيق التعاون بين الجهود الرامية إلى مراقبة وقياس ونمذجة الكوكب الحي في الوقت الذي يدعم فيه الحلول المتصلة للإجابة عن الأسئلة الأساسية المتعلقة بالحياة على الأرض
-image: /images/ortilia-ithra-doliveira.jpg
-imageTitle: Ortilia ithra by Douglas U. Oliveira via iNaturalist. Photo licensed under CC BY-NC 4.0.
-imageLink: https://www.gbif.org/occurrence/1986622394
+image: /images/authagraph-alt.svg
+imageTitle: AuthaGraph map of the world with political borders. Adapted from Justin Kunimune, licensed under CC BY-SA 4.0.
+imageLink: https://github.com/jkunimune15/Map-Projections/blob/master/output/AuthaGraph.svg
 
 ---
-المرفق العالمي لمعلومات التنوع البيولوجي
+تحالف لمعرفة التنوع البيولوجي
 ===================
 
-حدث تقدم كبير خلال العقدين الأخيرين في التحويل الرقمي للمعرفة التاريخية للتنوع البيولوجي وفي الحصول على بيانات التنوع البيولوجي بحرية وعلانية. وتجمع الجهود المتشابكة بين الشراكات والشبكات الدولية والمشروعات والاستثمارات الوطنية والإقليمية والمؤسسية وعدد لا يحصى من المساهمين الأفراد. وتمتد هذه التعاونات عبر مجالات بحثية بيولوجية وبيئية متنوعة ووكالات حكومية ومنظمات غير حكومية وعلم المواطن ومؤسسات تجارية.
-ومع ذلك، مازالت الجهود الحالية غير فعالة وغير كافية لتلبية الحاجة العالمية إلى بيانات دقيقة عن الأنواع في العالم وعن الأنماط والاتجاهات المتغيرة في التنوع البيولوجي. وتشمل التحديات الهامة ما يلي:
-•	اختلال توازن المشاركة الإقليمية في نشاط معلوماتية التنوع البيولوجي
-•	عدم انتظام التقدم في جمع البيانات وتقاسمها
-•	عدم وجود محددات ثابتة ومستقرة لسجلات البيانات
-•	زيادة وتضارب عمليات تنقية وتفسير البيانات 
-•	عدم وجود آليات وظيفية للخبراء المطلعين لتنظيم وتحسين البيانات
+<p class="buttons">
+[Call to action](../ar/call-to-action/)
+[Sign on](../ar/sign/)
+[Join the discussion](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
+</p>
 
-وإدراكا للحاجة إلى مزيد من المواءمة بين الجهود على جميع الصعد، عقد المرفق العالمي لمعلومات التنوع البيولوجي (GBIF) المؤتمر العالمي الثاني لمعلوماتية التنوع البيولوجي (GBIC2) في يوليه/ تموز 2018 من أجل اقتراح آلية تنسيق لتطوير خرائط الطرق المشتركة لمعلوماتية التنوع البيولوجي. وتوصل الحضور في هذا المؤتمر إلى توافق في الآراء بشأن ضرورة وجود تحالف عالمي لمعرفة التنوع البيولوجي، والتعلم من أمثلة مثل التحالف العالمي للمعلوماتية الجينومية والمتعلقة بالصحة (GA4GH) ومجتمعات البرمجيات المفتوحة في إطار مؤسسة أباتشي للبرمجيات. وتقدم هذه المبادرات نماذج لجهات معنية متعددة بتمويل لامركزي وحوكمة مستقلة لجمع الموارد ووضع حلول مستدامة تلبي الاحتياجات المشتركة.
+Delegates to the second Global Biodiversity Informatics Conference—GBIC2—called for a __global alliance for biodiversity knowledge__ to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
 
-يمكن أن توفر زيادة التعاون وتحسين إدارة البيانات الحالية وتنسيق تطوير مصادر جديدة للبيانات قاعدة معارف متكاملة ومترابطة لجميع أوجه التنوع البيولوجي – قاعدة بيانات يتم نشرها بحرية وعلانية لكل من يحتاج إليها أو يهتم باستخدامها. سيمكننا تحقيق مثل هذا النظام من تضمين الفهم العلمي الحالي للتنوع البيولوجي في عمليات صنع القرار المنطقية وفي الوقت المناسب التي تدعم مستقبلًا مستدامًا.
+This alliance is open to all institutions, agencies, organizations, researchers and communities working to measure and monitor biodiversity or dependent on accurate information on biodiversity. By joining forces, every stakeholder will benefit from free and open access to the best possible evidence to address questions at all scales.
+
+Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
+
+Questions? Comments? Want to get involved? [Email us](mailto:alliance@gbif.org).
+

@@ -8,10 +8,10 @@ siteName:
   ja: 生物多様性の知識のための同盟
   nl: een alliantie voor kennis over biodiversiteit
   pt: uma aliança pelo conhecimento da biodiversidade
-  ar: تحالف من أجل معرفة التنوع البيولوجي
+  ar: تحالف لمعرفة التنوع البيولوجي
   ru: альянс знаний о биоразнообразии
-  zh-hans: 生物多样性知识联盟
-  zh-tw: 
+  zh: 生物多样性知识联盟
+  zh-tw: 一個生物多樣性知識的聯盟
   
 NavSearch:
   en: Search
@@ -23,7 +23,7 @@ NavSearch:
   pt: Pesquisar
   ar: البحث
   ru: Поиск
-  zh-hans: 搜寻
+  zh: 搜寻
   zh-tw: 搜尋
   
 NavMenu:
@@ -36,7 +36,7 @@ NavMenu:
   pt: Cardápio
   ar: القائمه
   ru: Меню
-  zh-hans: 菜单
+  zh: 菜单
   zh-tw: 功能表
   
 searchPlaceholder:
@@ -49,8 +49,8 @@ searchPlaceholder:
   pt: Pesquisar...
   ar: ...البحث
   ru: Поиск...
-  zh-hans: 
-  zh-tw: 
+  zh: 搜寻
+  zh-tw: 搜尋
     
 skipLink:
   en: Skip to main content
@@ -62,7 +62,7 @@ skipLink:
   pt: Ir para o conteúdo principal
   ar: انتقل إلى المحتوي الرئيسي
   ru: Перейти к основному содержанию
-  zh-hans: 跳转到主要内容
+  zh: 跳转到主要内容
   zh-tw: 
   
 languageSelector_title:
@@ -75,7 +75,7 @@ languageSelector_title:
   pt: Selecione o idioma
   ar: اختر اللغة
   ru: Выберите язык
-  zh-hans: 选择语言
+  zh: 选择语言
   zh-tw: 
   
 translationNotAvailable:
@@ -88,8 +88,8 @@ translationNotAvailable:
   pt: Esta página não está disponível em Português
   ar: الترجمة غير متوفرة باللغة العربية
   ru: Этот текст не доступен на русском языке
-  zh-hans: 此文本不适用于简体中文
-  zh-tw: 
+  zh: 此文本不适用于简体中文
+  zh-tw: 此文本在 繁體中文
   
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
@@ -101,8 +101,8 @@ cannotFindInformation:
   pt: Não consegue encontrar o que procura? Sinta-se livre para entrar em contato conosco.
   ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
   ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
-  zh-hans: 找不到您要找的内容？请随时与我们联系。
-  zh-tw: 
+  zh: 找不到您要找的内容？请随时与我们联系。
+  zh-tw: 此文本在 繁體中文
   
 # The format is
 # key:

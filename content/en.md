@@ -23,35 +23,3 @@ This alliance is open to all institutions, agencies, organizations, researchers 
 Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
 
 Questions? Comments? Want to get involved? [Email us](mailto:alliance@gbif.org).
-
-<!---
-styled custom component
-you can have one or more buttons.
-alignmenment options: left, center, spaceAround
-title: what text should go below the icon
-icon options are the ones provided in the icons folder. As of 3 feb 2019 those are: 
-link: where to link to
-background options: understanding, evidence, data, culture
--->
-```styledYaml
-templates:
-- path: framework.html
-  alignment: spaceAround
-  buttons:
-  - title: Trends and predictions
-    img: 02-trends.png
-    link: ../en/gbio-framework/understanding/#trends-and-predictions
-    background: understanding
-  - title: Integrated occurrence data
-    img: 08-integrated-occurrences.png
-    link: ../en/gbio-framework/evidence/#integrated-occurrence-data
-    background: evidence
-  - title: Published materials
-    img: 11-published-materials.png
-    link: ../en/gbio-framework/data/#published-materials
-    background: data
-  - title: Biodiversity knowledge experts
-    img: 20-knowledge-network.png
-    link: ../en/gbio-framework/culture/#biodiversity-knowledge-experts
-    background: culture
-```
