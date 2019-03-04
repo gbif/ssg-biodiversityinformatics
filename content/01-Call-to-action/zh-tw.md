@@ -1,5 +1,5 @@
 ---
-title: 对建立生物多样性知识联盟的呼吁对建立生物多样性知识联盟的呼吁
+title: 对建立生物多样性知识联盟的呼吁
 description: Learn about and sign on to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
@@ -67,6 +67,7 @@ GBIC2的与会者提出了以下多方面的愿景，以确定生物多样性知
 21. 承认并支持地区、国家和地方的投资在全球解决方案中作为关键和有效组成部分的作用
 22. 克服因语言或文化而产生的数据共享或使用的障碍
 23. 支持在获取和惠益分享方面切实执行国际协定
+
 
 
 ```styledYaml
