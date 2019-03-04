@@ -1,5 +1,5 @@
 ---
-title: Call to action
+title: 協力の要請
 description: Learn about and sign on to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
@@ -7,6 +7,12 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 ---
 
 # 生物多様性の知識のための連携協力の要請
+
+
+<p style="text-align: center;"> [**ビジョン**](#vision) | [**抱負**](#ambitions) | [**次のステップ**](#nextsteps) </p>
+
+<a name="vision"></a>
+## ビジョン
 
 生物多様性に関する知識をデジタル化し、そのデータをフリーでオープンにアクセスできるようにすることに関して、この20年の間に大きな進展がありました。連携の努力によって、国際パートナーシップ・ネットワーク、国・地域・機関のプロジェクトと資金提供、数えきれないほどの個人による貢献がここに集結しました。この協働は様々な生物多様性および環境研究に関わる団体、政府機関、非政府機関、市民科学、民間企業の垣根を超えて実現しました。
 
@@ -22,7 +28,9 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 連携の強化、現有データの管理方法の改善、そして新たな情報源の開拓を進めることで、情報が統合され、互いにリンクし、生物多様性のあらゆる側面で使える知識ベースが作成できます。これはフリーでオープンな情報として、必要とする人、興味を持った人なら誰でも利用できるものです。そのようなシステムを実現することで、持続可能な未来を支える合理的で時宜を得た意思決定プロセスに生物多様性に関する最新の科学的知見を取り込むことができるようになります。
 
-### Shared ambitions
+<a name="ambitions"></a>
+
+## 抱負
 
 GBIC2の参加者は、生物多様性の知識のための連携協力を要請するねらいを明確にするため、以下の多面的なビジョンを提案しました。
 
@@ -61,6 +69,21 @@ GBIC2の参加者は、生物多様性の知識のための連携協力を要請
 22.	言語・文化の壁を超えてデータが共有や使用がなされること。
 23. に鑑み、国際的な合意の実行をサポートすること。
 
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - url: ../sign/
+    title: Sign
+    description: Sign on to show your support
+```
+
+---
+
+<a name="nextsteps"></a>
+
+## 次のステップ
+
 世界の生物多様性データの作成、管理、使用、統合に興味をもつ関係者の皆様は、以下の初期プロセスに意見を出すことによって、ここに提案する*生物多様性の知識のための連携協力体制*の確立にぜひ貢献してください。
 
 後述の５つの分野に分けたディスカッションに参加するにはウェブサイトの[Discussions](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)タブをご覧ください。英語以外の言語での参加も歓迎します。
@@ -80,11 +103,6 @@ GBIC2の参加者は、生物多様性の知識のための連携協力を要請
 ### 概念を実証するプロジェクトを立てる
 この連携協力の主な目標は、利害関係者が共通のニーズを中心に集合し持続可能なプロジェクトを立ち上げ、役立つツール、サービス、モデル、リソースを創出することです。それが結果的に相互に接続されたデジタル知識システムに役立つことが期待されています。このようなプロジェクトの優先順位づけ、創出、提供、維持のためには、公式なプロセスが必要です。短期的にみれば、オープンな連携協力の構想を支えている現在の活動を特定することは価値があり、プルーフ・オブ・コンセプト・プロジェクトとして採択できるでしょう。そのようなプロジェクトは、将来の管理体制モデルに組み込める教訓を提供でき、同時に連携協力の初期の例となります。初期のプルーフ・オブ・コンセプト・プロジェクトの候補としてふさわしい現在進行中の活動があれば提案してください。ソフトウェア開発やデータ管理だけではなく、能力開発や持続可能性の計画など他の分野についても対象となります。
 
-```styledYaml
-templates:
-- path: actions.html
-  actions:
-  - url: ../sign/
-    title: Sign
-    description: Sign on to show your support
-```
+---
+
+

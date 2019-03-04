@@ -27,6 +27,7 @@ En reconnaissant le besoin pour une meilleure coordination entre les différents
 
 Une meilleure coopération, une amélioration de la gestion des données existantes et le développement coordonné de nouvelles sources de données pourrait engendrer la création d’une base de connaissance intégrée et inter-reliée entre tous les aspects de biodiversité—une base librement et ouvertement diffusée à quiconque en aurait besoin ou serait intéressé à utiliser. Mettre en place un tel système nous permettrait d’intégrer les connaissances scientifiques actuelles en biodiversité au sein de processus décisionnels rationnels et opportuns soutenant un futur durable.
 
+<a name="ambitions"></a>
 ### Ambitions
 
 Les participants au GBIC2 proposent la vision multi-facette suivante afin de définir les ambitions pour une alliance pour les connaissances en biodiversité :
@@ -76,6 +77,7 @@ templates:
 ```
 ___
 
+<a name="nextstages"></a>
 ### Les prochaines étapes
 
 Tous les intervenants intéressés dans la production, la gestion, l’utilisation ou l’intégration de données à propos de la biodiversité mondiale sont invités à contribuer à l’établissement de l’alliance pour les connaissances en biodiversité telle que proposée, en donnant leur avis sur cette proposition initiale. 
@@ -101,4 +103,6 @@ Le paysage des décideurs est difficile à appréhender dans le cadre des travau
 ### Adopter des projets « preuve de concept » 
 
 Un des objectifs principaux de l’alliance est de permettre aux décideurs de se rassembler autour de besoins communs et de développer des projets durables pour produire des outils, services, modèles et ressources qui contribuent à faire fonctionner un système interconnecté de connaissances numériques. Des processus formels seront requis afin de prioriser, incuber, produire et maintenir de tels projets. A court terme, il est intéressant d’identifier les activités en cours qui soutiennent la vision pour une alliance ouverte et qui peuvent être adoptées comme preuves de concept. De tels projets offrent des enseignements qui peuvent être incorporés dans de futurs modèles de gouvernance, tout en donnant des exemples précoces de coopération au sein de l’alliance. Nous recherchons des suggestions d’activités existantes qui conviendraient comme preuves de concept, non seulement en développement logiciel ou en gestion de données, mais aussi dans d’autres domaines tels que l’amélioration des capacités et la planification durable.
+
+---
 
