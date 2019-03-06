@@ -1,5 +1,5 @@
 ---
-title: 对建立生物多样性知识联盟的呼吁对建立生物多样性知识联盟的呼吁
+title: 对建立生物多样性知识联盟的呼吁
 description: Learn about and sign on to the vision for an alliance for biodiversity knowledge
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
@@ -86,7 +86,7 @@ templates:
 
 敦促所有对世界生物多样性数据的生成、管理、使用和整合感兴趣的利益攸关方通过为以下初始过程提供投入，为建立这一拟议的生物多样性知识联盟做出贡献。
 
-加入以下五个领域中的[相关讨论]（./discussion）。 欢迎使用非英语以外的语言。
+加入以下五个领域中的[相关讨论]（../discussion）。 欢迎使用非英语以外的语言。
 
 
 ### 扩大参与度

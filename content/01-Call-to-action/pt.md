@@ -79,6 +79,8 @@ templates:
 
 ---
 
+<a name="nextsteps"></a>
+
 ## Próximos passos
 
 Todos os atores e partes interessadas na produção, gestão, utilização e integração de dados sobre a biodiversidade mundial são incitados a contribuir para o estabelecimento desta aliança proposta para o conhecimento da biodiversidade, fornecendo subsídios para os seguintes processos iniciais.

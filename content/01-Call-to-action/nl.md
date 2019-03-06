@@ -84,7 +84,7 @@ templates:
 
 Alle stakeholders met interesse in het creëren, integreren, beheren en gebruiken van gegevens over de biodiversiteit, worden aangespoord om mee te helpen tot de oprichting van deze alliantie voor biodiversiteitskennis onder andere door input te leveren voor de volgende initiële processen.
 
-Ga naar het [discussions](../discusion) aan het overleg over elk van deze vijf topics. **Andere talen dan het Engels zijn zeker ook welkom**.
+Ga naar het [discussions](../discussion) aan het overleg over elk van deze vijf topics. **Andere talen dan het Engels zijn zeker ook welkom**.
 
 ### Engagement vergroten
 De workshop, het rapport en de call tot actie zijn voorbereid. Individuen en instellingen die geïnteresseerd zijn in het mobiliseren, verbeteren, integreren of gebruiken van biodiversiteitsinformatie worden aangemoedigd om hun interesse aan te geven door in te loggen en/of zich te abonneren op verdere updates van de website.
