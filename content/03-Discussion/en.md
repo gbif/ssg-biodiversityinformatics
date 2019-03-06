@@ -16,7 +16,7 @@ imageLink: https://www.gbif.org/occurrence/1949998045
 [Existing collaborations and project plans](https://discourse.gbif.org/t/existing-collaborations-and-project-plans/472)
 </p>
 
-The GBIC2 workshop identified [next steps](../en/call-to-action/#nextsteps) that require further exploration as part of establishing an alliance for biodiversity knowledge.
+The GBIC2 workshop identified [next steps](../call-to-action/#nextsteps) that require further exploration as part of establishing an alliance for biodiversity knowledge.
 
 Over the coming months, there will be opportunity to contribute to web consultations and comment on draft white papers on each of these topics.
 
