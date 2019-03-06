@@ -84,7 +84,7 @@ templates:
 
 All stakeholders with an interest in the production, management, use and integration of data on the world’s biodiversity are urged to contribute to establishing this proposed *alliance for biodiversity knowledge* by providing input to the following initial processes. 
 
-Join the [associated discussions](../en/discussion/) in each of the five following areas. **Contributions in languages other than English are welcomed**.
+Join the [associated discussions](../discussion/) in each of the five following areas. **Contributions in languages other than English are welcomed**.
 
 #### Expanding engagement
 The workshop, its report, and this call to action have been prepared for the global community. Individuals and institutions with an interest in mobilizing, improving, integrating or using biodiversity information are encouraged to indicate their support by signing on in support and/or subscribing for further updates on the alliance website.
