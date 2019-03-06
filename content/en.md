@@ -13,7 +13,7 @@ an alliance for biodiversity knowledge
 <p class="buttons">
 [Call to action](../en/call-to-action/)
 [Sign on](../en/sign/)
-[Join the discussion](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
+[Join the discussion](../en/discussion)
 </p>
 
 Delegates to the second Global Biodiversity Informatics Conference—GBIC2—called for a __global alliance for biodiversity knowledge__ to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
