@@ -11,9 +11,9 @@ una alianza para el conocimiento de la biodiversidad
 ===================
 
 <p class="buttons">
-[Convocatoria](../es/call-to-action)
-[Inscribirse](../es/sign)
-[Únete a la discusión](../es.discussion)
+[Convocatoria](../call-to-action)
+[Inscribirse](../sign)
+[Únete a la discusión](../discussion)
 </p>
 
 Delegates to the second Global Biodiversity Informatics Conference—GBIC2—called for a __global alliance for biodiversity knowledge__ to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
