@@ -86,7 +86,7 @@ templates:
 ### Próximos pasos
 Se urge a todas las personas y entidades clave con interés en la producción, gestión, uso e integración de datos de la Biodiversidad mundial a contribuir al establecimiento de esta alianza global para el conocimiento de la biodiversidad colaborando con los siguientes procesos iniciales.
 
-Visita la [pestaña Discussions de la web](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge) para contribuir a las discusiones sobre cada una de estas cinco áreas. __Las contribuciones en otros idiomas diferentes al inglés son bienvenidas__.
+Visita la [pestaña Discussions de la web](../discussion) para contribuir a las discusiones sobre cada una de estas cinco áreas. __Las contribuciones en otros idiomas diferentes al inglés son bienvenidas__.
 
 #### Ampliar la participación
 

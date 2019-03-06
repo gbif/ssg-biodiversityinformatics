@@ -82,7 +82,7 @@ ___
 
 Tous les intervenants intéressés dans la production, la gestion, l’utilisation ou l’intégration de données à propos de la biodiversité mondiale sont invités à contribuer à l’établissement de l’alliance pour les connaissances en biodiversité telle que proposée, en donnant leur avis sur cette proposition initiale. 
 
-Visiter les discussions afin de contribuer aux [discussions sur chacun de ces cinq thèmes](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge). **Les contributions dans d’autres langues que l’anglais sont les bienvenues**.
+Visiter les discussions afin de contribuer aux [discussions sur chacun de ces cinq thèmes](../discussion). **Les contributions dans d’autres langues que l’anglais sont les bienvenues**.
 
 ### Augmenter la participation
 

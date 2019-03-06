@@ -86,7 +86,7 @@ templates:
 
 Munduko Biodibertsitate-datuak ekoizteko, kudeatzeko eta integratzeko interesa duten pertsona eta entitate guztiei dei egiten zaie Biodibertsitatearen ezagutzarako aliantza global hau ezartzen lagun dezaten beren lankidetza eskainiz hasiera-prozesuetan.
 
-Bisita ezazu [webeko Discussions fitxa](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge), bost arlo hauetako eztabaidetan parte hartu ahal izateko. Ingelesez ez beste hizkuntzetan ere egin daitezke ekarpenak.
+Bisita ezazu [webeko Discussions fitxa](../discussion), bost arlo hauetako eztabaidetan parte hartu ahal izateko. Ingelesez ez beste hizkuntzetan ere egin daitezke ekarpenak.
 
 #### Parte-hartzea zabaltzea
 Tailerra, horri buruzko txostena eta deialdi hau komunitate globalarentzat prestatu dira. Helburua da Biodibertsitatearen inguruko informazioa mugiarazteko, hobetzeko, integratzeko edo erabiltzeko interesa duten banakako eta erakunde guztiek beren babesa erakustea, aliantza hau sinatuz edo aliantzaren web orrian gerora egingo diren eguneraketetara harpidetuz.

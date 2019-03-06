@@ -83,7 +83,7 @@ templates:
 
 Todos os atores e partes interessadas na produção, gestão, utilização e integração de dados sobre a biodiversidade mundial são incitados a contribuir para o estabelecimento desta aliança proposta para o conhecimento da biodiversidade, fornecendo subsídios para os seguintes processos iniciais.
 
-Visite a aba [discussões](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge) para contribuir para discussões sobre cada uma dessas cinco áreas. **Contribuições em idiomas diferentes do inglês são bem-vindas**.
+Visite a aba [discussões](../discussion) para contribuir para discussões sobre cada uma dessas cinco áreas. **Contribuições em idiomas diferentes do inglês são bem-vindas**.
 
 ### Expandir o envolvimento
 O workshop, o seu relatório, e este apelo à ação foram preparados para a comunidade global. Os indivíduos e instituições com interesse em mobilizar, melhorar, integrar ou utilizar informações sobre biodiversidade são encorajados a indicar o seu apoio, assinando em apoio e/ou inscrevendo-se para novas atualizações no portal da Aliança.
