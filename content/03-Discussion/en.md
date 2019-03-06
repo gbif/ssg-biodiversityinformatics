@@ -6,10 +6,18 @@ imageTitle: Trichia decipiens, Tangancícuaro, Michoacán, México, 4 December 2
 imageLink: https://www.gbif.org/occurrence/1949998045
 
 ---
-# Discussions
+# Join the discussion
 
-All stakeholders with an interest in the production, management, use and integration of data on the world’s biodiversity are urged to contribute to establishing this proposed alliance for biodiversity knowledge by providing input to the following initial processes.
+The GBIC2 workshop identified [next steps](../en/call-to-action/#nextsteps) that require further exploration as part of establishing an alliance for biodiversity knowledge.
 
-Join the discussions aimed at establishing  establishing a global alliance for biodiversity knowledge. Please note that __contributions in languages other than English are welcomed__.
+Over the coming months, there will be opportunity to contribute to web consultations and comment on draft white papers on each of these topics.
 
-[Join the discussion](https://discourse.gbif.org/c/alliance-for-biodiversity-knowledge)
+To begin this process, GBIF has opened discussion threads under its community forum. We encourage you to sign up to the forum and contribute your ideas to these discussions. Please note that __contributions in languages other than English are welcomed__.
+
+<p class="buttons">
+[About the alliance](https://discourse.gbif.org/t/about-the-alliance-for-biodiversity-knowledge/392)
+[Models for alliance membership and governance](https://discourse.gbif.org/t/models-for-alliance-membership-and-governance/469)
+[Requirements and guiding questions](https://discourse.gbif.org/t/requirements-and-guiding-questions-to-set-priorities/470)
+[Understanding the stakeholder landscape](https://discourse.gbif.org/t/understanding-the-stakeholder-landscape/471)
+[Existing collaborations and project plans](https://discourse.gbif.org/t/existing-collaborations-and-project-plans/472)
+</p>
