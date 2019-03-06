@@ -8,7 +8,7 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 # Призыв к созданию альянса знаний по биоразнообразию
 
-<p style="text-align: center;"> [**Концепция**](#vision) | [**цели**](#ambitions) | [**ДАЛЬНЕЙШие шаги**](#nextsteps) </p>
+<p style="text-align: center;"> [**Концепция**](#vision) | [**цели**](#ambitions) | [**Дальнейшие шаги**](#nextsteps) </p>
 
 <a name="vision"></a>
 
