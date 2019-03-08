@@ -1,9 +1,9 @@
 ---
 title: What is the name and acronym for the _alliance for biodiversity knowledge_?
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
-image: /images/inat-torres-Trichia-decipiens.jpg
-imageTitle: Trichia decipiens, Tangancícuaro, Michoacán, México, 4 December 2018. Photo by Ricardo Arredondo Torres CC BY-NC 4.0 via iNaturalist research-grade observations.
-imageLink: https://www.gbif.org/occurrence/1949998045
+image: /images/Gillmeria_ochrodactyla.jpg
+imageTitle: _Gillmeria ochrodactyla_ (Denis & Schiffermüller, 1775), on _Tanacetum vulgare_ L., Søborg, Denmark, 23 June 2014. Photo by Donald Hobern CC BY 4.0.
+imageLink: https://www.inaturalist.org/observations/751237
 
 ---
 # What is the name and acronym for the _alliance for biodiversity knowledge_?
