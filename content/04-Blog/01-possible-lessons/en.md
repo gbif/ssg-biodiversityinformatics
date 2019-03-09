@@ -2,7 +2,7 @@
 title: Possible lessons from the Apache Software Foundation, ELIXIR and GA4GH
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
 image: /images/Lasiorhinus_latifrons.jpg
-imageTitle: _Lasiorhinus latifrons_ (Owen, 1845), Southern Hairy-nosed Wombat, Brookfield Conservation Park, Blanchetown, South Australia, 15 August 2018. Photo by Donald Hobern CC BY 4.0.
+imageTitle: Lasiorhinus latifrons (Owen, 1845), Southern Hairy-nosed Wombat, Brookfield Conservation Park, Blanchetown, South Australia, 15 August 2018. Photo by Donald Hobern CC BY 4.0.
 imageLink: https://www.inaturalist.org/observations/16426708
 
 ---
