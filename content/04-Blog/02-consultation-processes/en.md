@@ -44,3 +44,9 @@ Some consultations will require intensive discussion by many stakeholders. As fa
 We hope that a model like this will make it easier to include contributions from all over the world, including from those who may not be free to travel or who can only participate at particular times of the day or week. Savings in travel costs could fund development of a good tool/platform for this purpose and of facilitators and translators.
 
 ### Face-to-face workshops
+
+_Face-to-face workshops_ are often important for developing mutual understanding and enabling a core group of practitioners or experts to explore an issue and develop recommendations. A downside is the difficulty of ensuring that all perspectives are properly represented, which is one of the drivers for exploring _virtual conferences_. Face-to-face workshops are likely to be particularly effective for concentrated discussion of detailed technical matters or to develop perspectives at a regional or local level. We aim for all _alliance_ workshops to deliver white papers that can be publicly shared widely and used to seek wider feedback and approval.
+
+GBIF has allocated funding to support workshops and other activities during 2019 and further funds have been made available under the [Synthesys+](http://www.synthesys.info/) project funded by the European Commission. Sessions at the [biodiversity_next](https://biodiversitynext.org/) conference in Leiden, Amsterdam in October may also serve as workshops aligned with the _alliance_.
+
+We encourage stakeholders to plan or to identify conferences and workshops that may contribute to planning for the _alliance_. Please communicate with [alliance@gbif.org](mailto:alliance@gbif.org) to highlight such plans and to coordinate outputs and communications.
