@@ -7,6 +7,6 @@ imageLink: https://www.inaturalist.org/observations/7573923
 
 ---
 # The role of the expert community within the _alliance for biodiversity knowledge_
-_Donald Hobern, GBIF Secretariat, [dhobern@gbif.org](mailto:dhobern@gbif.org)_, 9 March 2019
+_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 9 March 2019_
 
 The [Global Biodiversity Informatics Outlook](https://www.biodiversityinformatics.org/en/gbio/) (GBIO) assigned a key role to what it called the _Biodiversity Knowledge Network_.
