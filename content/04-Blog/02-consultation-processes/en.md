@@ -29,34 +29,18 @@ Please follow the discussion and [register to participate](../../sign/) in all s
 
 ### Virtual conferences
 
-Some consultations will require intensive discussion by many stakeholders. As far as possible, we hope to make such consultations as open and inclusive as possible. 
+Some consultations will require intensive discussion by many stakeholders. As far as possible, we hope to make such consultations as open and inclusive as possible. For this reason, and to avoid unnecessary carbon emissions, we propose to experiment with _"virtual conferences"_ with the following structure:
 
+1. Each virtual conference has a defined topic and set of questions that need to be addressed. These may be based on a prepared white paper.
+2. Invited contributors prepare documents, record video presentations or provide other materials to provide background, propose solutions or otherwise stimulate the discussion.
+3. All materials are uploaded to a conference site, ideally with at least summaries in multiple key languages.
+4. A virtual conference normally continues for a defined period of two to three weeks.
+5. Participants from anywhere in the world can contribute at any time to online discussion threads relating to the topic and questions.
+6. A small team of facilitators oversee the discussions and regularly (daily or once every few days) produce summary documents highlighting what seems to be well agreed and what questions remain open. They may invite participants to author or record new materials to support the discussions.
+7. At the end of the conference, the facilitators produce a summary paper from the discussions.
+8. The summary paper is open for review and corrections for a period following the conference.
+9. All materials, including discussion threads, can be saved and made available online for subsequent access. 
 
-
-
-I was reading this piece in the Washington Post:
-
-https://www.washingtonpost.com/outlook/2018/12/10/we-study-climate-we-chose-not-fly-dc-conference-it/
-
-It led me to search a little around current options for virtual conference solutions that might be appropriate for international communities. I am surprised there is so little evidence that people are working on standard solutions. However, I did find this:
-
-https://hiltner.english.ucsb.edu/index.php/ncnc-guide/
-
-The model they propose in this paper is hardly complex, although some effort would be needed to set it up well. It’s actually close to some ideas we have discussed on various occasions. Even if we only started with this for a small subset of the many meetings GBIF itself organizes, I’d like to suggest that we consider trying this approach. Some specific comments:
-
-* Obviously saving carbon is the big issue but the suggested model allows anyone to participate in collaborative discussion without having to travel or work outside their normal or preferred working hours
-* The fact that all materials, including discussion threads, can be saved and made available online for subsequent access is a major positive
-* It would be possible to use this model in a closed, authenticated version for meetings with a restricted audience
-* Above all, a model like this would be fantastic for any alliance workshops or discussions – it can facilitate open involvement by participants everywhere, including those without access to travel funds
-* Facilitation is key, and clearly different in some ways from a face-to-face event, but with good planning and design of the tools, should be readily manageable
-* The savings in travel costs could fund development of a good tool/platform for this purpose.
-
-Here is the central summary from inside the document:
-
-In a nutshell, here is how this NCN approach works (note that it differs significantly from a typical webinar using Skype or similar technologies):
-
-1. Speakers record their own talks. This can be A) a video of them speaking, generally filmed with a webcam or smartphone, B) a screen recording of a presentation, such as a PowerPoint, or C) a hybrid of the two, with speaker and presentation alternately or simultaneously onscreen. Here are examples of speaker, presentation, and hybrid presentations from the May 2016 UCSB conference. Alternate approaches are also possible, such as this talk from the conference, which is a short documentary with the talk as a voiceover. Note that even smartphones can now produce videos of broadcast resolution.
-2. Talks are viewed on the conference website. Once made available on the conference website, talks can be viewed at any time. Talks are organized into panels (i.e. individual webpages) that generally have three speakers each and a shared Q&A session – just like a traditional conference. As they are prerecorded, videos can be closed captioned for greater accessibility, as were all the talks for UCSB’s second NCN conference. Visit a sample panel.
-3. Participants contribute to an online Q&A session. During the time that the conference is open, which is generally two or three weeks, participants can take part in the Q&A sessions for the panels, which are similar to online forums, by posing and responding to written questions and comments. Because comments can be made at any time in any time zone, participants from across the globe can equally take part in the conference. Jump to a sample Q&A.
+We hope that a model like this will make it easier to include contributions from all over the world, including from those who may not be free to travel or who can only participate at particular times of the day or week. Savings in travel costs could fund development of a good tool/platform for this purpose and of facilitators and translators.
 
 ### Face-to-face workshops
