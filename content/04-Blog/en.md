@@ -9,6 +9,6 @@ imageLink: https://www.gbif.org/occurrence/1949998045
 # Blog
 
 | Topic | Description |
-| :---- | :---- |
+| :-------------------------- | :---- |
 | [Name for the _alliance_](./alliance-name) | **What is the name and acronym for the _alliance for biodiversity knowledge_?** - An explanation for the anonymous name for the _alliance_. |
 | [Lessons from other alliances](./possible-lessons) | **Possible lessons from Apache, ELIXIR and GA4GH** - Identifies aspects of other alliances and alliance-like activities that may be useful models for the _alliance for biodiversity knowledge_. |
