@@ -1,7 +1,7 @@
 ---
 title: Blog
 description: Short posts and documents to stimulate discussion on the _alliance for biodiversity knowledge_
-image: /images/iNat-Bisulli-Rosa-canina.jpg.jpg
+image: /images/inat-Bisulli-Rosa-canina.jpg.jpg
 imageTitle: Dog rose (Rosa canina), Provincia di Forlì-Cesena, Italia, 25 January 2019. Photo by Eddi Bisulli CC BY-NC 4.0 via iNaturalist research-grade observations.
 imageLink: https://www.gbif.org/occurrence/1990582871
 
