@@ -1,9 +1,9 @@
 ---
 title: Blog
 description: Short posts and documents to stimulate discussion on the _alliance for biodiversity knowledge_
-image: /images/iNat-Durand-Rosa-rugosa.jpg
-imageTitle: Rugosa rose (Rosa rugosa), Fouesnant, France, 5 June 2018. Photo by Bruno Durand CC BY-NC 4.0 via iNaturalist research-grade observations.
-imageLink: https://www.gbif.org/occurrence/1850926020
+image: /images/inat-bisulli-Rosa-canina.jpg.jpg
+imageTitle: Dog rose (Rosa canina), Provincia di Forlì-Cesena, Italia, 25 January 2019. Photo by Eddi Buselli CC BY-NC 4.0 via iNaturalist research-grade observations.
+imageLink: https://www.gbif.org/occurrence/1990582871
 
 ---
 # alliance blog
