@@ -8,7 +8,7 @@ imageLink: https://www.gbif.org/occurrence/1990582871
 ---
 # alliance blog
 
-If you are interested in sharing perspectives that can contribute to discussions around the *alliance*, please contact us at [alliance@gbif.org](mailto:alliance@gbif.org).
+If you are interested in sharing perspectives that can contribute to discussions around the alliance, please contact us at [alliance@gbif.org](mailto:alliance@gbif.org).
  
 ### Latest posts
 
