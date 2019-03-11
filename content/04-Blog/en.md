@@ -12,6 +12,6 @@ If you are interested in sharing perspectives that can contribute to discussions
  
 ### Latest posts
 
-+ [**Plans for consultation processes within the _alliance for biodiversity knowledge_**](./consultation-processes)<br />Just how do we intend to gather input from the widest range of stakeholders possible?<br />_11 March 2019_
 + [**What is the name and acronym for the _alliance for biodiversity knowledge_?**](./alliance-name)<br />An explanation for the anonymous name<br />_11 March 2019_
 + [**Possible lessons from Apache, ELIXIR and GA4GH**](./possible-lessons)<br />Aspects of other alliances and alliance-like activities may provide useful models and precedents for the _alliance_<br />_11 March 2019_
++ [**Plans for consultation processes within the _alliance for biodiversity knowledge_**](./consultation-processes)<br />Just how do we intend to gather input from the widest range of stakeholders possible?<br />_11 March 2019_
