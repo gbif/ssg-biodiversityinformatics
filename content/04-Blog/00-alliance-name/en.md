@@ -7,7 +7,7 @@ imageLink: https://www.inaturalist.org/observations/751237
 
 ---
 # What is the name and acronym for the _alliance for biodiversity knowledge_?
-_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 8 March 2019_
+_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 11 March 2019_
 
 The attendees at the [GBIC2 workshop](https://www.biodiversityinformatics.org/en/gbic2/2018-conference/) agreed that an alliance is needed to facilitate international collaboration and to harness the resources of hundreds of diverse stakeholders from around the world.
 

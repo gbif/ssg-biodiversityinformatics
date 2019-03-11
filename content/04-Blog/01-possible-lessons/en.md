@@ -7,7 +7,7 @@ imageLink: https://www.inaturalist.org/observations/16426708
 
 ---
 # Possible lessons from Apache, ELIXIR and GA4GH
-_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 8 March 2019_
+_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 11 March 2019_
 
 An important step in establishing an _alliance for biodiversity knowledge_ is to explore possible governance models, mechanisms for a collaborative community to develop shared implementation plans, and ways to facilitate and acknowledge contributions of institutions and individuals to delivering services and products.
 

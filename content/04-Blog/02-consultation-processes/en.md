@@ -7,7 +7,7 @@ imageLink: https://www.inaturalist.org/observations/7573923
 
 ---
 # Plans for consultation processes within the _alliance for biodiversity knowledge_
-_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 9 March 2019_
+_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 11 March 2019_
 
 The goal of the _alliance for biodiversity knowledge_ is to be as inclusive as possible and open to inputs from all interested stakeholders. We propose therefore to consult as widely as possible at all stages in the planning and establishment of the _alliance_ and also as a model for how the _alliance_ should carry on all its future business.
 
