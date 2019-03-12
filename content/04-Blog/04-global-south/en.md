@@ -6,7 +6,7 @@ imageTitle: Crimson-tailed marsh hawk (Orthetrum pruinosum), The Nilgiris, Tamil
 imageLink: https://www.gbif.org/occurrence/1986619732
 
 ---
-# The role of the expert community within the _alliance for biodiversity knowledge_
+# Some perspectives on international collaboration from the Global South
 _GBIC2 Attendee, 13 March 2019_
 
 An alliance for biodiversity knowledge needs to be broad-based and inclusive involving all geographical areas and all communities. The Global South is rich in biodiversity and relatively poorly represented in global databases. These areas also have large and dense human  populations where development aspirations  are altering ecosystems at an alarming pace. 
