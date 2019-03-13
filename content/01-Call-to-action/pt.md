@@ -104,7 +104,7 @@ Um dos principais objetivos da Aliança é capacitar os atores e partes interess
 
 ---
 
-Agradecimentos ao Andrea Ferreira Portela Nunes de [SiBBr](http://www.sibbr.gov.br/) e Tai Messina e Rui Figueira de [GBIF Portugal](http://www.gbif.pt/), por a ajuda com a tradução para o português.
+_Agradecimentos ao Andrea Ferreira Portela Nunes de [SiBBr](http://www.sibbr.gov.br/) e Tai Messina e Rui Figueira de [GBIF Portugal](http://www.gbif.pt/), por a ajuda com a tradução para o português._
 
 
 
