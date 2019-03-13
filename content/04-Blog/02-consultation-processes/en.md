@@ -15,17 +15,19 @@ The focus during 2019 will be on establishing the model, governance and operatio
 
 ### Web forum
 
-We have opened several discussion threads on the [GBIF Discourse Forum](../../discussion/) to capture early responses and comments on the concept of the _alliance_. We hope that discussion on these threads will help to define the parameters for subsequent consultations. Please contribute to the discussion by entering any concerns or questions and helping us to understand what issues need further exploration. At this stage, these forum threads are in English, but we welcome posts in other languages and will seek to integrate ideas into the English-languafe discussions.
+We have opened several discussion threads on the [GBIF Discourse Forum](../../discussion/) to capture early responses and comments on the concept of the _alliance_. We hope that discussion on these threads will help to define the parameters for subsequent consultations. Please contribute to the discussion by entering any concerns or questions and helping us to understand what issues need further exploration. At this stage, these forum threads are in English, but we welcome posts in other languages and will seek to integrate ideas into the English-language discussions.
 
 We will use this [blog](../) to provide perspectives that may contribute to the discussions. If you are interested in authoring a blog post (in English or another language), please email us at [alliance@gbif.org](mailto:alliance@gbif.org).
 
 ### White papers
 
-We plan to summarize intermediate proposals and final decisions as a series of white papers. We will seek involvement of interested stakeholders as contributing authors during preparation of these papers. Each paper will then be presented for broader discussion and refinement, with versions or summaries offered in multiple languages whenever feasible. We will use _virtual conferences_ or _face-to-face workshops_ (both discussed below) to support the conversation where significant or complex matters require evaluation. 
+We intend to summarize intermediate proposals and final decisions as a series of white papers. We encourage interested stakeholders to coauthor and contribute to the preparation of these papers. 
 
-If we do not reach adequate consensus about next steps, the process will repeat with further consultation around a revised document.
+Each paper will then be distributed for wider discussion and further refinement, with versions or summaries offered in multiple languages whenever feasible—starting with the six official UN languages, but extending further as the community wishes. We will use _virtual conferences_ or _face-to-face workshops_ (both discussed below) to support the conversation where significant or complex matters require evaluation. 
 
-Please follow the discussion and [register to participate](../../sign/) in all stages in this process. By joining the mailing list, you will be kept informed of consultations as they are announced. We also welcome offers of assistance in translating materials into languages other than English.
+If we do not reach adequate consensus about next steps, we will repeat the process with additional consultation around a revised document.
+
+Please follow the discussion and [register to participate](../../sign/) in all stages in this process. By joining the mailing list or following [@AllianceforBio](https://www.twitter.com/AllianceforBio) on Twitter, you will be kept informed of consultations as they are announced. We also welcome continuing offers of assistance in translating materials into languages other than English.
 
 ### Virtual conferences
 
@@ -41,7 +43,7 @@ Some consultations will require intensive discussion by many stakeholders. As fa
 8. The summary paper is open for review and corrections for a period following the conference.
 9. All materials, including discussion threads, can be saved and made available online for subsequent access. 
 
-We hope that a model like this will make it easier to include contributions from all over the world, including from those who may not be free to travel or who can only participate at particular times of the day or week. Savings in travel costs could fund development of a good tool/platform for this purpose and of facilitators and translators.
+We hope that a model like this will make it easier to include contributions from all over the world, including from those who may not be free to travel or who can only participate at particular times of the day or week. Savings recouped from travel costs could likely fund both the development of a good tool/platform for this purpose and activities of facilitators and translators.
 
 ### Face-to-face workshops
 

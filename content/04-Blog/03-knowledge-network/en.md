@@ -7,7 +7,7 @@ imageLink: https://www.inaturalist.org/observations/267866
 
 ---
 # The role of the expert community within the _alliance for biodiversity knowledge_
-_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 9 March 2019_
+_[Donald Hobern](mailto:dhobern@gbif.org), GBIF Secretariat, 12 March 2019_
 
 The [Global Biodiversity Informatics Outlook](https://www.biodiversityinformatics.org/en/gbio/) (GBIO) assigned a key role to what it called the _Biodiversity Knowledge Network_, part of the **Culture** tier in the GBIO framework. This component of the framework relates to
 developing models, social networks, reputation and recognition systems to empower and reward professionals and knowledgeable amateurs to contribute to the curation and improvement of digital biodiversity information. 
