@@ -103,5 +103,6 @@ Entender o panorama de atores e partes interessadas para o trabalho da Aliança 
 Um dos principais objetivos da Aliança é capacitar os atores e partes interessadas a convergir em torno de necessidades compartilhadas e incubar projetos sustentáveis para fornecer ferramentas, serviços, modelos e recursos que contribuam para a entrega de um sistema de conhecimento digital interconectado. Serão necessários processos formais para priorizar, incubar, entregar e sustentar tais projetos. A curto prazo, há valor na identificação de atividades atuais que apoiam a visão de uma aliança aberta e que podem ser adotadas como projetos de prova de conceito. Tais projetos podem oferecer lições que poderão ser incorporadas a modelos futuros de governança e, ao mesmo tempo, dar exemplos iniciais de cooperação baseada em alianças. Buscamos sugestões para atividades existentes adequadas como candidatas para projetos de prova de conceito antecipado, não apenas em desenvolvimento de software ou gerenciamento de dados, mas também em outras áreas, como aprimoramento de capacidade e planeamento de sustentabilidade.
 
 Agradecimentos ao Andrea Ferreira Portela Nunes de [SiBBr](http://www.sibbr.gov.br/) e Tai Messina e Rui Figueira de [GBIF Portugal](http://www.gbif.pt/), por a ajuda com a tradução para o português.
+
 ---
 
