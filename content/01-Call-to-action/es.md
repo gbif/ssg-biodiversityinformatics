@@ -45,7 +45,7 @@ Los asistentes al GBIC2 propusieron la siguiente visión polifacética para defi
 5. Describir todos los recursos de datos con metadatos de calidad que apoyen la reutilización presente y futura.
 6. Asegurar que todos los recursos de datos son conservados en repositorios confiables estables y persistentes.
 7. Permitir la depuración, anotación y mejora colaborativas de todos los datos por parte de profesionales relevantes y comunidades de expertos.
-8. Permitir a los proveedores de conocimiento y experiencia mantener sus contribuciones completamente registradas, reconocidas y registradas.
+8. Permitir a los proveedores de conocimiento y experiencia mantener sus contribuciones completamente registradas, reconocidas y acreditadas.
 9. Monitorear la procedencia y atribución de todos los recursos de información.
 
     __Apoyo a los datos de biodiversidad altamente conectados__
