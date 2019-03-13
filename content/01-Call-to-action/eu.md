@@ -1,5 +1,5 @@
 ---
-title: Ekintza deitu
+title: Deialdia
 description: Bioaniztasunaren ezagutza lortzeko aliantzaren ikuspegia harpidetu
 image: /images/35-Chrysaora-fuscescens-ragarwal.jpg
 imageTitle: Pacific sea nettle (Chrysaora fuscescens) by Robin Agarwal via iNaturalist. Photo licensed under CC BY-NC 4.0.
@@ -7,7 +7,7 @@ imageLink: https://www.gbif.org/occurrence/1640125771
 
 ---
 
-# Eekintza deitu
+# Biodibertsitatea ezagutzeko aliantza baterako deialdia
 
 <p style="text-align: center;"> [**Ikusmen**](#vision) | [**Xede partekatuak**](#ambitions) | [**Hurrengo urratsak**](#nextsteps) </p>
 
@@ -75,7 +75,7 @@ templates:
 - path: actions.html
   actions:
   - url: ../sign/
-    title: Saioa hasi
+    title: Sinatu
     description: Sign on to show your support
 ```
 

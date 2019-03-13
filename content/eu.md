@@ -11,9 +11,9 @@ Biodibertsitatea ezagutzeko aliantzako bidean
 ===================
 
 <p class="buttons">
-[Eekintza deitu](../eu/call-to-action/)
-[Eekintza deitu](../eu/sign/)
-[Elkartu eztabaida](../eu/discussion)
+[Deialdia](../eu/call-to-action/)
+[Sinatu](../eu/sign/)
+[Parte hartu eztabaidan](../eu/discussion)
 </p>
 
 Delegates to the second Global Biodiversity Informatics Conference—GBIC2—called for a __global alliance for biodiversity knowledge__ to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
