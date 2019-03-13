@@ -1,5 +1,5 @@
 ---
-title: Discussion
+title: Eztabaida
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
 image: /images/inat-torres-Trichia-decipiens.jpg
 imageTitle: Trichia decipiens, Tangancícuaro, Michoacán, México, 4 December 2018. Photo by Ricardo Arredondo Torres CC BY-NC 4.0 via iNaturalist research-grade observations.
