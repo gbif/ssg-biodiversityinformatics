@@ -105,3 +105,4 @@ Een belangrijk doel van de alliantie is om stakeholders in staat te stellen zich
 
 ---
 
+_Onze dank aan Dimitri Brosens van [INBO](https://www.inbo.be/) en Niels Raes van [Naturalis](https://www.naturalis.nl/), voor de Nederlandse vertaling_ 
