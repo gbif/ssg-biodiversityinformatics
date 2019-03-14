@@ -42,3 +42,4 @@ It is important to exchange ideas and discuss methods to document biodiversity a
 
 Adequate support is needed from the global community as well as local governments to foster an environment conducive to documenting, building and sharing knowledge as a part of the global alliance. Initiatives like the grants of the [JRS Biodiversity Foundation](http://jrsbiodiversity.org) and [GBIF’s capacity enhancement support programmes](https://www.gbif.org/programme/82219/) specifically emphasise capacity building as an essential component of all biodiversity informatics projects. This aligns with the vision for a new alliance for biodiversity knowledge articulated at GBIC2. 
 
+> [Please share your own thoughts](https://discourse.gbif.org/t/how-do-we-address-large-scale-regional-imbalances-in-documenting-biodiversity-while-making-key-data-available-to-scientific-policy-and-citizen-communities-from-the-global-south/663)
