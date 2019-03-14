@@ -34,9 +34,10 @@ Documentation and building knowledge of biodiversity must been conceived as syne
 A collaborative and participative biodiversity knowledge platform must democratize knowledge and empower local and regional communities to manage their data, information and knowledge to the benefit of local societies and communities. This would require a bottom-up approach, with emphasis on awareness and capacity building in biodiversity informatics. 
 
 Local capacity should be built across three broad areas: 
-a. The scientific community, local experts and taxonomists who will focus on biodiversity informatics and help aggregate, organise and validate information
-b. The civil society, educational institutions, government ministries and institutions involved with implementation of conservation projects should be involved in generating and using biodiversity information
-c. The technological capacity to build and maintain tools required for biodiversity informatics and to participate in global open source biodiversity informatics projects
+
+1. The scientific community, local experts and taxonomists who will focus on biodiversity informatics and help aggregate, organise and validate information
+2. The civil society, educational institutions, government ministries and institutions involved with implementation of conservation projects should be involved in generating and using biodiversity information
+3. The technological capacity to build and maintain tools required for biodiversity informatics and to participate in global open source biodiversity informatics projects
 
 It is important to exchange ideas and discuss methods to document biodiversity and build global knowledge. A new peer-to-peer alliance for biodiversity knowledge will benefit both from truly global participation in national and international conferences and from presentation of projects, programs and views from the Global South. The [biodiversity_next conference](https://biodiversitynext.org/list-of-symposia-and-workshops) in October 2019, for example, will include a symposium focused on perspectives from the Global South. 
 
