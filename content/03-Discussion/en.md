@@ -11,7 +11,7 @@ imageLink: https://www.gbif.org/occurrence/1949998045
 <p class="buttons">
 [About the alliance for biodiversity knowledge](https://discourse.gbif.org/t/about-the-alliance-for-biodiversity-knowledge/392)
 [Models for alliance membership and governance](https://discourse.gbif.org/t/models-for-alliance-membership-and-governance/469)
-[Requirements and guiding questions to set priorities ](https://discourse.gbif.org/t/requirements-and-guiding-questions-to-set-priorities/470)
+[Requirements and guiding questions to set priorities](https://discourse.gbif.org/t/requirements-and-guiding-questions-to-set-priorities/470)
 [Understanding the stakeholder landscape](https://discourse.gbif.org/t/understanding-the-stakeholder-landscape/471)
 [Existing collaborations and project plans](https://discourse.gbif.org/t/existing-collaborations-and-project-plans/472)
 </p>
