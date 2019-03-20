@@ -103,3 +103,7 @@ Entendre el panorama de les parts interessades en aquesta aliança és una tasca
 
 #### Adoptar projectes de prova de concepte
 Un dels objectius principals de l’aliança és facilitar a les parts interessades convergir al voltant de les necessitats comunes i desenvolupar projectes sostenibles per generar eines, serveis, models i recursos que contribueixin a la creació d’un sistema de coneixements digitals interconnectats. Es requeriran processos formals per prioritzar, incubar, desenvolupar i mantenir aquests projectes. A curt termini, serà interessant identificar les activitats en curs que sostenen la visió d’una aliança oberta i que poden ser adoptades com a prova de concepte. Aquests projectes ofereixen lliçons que poden incorporar-se en futurs models de governança, alhora que donen exemples precoços de cooperació en el si de l’aliança. Cerquem suggeriments sobre activitats existents que puguin tenir valor com a prova de concepte, no tan sols en el desenvolupament del programari o en la gestió de les dades, sinó també en altres àmbits com la millora de les capacitats i la planificació sostenible.
+
+---
+
+_Gràcies a Jordi Torallas i Boucharlat and Carles Dalmases Llordes per aquesta traducció_
