@@ -16,6 +16,7 @@ siteName:
   
 NavSearch:
   en: Search
+  ar: البحث
   ca: Cerca
   es: Buscar
   eu: Arakatu
@@ -23,13 +24,13 @@ NavSearch:
   ja: 検索
   nl: Zoek
   pt: Pesquisar
-  ar: البحث
   ru: Поиск
   zh: 搜寻
   zh-tw: 搜尋
   
 NavMenu:
   en: Menu
+  ar: القائمه
   ca: Menú
   es: Menú
   eu: Menu
@@ -37,13 +38,13 @@ NavMenu:
   ja: メニュー
   nl: Menu
   pt: Cardápio
-  ar: القائمه
   ru: Меню
   zh: 菜单
   zh-tw: 功能表
   
 searchPlaceholder:
   en: Search...
+  ar: ...البحث
   ca: Cerca...
   es: Buscar...
   eu: Arakatu...
@@ -51,13 +52,13 @@ searchPlaceholder:
   ja: 検索
   nl: Zoek...
   pt: Pesquisar...
-  ar: ...البحث
   ru: Поиск...
   zh: 搜寻
   zh-tw: 搜尋
     
 skipLink:
   en: Skip to main content
+  ar: انتقل إلى المحتوي الرئيسي
   ca: Saltar al contingut principal
   es: Saltar al contenido principal
   eu: Edukin nagusira joan
@@ -65,13 +66,13 @@ skipLink:
   ja: メインコンテンツへスキップ
   nl: Ga naar hoofdinhoud
   pt: Ir para o conteúdo principal
-  ar: انتقل إلى المحتوي الرئيسي
   ru: Перейти к основному содержанию
   zh: 跳转到主要内容
   zh-tw: 
   
 languageSelector_title:
   en: Select language
+  ar: اختر اللغة
   ca: Seleccioneu idioma
   es: Seleccione el idioma
   eu: Hautatu hizkuntza
@@ -79,13 +80,13 @@ languageSelector_title:
   ja: 言語の選択
   nl: Taal selecteren
   pt: Selecione o idioma
-  ar: اختر اللغة
   ru: Выберите язык
   zh: 选择语言
   zh-tw: 
   
 translationNotAvailable:
   en: This text is not available in English
+  ar: الترجمة غير متوفرة باللغة العربية
   ca: Aquest text no està disponible en català
   es: Este texto no está disponible en español
   eu: Testu hau ez dago erabilgarri euskaraz
@@ -93,13 +94,13 @@ translationNotAvailable:
   ja: このテキストは日本語では使用できません。
   nl: Deze pagina is niet beschikbaar in het Nederlands
   pt: Esta página não está disponível em Português
-  ar: الترجمة غير متوفرة باللغة العربية
   ru: Этот текст не доступен на русском языке
   zh: 此文本不适用于简体中文
   zh-tw: 此文本在 繁體中文
   
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
+  ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
   ca: No trobes el que busques? No dubti en contactar amb nosaltres.
   es: ¿No encuentras lo que buscas? Siéntase libre de contactarnos.
   eu: Ezin duzu bilatu zer bilatzen ari zaren? Jar zaitez gurekin harremanetan.
@@ -107,7 +108,6 @@ cannotFindInformation:
   ja: 探しているものが見つかりませんか?お気軽にご連絡ください。
   nl: U niet vinden wat u zoekt? Neem dan geRust contact met ons op.
   pt: Não consegue encontrar o que procura? Sinta-se livre para entrar em contato conosco.
-  ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
   ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
   zh: 找不到您要找的内容？请随时与我们联系。
   zh-tw: 此文本在 繁體中文
