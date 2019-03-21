@@ -106,4 +106,4 @@ Un dels objectius principals de l’aliança és facilitar a les parts interessa
 
 ---
 
-_Gràcies a Jordi Torallas i Boucharlat and Carles Dalmases Llordes per aquesta traducció_
+_Gràcies a __Jordi Torallas i Boucharlat__ i __Carles Dalmases Llordes__ per aquesta traducció_
