@@ -12,7 +12,7 @@ an alliance for biodiversity knowledge
 
 <p class="buttons">
 [Read the paper](https://doi.org/10.3897/BDJ.7.e33679)
-[Call to action](../en/call-to-action/)
+[Read the call to action](../en/call-to-action/)
 [Sign on](../en/sign/)
 </p>
 
