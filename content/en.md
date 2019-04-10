@@ -22,6 +22,7 @@ This alliance is open to all institutions, agencies, organizations, researchers 
 
 Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
 
+<p class="buttons" align="center">
 [Join the discussion](../en/discussion)
 </p>
 
