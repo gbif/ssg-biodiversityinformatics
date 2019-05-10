@@ -2,7 +2,7 @@
 title: Some perspectives on international collaboration from the Global South
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
 image: /images/iNat-gypsytwitcher-Orthetrum-pruinosum.jpg
-imageTitle: Crimson-tailed marsh hawk (Orthetrum pruinosum), The Nilgiris, Tamil Nadu, India, 9 Jan 2019. Photo by gypsytwitgher CC BY-NC 4.0.
+imageTitle: Crimson-tailed marsh hawk (Orthetrum pruinosum), The Nilgiris, Tamil Nadu, India, 9 Jan 2019. Photo by gypsytwitcher via iNaturalist, licensed under CC BY-NC 4.0.
 imageLink: https://www.gbif.org/occurrence/1986619732
 
 ---

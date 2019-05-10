@@ -2,7 +2,7 @@
 title: Plans for consultation processes within the _alliance for biodiversity knowledge_
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
 image: /images/Pultenaea_procumbens.jpg
-imageTitle: Pultenaea procumbens A.Cunn., Black Mountain, Canberra, ACT, 12 October 2010. Photo by Donald Hobern CC BY 4.0.
+imageTitle: Pultenaea procumbens, Black Mountain, Canberra, ACT, 12 October 2010. Photo 2010 Donald Hobern, licensed under CC BY 4.0.
 imageLink: https://www.inaturalist.org/observations/7573923
 
 ---

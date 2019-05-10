@@ -2,7 +2,7 @@
 title: What is the name and acronym for the _alliance for biodiversity knowledge_?
 description: Join the discussions aimed at establishing a global alliance for biodiversity knowledge
 image: /images/Gillmeria_ochrodactyla.jpg
-imageTitle: Gillmeria ochrodactyla (Denis & Schiffermüller, 1775), on Tanacetum vulgare L., Søborg, Denmark, 23 June 2014. Photo by Donald Hobern CC BY 4.0.
+imageTitle: Gillmeria ochrodactyla, on tansy (Tanacetum vulgare), Søborg, Denmark, 23 June 2014. Photo by Donald Hobern CC BY 4.0.
 imageLink: https://www.inaturalist.org/observations/751237
 
 ---
