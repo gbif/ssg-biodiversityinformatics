@@ -1,5 +1,5 @@
 # alliance
-A subsite for the allaince using the a static site generator - content needs to be revised
+A subsite for the alliance using a static site generator. Deprecated by Wix-based site at https://allianceforbio.org. When possible, suggest rolling back content to an as-yet to-be-determined Aug-Sept 2018 version to preserve its place as the site for GBIC2.
 
 For general usage about using the static site see to [example site](ssg.gbif-uat.org).
 
