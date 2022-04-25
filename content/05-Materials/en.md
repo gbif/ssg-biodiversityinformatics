@@ -4,7 +4,6 @@ description: Documents and resources prepared for GBIC2
 image: /images/Resources.png
 imageTitle: Resources for GBIC2 4.0 via iNaturalist.org
 category: GBIC2
-subCategory: Materials
 ---
 # Materials
 
