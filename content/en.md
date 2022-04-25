@@ -1,26 +1,26 @@
 ---
 title: Home
 style: home article
-description: "GBIC2: the 2nd Global Biodiversity Informatics Conference—delivering biodiversity knowledge in the information age"
-image: /images/MacropusRobustus.jpg
-imageTitle: Euro (Macropus robustus erubescens), Denham, Western Australia, 10 January 2018. Photo by Donald Hobern via iNaturalist.org, licensed under CC BY 4.0.
-imageLink: https://www.gbif.org/occurrence/1807286838
+description: Delegates to the second Global Biodiversity Informatics Conference (GBIC2) called for a global alliance for biodiversity knowledge to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world's biodiversity. 
+image: /images/authagraph-alt.svg
+imageTitle: AuthaGraph map of the world with political borders. Adapted from Justin Kunimune, licensed under CC BY-SA 4.0.
+imageLink: https://github.com/jkunimune15/Map-Projections/blob/master/output/AuthaGraph.svg
 
 ---
 GBIC2: the 2nd Global Biodiversity Informatics Conference
 ===================
 
-_Delivering biodiversity knowledge in the information age_
-
 > Delegates to the 2nd Global Biodiversity Informatics Conference, or **GBIC2**, called for a global [_alliance for biodiversity knowledge_](https://www.allianceforbio.org] to align efforts to deliver current, accurate and comprehensive data, information and knowledge on the world’s biodiversity. The website for this ongoing effort has now been established at [allianceforbio.org](https://www.allianceforbio.org).
 
 The first GBIC conference took place in Copenhagen, Denmark in July 2012 and led to the publication of the _Global Biodiversity Informatics Outlook_, or ([GBIO](./gbio)), which laid out a vision of the major areas where biodiversity informatics needed to advance. 
 
-> Looking for the GBIO report? [Find it here >](https://www.gbif.org/document/80859)
+This alliance is open to all institutions, agencies, organizations, researchers and communities working to measure and monitor biodiversity or dependent on accurate information on biodiversity. By joining forces, every stakeholder will benefit from free and open access to the best possible evidence to address questions at all scales.
 
-The GBIO vision remains as relevant today, given that the scientific community continues to wrestle with the magnitude of the task of describing the diversity of life, documenting the complexity of its functions and improving planning related to natural resources, at all scales, in order for society to achieve the Sustainable Development Goals. Biodiversity knowledge and understanding can and should be organized as linked, open, accessible and resilient digital resources that support all of these needs.
+Join us in the next phase—help us in aligning resources and investments in biodiversity informatics to improve knowledge of the world's species and understanding of the dynamics of natural systems in support of a sustainable future for science and society.
 
-In the years since GBIC, the global community has made significant advances in some of these areas, but progress is uneven. There are many factors contributing to this, including culture and sociology as well as technology, but a key issue is the nature of funding for relevant activity. Researchers and practitioners advance biodiversity informatics largely through small- to medium-scale projects, initiated in response to local interests and priorities. This leads to a proliferation of standards, tools and processes which do not combine into a fully interoperable whole.
+> Questions? Comments? Want to get involved? [Email us](mailto:alliance@gbif.org).
+
+---
 
 [Recent efforts](./background) have repeatedly identified the need for biodiversity informatics stakeholders to collaborate at a global scale to identify common priorities and coordinate implementation of these priorities.
 
@@ -34,4 +34,4 @@ GBIC2 convened a broad group of invited stakeholders to discuss how an internati
 + [Integrated occurrence data](/en/programme/occurrence-data)
 + [Trends and predictions](/en/programme/trends)
 
-**While attendance was necessarily limited, and discussions were conducted entirely in English, GBIC2 represented just the opening stage of a broader consultation process**. The recommendations and outcomes resulting from the workshop have been established at [allianceforbio.org](https://www.allianceforbio.org) and translated into multiple languages.
+**While attendance was necessarily limited, and discussions were conducted entirely in English, GBIC2 represented just the opening stage of a broader consultation process**. The recommendations and [outcomes](https://doi.org/10.3897/BDJ.7.e33679) resulting from the workshop have been established at [allianceforbio.org](https://www.allianceforbio.org) and translated into multiple languages.

@@ -16,5 +16,5 @@ module.exports = {
         iconsSrc: ['./bower_components/gbif-ssg/bower_build/icons/**/*.svg', src + '/icons/**/*.*'],
         template: './bower_components/gbif-ssg/bower_build/icons/fonttemplate.styl'
     },
-    googleAnalyticsId: 'none provided - kyle remmeber to add this'
+    googleAnalyticsId: 'UA-42057855-7'
 };

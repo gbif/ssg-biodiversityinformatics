@@ -1,55 +1,117 @@
 # Language translations for shared variables across pages. I.e. navigation buttons, skip links etc.
 
 siteName:
-  en: GBIC2
-  es: GBIC2
-  fr: GBIC2
-  pt: GBIC2
-
+  en: an alliance for biodiversity knowledge 
+  ar: تحالف لمعرفة التنوع البيولوجي
+  ca: una aliança per al coneixement de la biodiversitat
+  es: una alianza para el conocimiento de la biodiversidad
+  eu: biodibertsitatea ezagutzeko aliantza
+  fr: une alliance pour la connaissance de la biodiversité
+  ja: 生物多様性の知識のための同盟
+  nl: een alliantie voor kennis over biodiversiteit
+  pt: uma aliança pelo conhecimento da biodiversidade
+  ru: альянс знаний по биоразнообразию
+  zh: 生物多样性知识联盟
+  zh-tw: 一個生物多樣性知識的聯盟
+  
 NavSearch:
   en: Search
+  ar: البحث
+  ca: Cerca
   es: Buscar
+  eu: Arakatu
   fr: Chercher
+  ja: 検索
+  nl: Zoek
   pt: Pesquisar
-
+  ru: Поиск
+  zh: 搜寻
+  zh-tw: 搜尋
+  
 NavMenu:
   en: Menu
+  ar: القائمه
+  ca: Menú
   es: Menú
+  eu: Menu
   fr: Menu
+  ja: メニュー
+  nl: Menu
   pt: Cardápio
-
+  ru: Меню
+  zh: 菜单
+  zh-tw: 功能表
+  
 searchPlaceholder:
   en: Search...
+  ar: ...البحث
+  ca: Cerca...
   es: Buscar...
+  eu: Arakatu...
   fr: Chercher...
+  ja: 検索
+  nl: Zoek...
   pt: Pesquisar...
-
+  ru: Поиск...
+  zh: 搜寻
+  zh-tw: 搜尋
+    
 skipLink:
   en: Skip to main content
+  ar: انتقل إلى المحتوي الرئيسي
+  ca: Saltar al contingut principal
   es: Saltar al contenido principal
+  eu: Edukin nagusira joan
   fr: Passer au contenu principal
+  ja: メインコンテンツへスキップ
+  nl: Ga naar hoofdinhoud
   pt: Ir para o conteúdo principal
-
+  ru: Перейти к основному содержанию
+  zh: 跳转到主要内容
+  zh-tw: 
+  
 languageSelector_title:
   en: Select language
+  ar: اختر اللغة
+  ca: Seleccioneu idioma
   es: Seleccione el idioma
+  eu: Hautatu hizkuntza
   fr: Choisir la langue
+  ja: 言語の選択
+  nl: Taal selecteren
   pt: Selecione o idioma
-
+  ru: Выберите язык
+  zh: 选择语言
+  zh-tw: 
+  
 translationNotAvailable:
   en: This text is not available in English
+  ar: الترجمة غير متوفرة باللغة العربية
+  ca: Aquest text no està disponible en català
   es: Este texto no está disponible en español
+  eu: Testu hau ez dago erabilgarri euskaraz
   fr: Cette page n’est pas disponible en français
+  ja: このテキストは日本語では使用できません。
+  nl: Deze pagina is niet beschikbaar in het Nederlands
   pt: Esta página não está disponível em Português
-
+  ru: Этот текст не доступен на русском языке
+  zh: 此文本不适用于简体中文
+  zh-tw: 此文本在 繁體中文
+  
 cannotFindInformation:
   en: Cannot find what you are looking for? Feel free to contact us.
-  es: Cannot find what you are looking for? Feel free to contact us.
-  fr: Cannot find what you are looking for? Feel free to contact us.
-  pt: Cannot find what you are looking for? Feel free to contact us.
-
-
-
+  ar: لا يمكن العثور علي ما كنت تبحث عنه ؟ لا تتردد في الاتصال بنا
+  ca: No trobes el que busques? No dubti en contactar amb nosaltres.
+  es: ¿No encuentras lo que buscas? Siéntase libre de contactarnos.
+  eu: Ezin duzu bilatu zer bilatzen ari zaren? Jar zaitez gurekin harremanetan.
+  fr: Vous ne trouvez pas ce que vous cherchez? N hésitez pas à nous contacter.
+  ja: 探しているものが見つかりませんか?お気軽にご連絡ください。
+  nl: U niet vinden wat u zoekt? Neem dan geRust contact met ons op.
+  pt: Não consegue encontrar o que procura? Sinta-se livre para entrar em contato conosco.
+  ru: Не можете найти то, что ищете? Не стесняйтесь связаться с нами.
+  zh: 找不到您要找的内容？请随时与我们联系。
+  zh-tw: 此文本在 繁體中文
+  
 # The format is
 # key:
 #   languageKey: translation
