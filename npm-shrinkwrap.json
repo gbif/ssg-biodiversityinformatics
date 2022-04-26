@@ -308,7 +308,7 @@
       }
     },
     "gbif-ssg": {
-      "version": "git://github.com/gbif/ssg.git#b6b55d8ed08c3f2609d3687013dd83f2ff372f2a",
+      "version": "https://github.com/gbif/ssg.git#b6b55d8ed08c3f2609d3687013dd83f2ff372f2a",
       "from": "gbif/ssg#b6b55d8ed08c3f2609d3687013dd83f2ff372f2a",
       "dependencies": {
         "a-sync-waterfall": {
