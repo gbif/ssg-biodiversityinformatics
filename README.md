@@ -1,5 +1,5 @@
 # alliance
-A subsite for the alliance using a static site generator. Deprecated by Wix-based site at https://allianceforbio.org. Content rolled back to serve as an archive version (roughly circa Aug-Sept 2018) of the GBIC2 conference site.
+A subsite for GBIC2 (subsequently repurposed for the _alliance_) using a static site generator. The _alliance_ version of the site is deprecated by Wix-based site at https://allianceforbio.org, and content rolled back to serve as an archive version (circa Aug-Sept 2018) for the GBIC2 event site.
 
 For general usage about using the static site see to [example site](ssg.gbif-uat.org).
 
